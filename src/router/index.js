@@ -56,11 +56,72 @@ export const constantRoutes = [
   },
 
   {
+    path: '/xian',
+    component: Layout,
+    redirect: '/xian/note',
+    name: 'xian-note',
+    meta: {
+      title: '西安工业大学',
+      icon: 'nested'
+    },
+    children: [
+      {
+        path: '/xian/note',
+        component: () => import('@/views/xian/note/index'), // Parent router-view
+        name: 'XianNote',
+        meta: { title: '笔记' }
+      },
+      {
+        path: '/xian/suanfa',
+        component: () => import('@/views/xian/suanfa/index'),
+        name: 'xian-suanfa',
+        meta: { title: '算法与数据结构' }
+      },
+      {
+        path: '/xian/cpp',
+        component: () => import('@/views/xian/cpp/index'),
+        name: 'xian-cpp',
+        meta: { title: '面向对象技术与c++' }
+      },
+      {
+        path: '/xian/jizu',
+        component: () => import('@/views/xian/jizu/index'),
+        name: 'xian-jizu',
+        meta: { title: '计算机组成与体系结构考试' }
+      },
+      {
+        path: '/xian/maoshe',
+        component: () => import('@/views/xian/3qi/maoshe/index'),
+        name: 'xian-maoshe',
+        meta: { title: '毛社' }
+      },
+      {
+        path: '/xian/huibian',
+        component: () => import('@/views/xian/3qi/huibian/index'),
+        name: 'xian-huibian',
+        meta: { title: '汇编语言与微机接口' }
+      },
+      {
+        path: '/xian/os',
+        component: () => import('@/views/xian/3qi/os/index'),
+        name: 'xian-os',
+        meta: { title: '操作系统' }
+      },
+      {
+        path: '/xian/sql',
+        component: () => import('@/views/xian/3qi/sql/index'),
+        name: 'xian-sql',
+        meta: { title: '数据库原理及应用' }
+      }
+    ]
+  },
+
+  {
     path: '/example',
     component: Layout,
     redirect: '/example/table',
     name: 'Example',
-    meta: { title: 'Example', icon: 'el-icon-s-help' },
+    meta: { title: '示例', icon: 'el-icon-s-help' },
     children: [
       {
         path: 'table',
@@ -85,7 +146,7 @@ export const constantRoutes = [
         path: 'index',
         name: 'Form',
         component: () => import('@/views/form/index'),
-        meta: { title: 'Form', icon: 'form' }
+        meta: { title: '表单', icon: 'form' }
       }
     ]
   },
@@ -155,7 +216,7 @@ export const constantRoutes = [
     children: [
       {
         path: 'https://panjiachen.github.io/vue-element-admin-site/#/',
-        meta: { title: 'External Link', icon: 'link' }
+        meta: { title: '文档链接', icon: 'link' }
       }
     ]
   },

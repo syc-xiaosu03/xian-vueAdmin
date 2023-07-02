@@ -1,0 +1,15 @@
+{
+  "tpcId": 377,
+  "curriculumid": 289,
+  "chapterid": 29865,
+  "type": 3,
+  "answer": [
+    { "id": 108045, "retAnswer": "D" },
+    { "id": 108046, "retAnswer": "D" },
+    { "id": 108047, "retAnswer": "C" },
+    { "id": 108048, "retAnswer": "B" },
+    { "id": 108049, "retAnswer": "D" },
+    { "id": 108050, "retAnswer": "C" },
+    { "id": 108051, "retAnswer": "C" }
+  ]
+}

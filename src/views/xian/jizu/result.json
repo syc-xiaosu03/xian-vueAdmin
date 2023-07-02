@@ -1,0 +1,953 @@
+{
+  "success": true,
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "paperId": 2146996437,
+    "examId": 2141352575,
+    "paperContents": [
+      {
+        "questionId": 46718,
+        "title": "<p>完整的计算机系统应包括（）。</p>",
+        "answersNumber": ["<p>配套的硬件设备和软件系统</p>"],
+        "options": [
+          "<p>运算器、存储器、控制器</p>",
+          "<p>外部设备和主机</p>",
+          "<p>主机和应用程序</p>",
+          "<p>配套的硬件设备和软件系统</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46719,
+        "title": "<p>冯·诺依曼机的基本工作方式是（）。</p>",
+        "answersNumber": ["<p>控制流驱动方式</p>"],
+        "options": [
+          "<p>控制流驱动方式</p>",
+          "<p>多指令多数据流方式</p>",
+          "<p>微程序控制方式</p>",
+          "<p>数据流驱动方式</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46732,
+        "title": "<p>关于固态硬盘（SSD）下列说法错误的是（）。</p>",
+        "answersNumber": ["<p>SSD不易磨损</p>"],
+        "options": [
+          "<p>SSD是基于闪存的存储技术</p>",
+          "<p>顺序读和写性能相当，顺序读比顺序写稍微快一点</p>",
+          "<p>随机写很慢</p>",
+          "<p>SSD不易磨损</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46740,
+        "title": "<p>为使虚拟存储系统有效地发挥其预期的作用，所运行程序应具有的特性是（）。</p>",
+        "answersNumber": ["<p>应具有较好的局部性</p>"],
+        "options": [
+          "<p>不应含有过多的I/O操作</p>",
+          "<p>大小不应小于实际的内存容量</p>",
+          "<p>应具有较好的局部性</p>",
+          "<p>顺序执行的指令不应过多</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46722,
+        "title": "<p>n位定点整数（有符号）表示的最大值是（）。</p>",
+        "answersNumber": [
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/6f51954a-ac83-4184-a138-b59430db3f32.png'></p>"
+        ],
+        "options": [
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/6d1ef998-ab19-4784-93b8-0167e1153ac0.png'></p>",
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/de82de89-6aa4-4436-9e14-f9a456fc6c98.png'></p>",
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/6ba894f7-a97f-4f58-a9c4-bd85b3604cf0.png'></p>",
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/6f51954a-ac83-4184-a138-b59430db3f32.png'></p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46730,
+        "title": "<p>一个磁盘的转速为7200转/分，每个磁道有160个扇区，每个扇区有512字节，则在理想情况下，其数据传输率为（）。</p>",
+        "answersNumber": ["<p>9600KB/s</p>"],
+        "options": [
+          "<p>7200×160KB/s</p>",
+          "<p>7200KB/s</p>",
+          "<p>9600KB/s</p>",
+          "<p>19200KB/s</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46720,
+        "title": "<p>下列关于“兼容”的叙述，正确的是（）。</p>",
+        "answersNumber": [
+          "<p>指计算机软件或硬件的通用性，通常在同一系列不同型号的计算机间通用</p>"
+        ],
+        "options": [
+          "<p>指计算机软件与硬件之间的通用性，通常在同一系列不同型号的计算机间存在</p>",
+          "<p>指计算机软件或硬件的通用性，即它们在任何计算机间可以通用</p>",
+          "<p>指计算机软件或硬件的通用性，通常在同一系列不同型号的计算机间通用</p>",
+          "<p>指软件在不同系列计算机中可以通用，而硬件不能通用</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46724,
+        "title": "<p>关于模4补码，下列说法正确的是（）。</p>",
+        "answersNumber": ["<p>每个模4补码存储时只需一个符号位</p>"],
+        "options": [
+          "<p>每个模4补码存储时只需一个符号位</p>",
+          "<p>模4补码和模2补码不同，它更容易检查乘除运算中的溢出问题</p>",
+          "<p>存储每个模4补码需要两个符号位</p>",
+          "<p>模4补码，在算术与逻辑部件中为一个符号位</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46735,
+        "title": "<p>若磁盘转速为7200转/分，平均寻道时间为8ms，每个磁道包含1000个扇区，则访问一个扇区的平均存取时间大约是（）。</p>",
+        "answersNumber": ["<p>12.2ms</p>"],
+        "options": [
+          "<p>16.3ms</p>",
+          "<p>8.1ms</p>",
+          "<p>12.2ms</p>",
+          "<p>20.5ms</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46736,
+        "title": "<p>下列关于磁盘存储器的叙述中，错误的是（）。</p>",
+        "answersNumber": ["<p>磁盘存储器的最小读写单位为1字节</p>"],
+        "options": [
+          "<p>磁盘的格式化容量比非格式化容量小</p>",
+          "<p>扇区中包含数据、地址和校验等信息</p>",
+          "<p>磁盘存储器的最小读写单位为1字节</p>",
+          "<p>磁盘存储器由磁盘控制器、磁盘驱动器和盘片组成</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 7, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 46747,
+        "title": "<p>关于编译程序和解释程序，下列说法中正确的是（）。</p>",
+        "answersNumber": [
+          "<p>编译程序和解释程序的作用都是将高级语言程序转换成机器语言程序</p>",
+          "<p>编译程序编译时间较长，运行速度较快</p>",
+          "<p>解释程序将源程序翻译成机器语言，并且翻译一条以后，立即执行这条语句</p>"
+        ],
+        "options": [
+          "<p>编译程序编译时间较长，运行速度较快</p>",
+          "<p>编译程序和解释程序的作用都是将高级语言程序转换成机器语言程序</p>",
+          "<p>解释程序方法较简单，运行速度也较快</p>",
+          "<p>解释程序将源程序翻译成机器语言，并且翻译一条以后，立即执行这条语句</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 6, "levelNumber": 1 }
+          ]
+        }
+      },
+      {
+        "questionId": 46762,
+        "title": "<p>关于原码乘法，下列说法不正确的是（）。</p>",
+        "answersNumber": [
+          "<p>用原码表示操作数，然后直接相乘</p>",
+          "<p>被乘数用原码表示，乘数去绝对值，然后相乘</p>",
+          "<p>乘数用原码表示，被乘数去绝对值，然后相乘</p>"
+        ],
+        "options": [
+          "<p>先取操作数绝对值相乘，符号位单独处理</p>",
+          "<p>用原码表示操作数，然后直接相乘</p>",
+          "<p>被乘数用原码表示，乘数去绝对值，然后相乘</p>",
+          "<p>乘数用原码表示，被乘数去绝对值，然后相乘</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 6, "levelNumber": 1 }
+          ]
+        }
+      },
+      {
+        "questionId": 46957,
+        "title": "<p>判断加减法溢出时，可采用判断进位的方式，若符号位的进位为<img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/d6269c0c-c755-4dd0-8cbc-6f15a51f4713.png'>，最高位的进位为<img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/36c893b6-4a53-4b0f-8f66-36c584bfc1da.png'>，则产生溢出的条件是（）。</p>",
+        "answersNumber": [
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/ce162f40-9e9c-4d30-aba5-bbd4e420f062.png'>产生进位，<img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/06015c4e-7d34-40d3-80b2-c4373ab9559b.png'>不产生进位</p>",
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/d24cab45-d4a9-4857-b810-e7cc7be054db.png'>不产生进位，<img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/e359aa09-0103-44c5-bf73-dee77e74eb32.png'>产生进位</p>"
+        ],
+        "options": [
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/b9090e00-5322-4efc-b889-b8b858960245.png'>都产生进位</p>",
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/88bc21b6-6ff8-4f01-8bff-dbec306db37f.png'>都不产生进位</p>",
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/ce162f40-9e9c-4d30-aba5-bbd4e420f062.png'>产生进位，<img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/06015c4e-7d34-40d3-80b2-c4373ab9559b.png'>不产生进位</p>",
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/d24cab45-d4a9-4857-b810-e7cc7be054db.png'>不产生进位，<img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/e359aa09-0103-44c5-bf73-dee77e74eb32.png'>产生进位</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 6, "levelNumber": 1 }
+          ]
+        }
+      },
+      {
+        "questionId": 46750,
+        "title": "<p>下列关于补码和移码关系的叙述中，（）是正确的。</p>",
+        "answersNumber": [
+          "<p>相同位数的补码和移码表示具有相同的数据表示范围</p>",
+          "<p>同一个数的补码和移码表示，其数值部分相同，而符号相反</p>",
+          "<p>一般用移码表示浮点数的阶，而补码表示定点整数</p>"
+        ],
+        "options": [
+          "<p>相同位数的补码和移码表示具有相同的数据表示范围</p>",
+          "<p>零的补码和移码表示相同</p>",
+          "<p>同一个数的补码和移码表示，其数值部分相同，而符号相反</p>",
+          "<p>一般用移码表示浮点数的阶，而补码表示定点整数</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 6, "levelNumber": 1 }
+          ]
+        }
+      },
+      {
+        "questionId": 46754,
+        "title": "<p>下列关于舍入的说法，不正确的是（）。</p>",
+        "answersNumber": [
+          "<p>不仅仅只有浮点数需要舍入，定点数在运算时也可能要舍入</p>",
+          "<p>在浮点数舍入中，只有左规格化时可能要舍入</p>",
+          "<p>在浮点数舍入中，只有右规格化时可能要舍入</p>"
+        ],
+        "options": [
+          "<p>在浮点数舍入中，只有左规格化时可能要舍入</p>",
+          "<p>不仅仅只有浮点数需要舍入，定点数在运算时也可能要舍入</p>",
+          "<p>在浮点数舍入中，只有右规格化时可能要舍入</p>",
+          "<p>舍入不一定产生误差</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 6, "levelNumber": 1 }
+          ]
+        }
+      },
+      {
+        "questionId": 47148,
+        "title": "<p>只有定点数运算才可能溢出,浮点数运算不会产生溢出。</p>",
+        "answersNumber": ["错"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47145,
+        "title": "<p>EPROM是指光擦可编程的只读存储器。</p>",
+        "answersNumber": ["对"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47134,
+        "title": "<p>计算机中采用多级存储系统的目的是为了解决存储器容量、速度、价格之间的矛盾,取得尽可能理想的性能价格比。</p>",
+        "answersNumber": ["对"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47165,
+        "title": "<p>RISC的中文含义是 精简指令系统计算机,CISC的中文含义是复杂指令系统计算机。</p>",
+        "answersNumber": ["对"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47142,
+        "title": "<p>某计算机按字节编址，指令字长固定且只有两种指令格式，其中三地址指令29条、二地址指令107条，每个地址字段为6位，则指令字长至少应该是24位。</p>",
+        "answersNumber": ["对"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47158,
+        "title": "<p>某计算机有16个通用寄存器，采用32位定长指令字，操作码字段(含寻址方式位）为8位，Store指令的源操作数和目的操作数分别采用寄存器直接寻址和基址寻址方式。若基址寄存器可使用任一通用寄存器，且偏移量用补码表示，则Store指令中偏移量的取值范围是-32768～+32767。</p>",
+        "answersNumber": ["对"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47140,
+        "title": "<p>某存储系统中，主存容量是Cache容量的4096倍，Cache被分为64个块，当主存地址和Cache地址采用直接映像方式时，地址映射表的大小应为64×13bit。(假设不考虑一致维护和替换算法位)</p>",
+        "answersNumber": ["对"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47155,
+        "title": "<p>某单片机的系统程序,不允许用户在执行时改变,则可以选用闪速存储器作为存储芯片。</p>",
+        "answersNumber": ["对"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47139,
+        "title": "<p>某32位计算机的Cache容量为16KB，Cache行的大小为16B，若主存与Cache地址映像采用直接映像方式，则主存地址为0x1234E8F8的单元装入Cache的地址是00010001001101。</p>",
+        "answersNumber": ["错"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47141,
+        "title": "<p>虚拟存储器中的页表有快表和慢表之分，快表与慢表都存储在主存中，但快表比慢表容量小。</p>",
+        "answersNumber": ["错"],
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 2
+            },
+            { "difficultyLevelName": "难", "maxNumber": 7, "levelNumber": 2 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 4 }
+          ]
+        }
+      },
+      {
+        "questionId": 47040,
+        "title": "<p>存放欲执行指令的寄存器是（）。</p>",
+        "answersNumber": ["IR"],
+        "options": [],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "较易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 47042,
+        "title": "<p>8位原码能表示的不同数据有（）。个</p>",
+        "answersNumber": ["255"],
+        "options": [],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "较易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 47048,
+        "title": "<p>主存和CPU之间增加Cache的目的是（）。</p>",
+        "answersNumber": ["解决主存和CPU之间的速度匹配问题"],
+        "options": [],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "较易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 47045,
+        "title": "<p>假定采用IEEE 754标准中的单精度浮点数格式表示一个数为45100000H，则该数的值是（）。</p>",
+        "answersNumber": [
+          "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/29d84979-007e-4c4b-b489-c6dcdef1334d.png'></P>"
+        ],
+        "options": [],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "较易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 47055,
+        "title": "<p>若由高速缓存、主存，硬盘构成的三级存储体系，则CPU访问该存储系统时发送的地址为（）。</p>",
+        "answersNumber": ["主存物理地址"],
+        "options": [],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "较易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 47177,
+        "title": "<p>什么是RISC?它有什么特点？</p>",
+        "answersNumber": [
+          "RISC是精简指令系统计算机，它有以下特点：<br/>（1）选取使用频率最高的一些简单指令，以及很有用但不复杂的指令。<br/>（2）指令长度固定，指令格式种类少，寻址方式种类少。<br/>（3）只有取数/存数指令访问存储器，其余指令的操作都在寄存器之间进行。<br/>（4）大部分指令在一个机器周期内完成。其意是指在采用流水线组织时每个机器周期内能完成一条指令功能，而并不是说一条指令从取指到完成指定功能只要一个机器周期。<br/>（5）CPU中通用寄存器数量相当多。<br/>（6）以硬布线控制为主，不用或少用微指令码控制。<br/>一般用高级语言编程，特别重视编译优化工作，以减少程序执行时间。"
+        ],
+        "options": [],
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 9,
+          "questionTypeName": "简答题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 5,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 2, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 2, "levelNumber": 0 },
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 1 }
+          ]
+        }
+      },
+      {
+        "questionId": 47334,
+        "title": "<p>某双面磁盘每面有220道,内层磁道周长70cm,位密度400位/cm,转速3000转/分,问:<br/>(1)磁盘存储容量是多少?<br/>(2)数据传输率是多少?</p>",
+        "answersNumber": [
+          "解:(1)每道信息量 = 400位/cm × 70cm = 28000位 = 3500B<br/>每面信息量 = 3500B × 220 = 770000B<br/>磁盘总容量 = 770000B × 2 = 1540000B<br/>(2)磁盘数据传输率(磁盘带宽)Dr = r × N<br/>N为每条磁道容量 N = 3500B<br/>r为磁盘转速 r = 3000 转/60s = 50转/s<br/>所以 Dr = 50/s × 3500B = 175000B/s"
+        ],
+        "options": [],
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 6,
+          "questionTypeName": "综合题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 8,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 5, "levelNumber": 1 }
+          ]
+        }
+      }
+    ],
+    "examPaperAnswerVoList": [],
+    "sysTime": "2022-12-28 16:54:54"
+  }
+}

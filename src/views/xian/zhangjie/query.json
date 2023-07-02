@@ -1,0 +1,88 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29865,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108045,108046,108047,108048,108049,108050,108051\"}",
+    "parent_id": 21635,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": false,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108045,
+        "questions": "<p>数据库中对访问权限的定义称为（）。</p>",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>审核</p>\"},{\"Key\":\"B\",\"Value\":\"<p>定义</p>\"},{\"Key\":\"C\",\"Value\":\"<p>命令</p>\"},{\"Key\":\"D\",\"Value\":\"<p>授权</p>\"}]",
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题"
+      },
+      {
+        "id": 108046,
+        "questions": "<p>假定学生关系是S(S#，SNAME，SEX，AGE)，课程关系是C(C#，CNAME，TEACHER)，学生选课关系是SC(S#，C#，GRADE)。要查找选修“COMPUTER”课程的“女”学生姓名，将涉及到关系（）。</p>",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>S</p>\"},{\"Key\":\"B\",\"Value\":\"<p>SC，C</p>\"},{\"Key\":\"C\",\"Value\":\"<p>S，SC</p>\"},{\"Key\":\"D\",\"Value\":\"<p>S，C，SC</p>\"}]",
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题"
+      },
+      {
+        "id": 108047,
+        "questions": "<p>下面列出的关于视图（View）的条目中，不正确的是（）。</p>",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>视图是外模式</p>\"},{\"Key\":\"B\",\"Value\":\"<p>视图是虚表</p>\"},{\"Key\":\"C\",\"Value\":\"<p>使用视图可以加快查询语句的执行速度</p>\"},{\"Key\":\"D\",\"Value\":\"<p>使用视图可以简化查询语句的编写</p>\"}]",
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题"
+      },
+      {
+        "id": 108048,
+        "questions": "<p>下列哪一条不是概念模型应具备的性质？（）</p>",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>有丰富的语义表达能</p>\"},{\"Key\":\"B\",\"Value\":\"<p>在计算机中实现的效率高</p>\"},{\"Key\":\"C\",\"Value\":\"<p>易于向各种数据模型转换</p>\"},{\"Key\":\"D\",\"Value\":\"<p>易于交流和理解</p>\"}]",
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题"
+      },
+      {
+        "id": 108049,
+        "questions": "<p>没有被商用DBMS实现的数据模型是（）。</p>",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>关系模型</p>\"},{\"Key\":\"B\",\"Value\":\"<p>层次模型</p>\"},{\"Key\":\"C\",\"Value\":\"<p>网状模型</p>\"},{\"Key\":\"D\",\"Value\":\"<p>E-R模型</p>\"}]",
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题"
+      },
+      {
+        "id": 108050,
+        "questions": "<p>封锁机制是实现数据库（）的主要方法。</p>",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>完整性</p>\"},{\"Key\":\"B\",\"Value\":\"<p>安全性</p>\"},{\"Key\":\"C\",\"Value\":\"<p>并发控制</p>\"},{\"Key\":\"D\",\"Value\":\"<p>保护</p>\"}]",
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题"
+      },
+      {
+        "id": 108051,
+        "questions": "<p>在数据库设计的需求分析阶段，描述数据与处理之间关系的方法是（）。</p>",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>E-R图</p>\"},{\"Key\":\"B\",\"Value\":\"<p>业务流程图</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据流图</p>\"},{\"Key\":\"D\",\"Value\":\"<p>程序框图</p>\"}]",
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题"
+      }
+    ]
+  }
+}

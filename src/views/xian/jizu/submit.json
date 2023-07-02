@@ -1,0 +1,109 @@
+{
+  "paperAnswers": [
+    { "answer": ["<p>配套的硬件设备和软件系统</p>"], "paperQuestionId": 46718 },
+    { "answer": ["<p>控制流驱动方式</p>"], "paperQuestionId": 46719 },
+    { "answer": ["<p>SSD不易磨损</p>"], "paperQuestionId": 46732 },
+    { "answer": ["<p>应具有较好的局部性</p>"], "paperQuestionId": 46740 },
+    {
+      "answer": [
+        "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/6f51954a-ac83-4184-a138-b59430db3f32.png'></p>"
+      ],
+      "paperQuestionId": 46722
+    },
+    { "answer": ["<p>9600KB/s</p>"], "paperQuestionId": 46730 },
+    {
+      "answer": [
+        "<p>指计算机软件或硬件的通用性，通常在同一系列不同型号的计算机间通用</p>"
+      ],
+      "paperQuestionId": 46720
+    },
+    {
+      "answer": ["<p>每个模4补码存储时只需一个符号位</p>"],
+      "paperQuestionId": 46724
+    },
+    { "answer": ["<p>12.2ms</p>"], "paperQuestionId": 46735 },
+    {
+      "answer": ["<p>磁盘存储器的最小读写单位为1字节</p>"],
+      "paperQuestionId": 46736
+    },
+    {
+      "answer": [
+        "<p>编译程序和解释程序的作用都是将高级语言程序转换成机器语言程序</p>",
+        "<p>编译程序编译时间较长，运行速度较快</p>",
+        "<p>解释程序将源程序翻译成机器语言，并且翻译一条以后，立即执行这条语句</p>"
+      ],
+      "paperQuestionId": 46747
+    },
+    {
+      "answer": [
+        "<p>用原码表示操作数，然后直接相乘</p>",
+        "<p>被乘数用原码表示，乘数去绝对值，然后相乘</p>",
+        "<p>乘数用原码表示，被乘数去绝对值，然后相乘</p>"
+      ],
+      "paperQuestionId": 46762
+    },
+    {
+      "answer": [
+        "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/ce162f40-9e9c-4d30-aba5-bbd4e420f062.png'>产生进位，<img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/06015c4e-7d34-40d3-80b2-c4373ab9559b.png'>不产生进位</p>",
+        "<p><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/d24cab45-d4a9-4857-b810-e7cc7be054db.png'>不产生进位，<img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/e359aa09-0103-44c5-bf73-dee77e74eb32.png'>产生进位</p>"
+      ],
+      "paperQuestionId": 46957
+    },
+    {
+      "answer": [
+        "<p>相同位数的补码和移码表示具有相同的数据表示范围</p>",
+        "<p>同一个数的补码和移码表示，其数值部分相同，而符号相反</p>",
+        "<p>一般用移码表示浮点数的阶，而补码表示定点整数</p>"
+      ],
+      "paperQuestionId": 46750
+    },
+    {
+      "answer": [
+        "<p>在浮点数舍入中，只有左规格化时可能要舍入</p>",
+        "<p>不仅仅只有浮点数需要舍入，定点数在运算时也可能要舍入</p>",
+        "<p>在浮点数舍入中，只有右规格化时可能要舍入</p>"
+      ],
+      "paperQuestionId": 46754
+    },
+    { "answer": ["错"], "paperQuestionId": 47148 },
+    { "answer": ["对"], "paperQuestionId": 47145 },
+    { "answer": ["对"], "paperQuestionId": 47134 },
+    { "answer": ["对"], "paperQuestionId": 47165 },
+    { "answer": ["对"], "paperQuestionId": 47142 },
+    { "answer": ["对"], "paperQuestionId": 47158 },
+    { "answer": ["对"], "paperQuestionId": 47140 },
+    { "answer": ["对"], "paperQuestionId": 47155 },
+    { "answer": ["错"], "paperQuestionId": 47139 },
+    { "answer": ["错"], "paperQuestionId": 47141 },
+    { "answer": ["<p>IR</p>"], "paperQuestionId": 47040 },
+    { "answer": ["<p>255</p>"], "paperQuestionId": 47042 },
+    {
+      "answer": ["<p>解决CPU与内存之间的速度匹配问题</p>"],
+      "paperQuestionId": 47048
+    },
+    {
+      "answer": [
+        "<p><img src=\"https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/984ad20d-7946-439c-be98-1cef54e6e5ce.png\"></p>"
+      ],
+      "paperQuestionId": 47045
+    },
+    { "answer": ["<p>主存物理地址</p>"], "paperQuestionId": 47055 },
+    {
+      "answer": [
+        "<p>答： RISC是精简指令系统计算机，它的特点有：</p><p>（1）选取使用频率最高的一些简单指令， 以及很有用且不复杂的指令</p><p>（2）指令长度固定，指令格式各类少，寻址方式种类少</p><p>（3）只有取数 / 存数指令访问存储器，其余指令的操作都在寄存器之间进行。</p><p>（4）大部分指令在一个机器周期内完成，其意思是指在采用流水线组织时，每个机器周期内能完成一条指令功能，而并不是说一条指令从取指到完成指定功能只要一个机器周期。</p><p>（5）CPU中通用寄存器数量相当多。</p><p>（6）以硬连线控制为主，不用或少用微指令码控制</p><p>（7）一般用高级语言编程，特别重视编译优化工作，以减少程序执行时间。</p>"
+      ],
+      "paperQuestionId": 47177
+    },
+    {
+      "answer": [
+        "<p>解：</p><p>(1）每道信息量 = 400位/cm × 70cm = 28000位 = 3500B</p><p>每面信息量 = 3500B × 220 = 770000B</p><p>磁盘总容量 = 770000B × 2 = 1540000B</p><p><br></p><p>(2）磁盘数据传输率(磁盘带宽)Dr = r × N</p><p>N为每条磁道容量 N = 3500B</p><p>r为磁盘转速 r = 3000 转/60s = 50转/s</p><p>所以 Dr = 50/s × 3500B = 175000B/s</p>"
+      ],
+      "paperQuestionId": 47334
+    }
+  ],
+  "paperId": 2146996437,
+  "paperStartTime": "2022-12-28 16:54:54",
+  "studentId": "39270",
+  "examId": 2141352575,
+  "remark": 2
+}
