@@ -1,0 +1,142 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 16230,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"103590,16704,103584,103582,16714,103579,16712,16711,16710,16709\"}",
+    "parent_id": 15490,
+    "curriculum_id": 284,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 16704,
+        "difficulty_level": "较易",
+        "question_type": 3,
+        "question_type_name": "判断题",
+        "options": null,
+        "questions": "<p>计算机系学生想到了下面这个消除死锁的有效方法：当某一进程请求一个资源时，规定一个时间限。如果进程由于得不到需要的资源而阻塞，定时器开始运行。当超过时间限时，进程会被释放掉，并且允许该进程重新运行。</p>",
+        "answer": "错",
+        "ret_answer": "错",
+        "isCorrect": true
+      },
+      {
+        "id": 16709,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>RR</p>\"},{\"Key\":\"B\",\"Value\":\"<p>FCFS</p>\"},{\"Key\":\"C\",\"Value\":\"<p>PR</p>\"},{\"Key\":\"D\",\"Value\":\"<p>SJF</p>\"}]",
+        "questions": "<p>可以模拟其它调度算法的调度算法是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 16710,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>7.4</p>\"},{\"Key\":\"B\",\"Value\":\"<p>8</p>\"},{\"Key\":\"C\",\"Value\":\"<p>7.2</p>\"},{\"Key\":\"D\",\"Value\":\"<p>其它</p>\"}]",
+        "questions": "<p>假设一个系统中有5个进程，它们到达的时间依次为0、2、4、6和8，运行时间依次为3、6、4、5和2。若按照抢占式短作业优先调度算法调度CPU，那么各进程的平均周转时间为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 16711,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>45ms</p>\"},{\"Key\":\"B\",\"Value\":\"<p>5ms</p>\"},{\"Key\":\"C\",\"Value\":\"<p>50ms</p>\"},{\"Key\":\"D\",\"Value\":\"<p>其它</p>\"}]",
+        "questions": "<p>在时间片轮转算法中，假如时间片大小为5ms，系统中处于就绪队列的进程有10个（运行期间没有新进程加入就绪队列），则最长的响应时间为（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 16712,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>循环等待条件</p>\"},{\"Key\":\"B\",\"Value\":\"<p>占有并等待条件</p>\"},{\"Key\":\"C\",\"Value\":\"<p>不可抢占条件</p>\"},{\"Key\":\"D\",\"Value\":\"<p>互斥条件</p>\"}]",
+        "questions": "<p>‎系统出现死锁时一定同时保持了四个必要条件，对资源采用按序分配算法后可破坏的条件是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 16714,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Max[i,j]=Allocation[i,j]-Need[i,j]</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Allocation[i,j]=Need[i,j]+Max[i,j]</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Max[i,j]=Available[i,j]+Need[i,j]</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Need[i,j]=Max[i,j]-Allocation[i,j]</p>\"}]",
+        "questions": "<p>银行家算法中的数据结构包括可用资源向量Available、最大需求矩阵Max、分配矩阵Allocation、需求矩阵Need，下列选项中表述正确的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 103579,
+        "difficulty_level": "较难",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>3</p>\"},{\"Key\":\"B\",\"Value\":\"<p>4</p>\"},{\"Key\":\"C\",\"Value\":\"<p>2</p>\"},{\"Key\":\"D\",\"Value\":\"<p>1</p>\"}]",
+        "questions": "<p>设某类资源有5个，由3个进程共享，要使系统不会死锁则每个进程最多可申请的资源数是（） 。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 103582,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>9</p>\"},{\"Key\":\"B\",\"Value\":\"<p>10</p>\"},{\"Key\":\"C\",\"Value\":\"<p>1</p>\"},{\"Key\":\"D\",\"Value\":\"<p>12</p>\"}]",
+        "questions": "<p>某系统中有3个并发进程，都需要同类资源4个，该系统不会发生死锁的最少资源数是（）个。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 103584,
+        "difficulty_level": "较难",
+        "question_type": 2,
+        "question_type_name": "多选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>进程降级的方法</p>\"},{\"Key\":\"B\",\"Value\":\"<p>每一队列的调度算法</p>\"},{\"Key\":\"C\",\"Value\":\"<p>进程升级的方法</p>\"},{\"Key\":\"D\",\"Value\":\"<p>队列数</p>\"}]",
+        "questions": "<p>多级反馈队列调度和多级队列调度相比，需要多考虑以下问题（）。</p>",
+        "answer": "AC",
+        "ret_answer": "AC",
+        "isCorrect": true
+      },
+      {
+        "id": 103590,
+        "difficulty_level": "易",
+        "question_type": 3,
+        "question_type_name": "判断题",
+        "options": null,
+        "questions": "<p>当检测出发生死锁时，可以通过撤销一个进程解除死锁。</p>",
+        "answer": "错",
+        "ret_answer": "错",
+        "isCorrect": true
+      }
+    ]
+  }
+}

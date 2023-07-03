@@ -1,0 +1,109 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29868,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108085,108086,108087,108088,108089,108090,108091\"}",
+    "parent_id": 28695,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108085,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>DBS包括DB和DBMS</p>\"},{\"Key\":\"B\",\"Value\":\"<p>DDMS包括DB和DBS</p>\"},{\"Key\":\"C\",\"Value\":\"<p>DB包括DBS和DBMS</p>\"},{\"Key\":\"D\",\"Value\":\"<p>DBS就是DB，也就是DBMS</p>\"}]",
+        "questions": "<p>数据库(DB)、数据库系统(DBS)和数据库管理系统(DBMS)三者之间的关系是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108086,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>课号，成绩</p>\"},{\"Key\":\"B\",\"Value\":\"<p>学号，成绩</p>\"},{\"Key\":\"C\",\"Value\":\"<p>学号，课号</p>\"},{\"Key\":\"D\",\"Value\":\"<p>学号，姓名，成绩</p>\"}]",
+        "questions": "<p>设有表示学生选课的三张表，学生S（学号，姓名，性别，年龄，身份证号），课程C（课号，课名），选课SC（学号，课号，成绩），则表SC的关键字（键或码）为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108087,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>S和SC</p>\"},{\"Key\":\"B\",\"Value\":\"<p>SC和C</p>\"},{\"Key\":\"C\",\"Value\":\"<p>S和C</p>\"},{\"Key\":\"D\",\"Value\":\"<p>S、SC和C</p>\"}]",
+        "questions": "<p>若要求查找“由张劲老师执教的数据库课程的平均成绩、最高成绩和最低成绩”，将使用关系（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108088,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>字段</p>\"},{\"Key\":\"B\",\"Value\":\"<p>元组</p>\"},{\"Key\":\"C\",\"Value\":\"<p>属性</p>\"},{\"Key\":\"D\",\"Value\":\"<p>成员</p>\"}]",
+        "questions": "<p>（）与“列”不同义。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108089,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>事务</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据大量冗余</p>\"},{\"Key\":\"C\",\"Value\":\"<p>日志文件和数据转储</p>\"},{\"Key\":\"D\",\"Value\":\"<p>数据查询</p>\"}]",
+        "questions": "<p>恢复的主要技术是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108090,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>需求分析</p>\"},{\"Key\":\"B\",\"Value\":\"<p>概念结构设计</p>\"},{\"Key\":\"C\",\"Value\":\"<p>逻辑结构设计</p>\"},{\"Key\":\"D\",\"Value\":\"<p>物理结构设计</p>\"}]",
+        "questions": "<p>存取方法设计是数据库设计的（）阶段的任务。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108091,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>文件的集合</p>\"},{\"Key\":\"B\",\"Value\":\"<p>记录的集合</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据的集合</p>\"},{\"Key\":\"D\",\"Value\":\"<p>记录及其联系的集合</p>\"}]",
+        "questions": "<p>数据模型是（ ）</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "paperAnswers": [
+    { "answer": ["<p>延迟时间</p>"], "paperQuestionId": 58699 },
+    { "answer": ["<p>计算机系统的交互性</p>"], "paperQuestionId": 58712 },
+    {
+      "answer": ["<p>在不同文件夹中，允许有相同名称的文件夹</p>"],
+      "paperQuestionId": 58719
+    },
+    {
+      "answer": ["<p>近期最长时间没有被访问的页面</p>"],
+      "paperQuestionId": 58725
+    },
+    { "answer": ["<p>有新进程进入就绪队列</p>"], "paperQuestionId": 161132 },
+    {
+      "answer": [
+        "<p>“我的电脑”右边空白处点右键选择“新键”点“文件夹”</p>",
+        "<p>“资源管理器”右边空白处点右键选择“新键”点“文件夹”</p>",
+        "<p>在桌面的空白处,点右键选“新键”点“文件夹”</p>"
+      ],
+      "paperQuestionId": 58906
+    },
+    {
+      "answer": [
+        "<p>从“开始”的“程序”找到该程序名并单击</p>",
+        "<p>在桌面建立快捷方式,双击该图标</p>",
+        "<p>从“开始”的“运行”输入该程序所在路径和程序名并运行</p>",
+        "<p>从“我的电脑”里找到该程序并运行</p>"
+      ],
+      "paperQuestionId": 58899
+    },
+    {
+      "answer": [
+        "<p>请求与保持</p>",
+        "<p>环路等待</p>",
+        "<p>互斥条件</p>",
+        "<p>不剥夺条件</p>"
+      ],
+      "paperQuestionId": 58918
+    },
+    { "answer": ["<p>记录</p>", "<p>文件</p>"], "paperQuestionId": 58900 },
+    {
+      "answer": [
+        "<p>按程序规定的顺序执行</p>",
+        "<p>与相关进程有依赖关系</p>",
+        "<p>可能被中断</p>"
+      ],
+      "paperQuestionId": 58920
+    },
+    { "answer": ["对"], "paperQuestionId": 161225 },
+    { "answer": ["对"], "paperQuestionId": 59189 },
+    { "answer": ["错"], "paperQuestionId": 59224 },
+    { "answer": ["对"], "paperQuestionId": 59222 },
+    { "answer": ["对"], "paperQuestionId": 59191 },
+    { "answer": ["错"], "paperQuestionId": 59192 },
+    { "answer": ["对"], "paperQuestionId": 161229 },
+    { "answer": ["错"], "paperQuestionId": 59220 },
+    { "answer": ["错"], "paperQuestionId": 59218 },
+    { "answer": ["错"], "paperQuestionId": 161232 },
+    { "answer": ["<p>接口</p>"], "paperQuestionId": 59087 },
+    { "answer": ["<p>链接文件</p>"], "paperQuestionId": 161268 },
+    { "answer": ["<p>缓冲技术</p>"], "paperQuestionId": 161266 },
+    { "answer": ["<p>交互性</p>"], "paperQuestionId": 59082 },
+    { "answer": ["<p>硬件</p>"], "paperQuestionId": 59090 },
+    {
+      "answer": [
+        "<p>产生死锁的四个必要条件是以下几点：</p><ol><li>互斥条件。进程要求对所分配的资源进行排它性控制，即在一段时间内某资源仅为一个进程所占有。</li><li>请求和保持条件。当进程因请求资源而阻塞时，对已获得的资源保持不放。</li><li>不剥夺条件。进程已获得的资源，在未使用完之前，不能被剥夺，只能在使用完后由自己释放。</li><li>环路等待条件。当发生死锁时，必然存在一个进程——资源的环形链。</li></ol>"
+      ],
+      "paperQuestionId": 59258
+    },
+    {
+      "answer": [
+        "<p>答: 按银行家算法是可以安全分配的</p><p>系统能为进程 P3 分配二台打印机。因为尽管此时 10 台打印机已分配给进程 P14台,P22 台和 P34 台,全部分配完,但 P3 已分配到所需要的全部4台打印机,它不会对打印机再提出申请,所以它能顺利运行下去,能释放占用的 4 台打印机,使进程 P1,P2 均可能获得剩余的要求 4 台和 5 台,按银行家算法是安全的。</p><p><img src=\"https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/3178eb3c-fab4-4d5c-b214-cedf40aea8a0.jpg\"></p>"
+      ],
+      "paperQuestionId": 59263
+    }
+  ],
+  "paperId": 2147554576,
+  "paperStartTime": "2023-07-03 20:12:12",
+  "studentId": "39270",
+  "examId": 2141353806,
+  "remark": 2,
+  "id": 2145862423
+}

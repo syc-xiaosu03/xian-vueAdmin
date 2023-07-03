@@ -1,0 +1,109 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29867,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108052,108053,108054,108055,108056,108057,108058\"}",
+    "parent_id": 28684,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108052,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>无关</p>\"},{\"Key\":\"B\",\"Value\":\"<p>关系不确定</p>\"},{\"Key\":\"C\",\"Value\":\"<p>部分相关</p>\"},{\"Key\":\"D\",\"Value\":\"<p>密切相关</p>\"}]",
+        "questions": "<p>物理结构设计阶段与具体的DBMS（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108053,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>(1)数据可以共享(或数据结构化)(2)数据独立性 (3)数据冗余大，易移植 (4)统一管理和控制</p>\"},{\"Key\":\"B\",\"Value\":\"<p>(1)数据可以共享(或数据结构化) (2)数据独立性 (3)数据冗余小，易扩充 (4)统一管理和控制</p>\"},{\"Key\":\"C\",\"Value\":\"<p>(1)数据可以共享(或数据结构化) (2)数据互换性 (3)数据冗余小，易扩充 (4)统一管理和控制</p>\"},{\"Key\":\"D\",\"Value\":\"<p>(1)数据非结构化(2)数据独立性 (3)数据冗余小，易扩充 (4)统一管理和控制</p>\"}]",
+        "questions": "<p>数据库的基本特点是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108054,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>DELETE</p>\"},{\"Key\":\"B\",\"Value\":\"<p>DROP</p>\"},{\"Key\":\"C\",\"Value\":\"<p>CLEAR</p>\"},{\"Key\":\"D\",\"Value\":\"<p>REMOVE</p>\"}]",
+        "questions": "<p>SQL语言中，删除一个表的命令是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108055,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>授权</p>\"},{\"Key\":\"B\",\"Value\":\"<p>封锁</p>\"},{\"Key\":\"C\",\"Value\":\"<p>日志</p>\"},{\"Key\":\"D\",\"Value\":\"<p>索引</p>\"}]",
+        "questions": "<p>下述哪一条是并发控制的主要方法（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108056,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>从职工表中删除行(‘025’，‘王芳’，‘03’，720)</p>\"},{\"Key\":\"B\",\"Value\":\"<p>将行(‘005，’，‘乔兴’，‘04’，750)插入到职工表中</p>\"},{\"Key\":\"C\",\"Value\":\"<p>将职工号为，‘001’的工资改为700</p>\"},{\"Key\":\"D\",\"Value\":\"<p>将职工号为，’038’的部门号改为‘03’</p>\"}]",
+        "questions": "<p>如下面的数据库的表中，若职工表的主关键字是职工号，部门表的主关键字是部门号，SQL操作（）不能执行。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108057,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>需求分析阶段</p>\"},{\"Key\":\"B\",\"Value\":\"<p>逻辑设计阶段</p>\"},{\"Key\":\"C\",\"Value\":\"<p>概念设计阶段</p>\"},{\"Key\":\"D\",\"Value\":\"<p>物理设计阶段</p>\"}]",
+        "questions": "<p>数据库设计中，用E-R图来描述信息结构但不涉及信息在计算机中的表示，它属于数据库设计的（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108058,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>不可再分</p>\"},{\"Key\":\"B\",\"Value\":\"<p>可再分</p>\"},{\"Key\":\"C\",\"Value\":\"<p>命名在该关系模式中可以不惟一</p>\"},{\"Key\":\"D\",\"Value\":\"<p>以上都不是</p>\"}]",
+        "questions": "<p>关系模式的任何属性（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ]
+  }
+}

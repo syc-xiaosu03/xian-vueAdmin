@@ -1,0 +1,109 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 16232,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"16706,16728,16727,16726,16725,16724,16723\"}",
+    "parent_id": 15602,
+    "curriculum_id": 284,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 16706,
+        "difficulty_level": "较易",
+        "question_type": 2,
+        "question_type_name": "多选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>存储保护</p>\"},{\"Key\":\"B\",\"Value\":\"<p>内存分配</p>\"},{\"Key\":\"C\",\"Value\":\"<p>地址转换（逻辑地址到物理地址）</p>\"},{\"Key\":\"D\",\"Value\":\"<p>内存回收</p>\"}]",
+        "questions": "<p>操作系统内存管理的主要功能包括（）。</p>",
+        "answer": "ABCD",
+        "ret_answer": "ABCD",
+        "isCorrect": true
+      },
+      {
+        "id": 16723,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>最坏适应分配算法</p>\"},{\"Key\":\"B\",\"Value\":\"<p>首次适应分配算法</p>\"},{\"Key\":\"C\",\"Value\":\"<p>随机适应分配算法</p>\"},{\"Key\":\"D\",\"Value\":\"<p>最优适应分配算法</p>\"}]",
+        "questions": "<p>每次分配时总是从低地址到高地址顺序查找空闲区表，找到第一个能满足作业长度要求的空闲区，此种分配算法称为（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 16724,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>位示图</p>\"},{\"Key\":\"B\",\"Value\":\"<p>页表</p>\"},{\"Key\":\"C\",\"Value\":\"<p>空闲区表</p>\"},{\"Key\":\"D\",\"Value\":\"<p>段表</p>\"}]",
+        "questions": "<p>‎在页式存储管理中，为了实现主存的空间分配，应设置（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 16725,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>作业被选中时</p>\"},{\"Key\":\"B\",\"Value\":\"<p>作业装入时</p>\"},{\"Key\":\"C\",\"Value\":\"<p>每执行一条指令时</p>\"},{\"Key\":\"D\",\"Value\":\"<p>每次被移动时</p>\"}]",
+        "questions": "<p>采用动态重定位方式装入的作业，其地址变换工作是在（）完成的。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 16726,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>可变分区管理常采用的主存分配算法包括首次适应、最佳适应和最坏适应等算法</p>\"},{\"Key\":\"B\",\"Value\":\"<p>最差适应算法总是挑选最大空闲区用于分割，使得剩下的分区仍可使用</p>\"},{\"Key\":\"C\",\"Value\":\"<p>首次适应算法实现简单，但碎片过多使主存空间利用率低</p>\"},{\"Key\":\"D\",\"Value\":\"<p>最佳适应算法是最好的算法，但后到的较大作业很难得到满足</p>\"}]",
+        "questions": "<p>以下有关可变分区管理中采用的主存分配算法说法错误的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 16727,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>80%</p>\"},{\"Key\":\"B\",\"Value\":\"<p>60%</p>\"},{\"Key\":\"C\",\"Value\":\"<p>70%</p>\"},{\"Key\":\"D\",\"Value\":\"<p>这三个都不对</p>\"}]",
+        "questions": "<p>一台计算机的进程在其地址空间有1024个页面，页表保存在内存中。从页表中读取一个字的开销是5n。为了减小这一开销，该计算机使用了TLB，它有32个（虚拟页面，物理页框）对，能在1ns内完成查找。请问把平均开销降到2ns需要的命中率为（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 16728,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>13</p>\"},{\"Key\":\"B\",\"Value\":\"<p>10</p>\"},{\"Key\":\"C\",\"Value\":\"<p>3</p>\"},{\"Key\":\"D\",\"Value\":\"<p>14</p>\"}]",
+        "questions": "<p>一个16位地址的分页系统中，页面大小为1KB。逻辑地址为0x35F7在第（）个页面中。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ]
+  }
+}

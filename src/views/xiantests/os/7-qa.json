@@ -1,0 +1,109 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 16234,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"16742,16741,16740,16739,16738,16737,16736\"}",
+    "parent_id": 15639,
+    "curriculum_id": 284,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 16736,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>系统调用</p>\"},{\"Key\":\"B\",\"Value\":\"<p>应用程序</p>\"},{\"Key\":\"C\",\"Value\":\"<p>用户接口</p>\"},{\"Key\":\"D\",\"Value\":\"<p>系统程序</p>\"}]",
+        "questions": "<p>操作系统为用户和应用程序提供服务的形式不包括（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 16737,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>系统调用是操作系统服务的编程接口。</p>\"},{\"Key\":\"B\",\"Value\":\"<p>系统调用的代码由操作系统提供。</p>\"},{\"Key\":\"C\",\"Value\":\"<p>系统调用可以在用户态运行。</p>\"},{\"Key\":\"D\",\"Value\":\"<p>系统调用提供了程序和操作系统之间的接口。</p>\"}]",
+        "questions": "<p>以下有关系统调用的描述，错误的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 16738,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>命令行接口</p>\"},{\"Key\":\"B\",\"Value\":\"<p>声控接口</p>\"},{\"Key\":\"C\",\"Value\":\"<p>图形化接口</p>\"},{\"Key\":\"D\",\"Value\":\"<p>其它</p>\"}]",
+        "questions": "<p>早期操作系统采用的人机交互接口是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 16739,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>声控接口</p>\"},{\"Key\":\"B\",\"Value\":\"<p>命令行接口</p>\"},{\"Key\":\"C\",\"Value\":\"<p>图形化接口</p>\"},{\"Key\":\"D\",\"Value\":\"<p>以上都有</p>\"}]",
+        "questions": "<p>智能手机采用的人机交互接口是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 16740,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>IOS</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Windows</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Linux</p>\"},{\"Key\":\"D\",\"Value\":\"<p>MS-DOS</p>\"}]",
+        "questions": "<p>采用简单结构的操作系统是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 16741,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>模块结构</p>\"},{\"Key\":\"B\",\"Value\":\"<p>层次结构</p>\"},{\"Key\":\"C\",\"Value\":\"<p>微内核</p>\"},{\"Key\":\"D\",\"Value\":\"<p>简单结构</p>\"}]",
+        "questions": "<p>大多数现代操作系统采用的结构是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 16742,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>应用操作系统</p>\"},{\"Key\":\"B\",\"Value\":\"<p>宿主操作系统</p>\"},{\"Key\":\"C\",\"Value\":\"<p>客户操作系统</p>\"},{\"Key\":\"D\",\"Value\":\"<p>嵌入操作系统</p>\"}]",
+        "questions": "<p>利用虚拟机安装在操作系统上的操作系统称为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ]
+  }
+}

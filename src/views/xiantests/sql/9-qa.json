@@ -1,0 +1,98 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29877,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108206,108208,108209,108210,108211,108212\"}",
+    "parent_id": 28762,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108206,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>自然连接</p>\"},{\"Key\":\"B\",\"Value\":\"<p>笛卡儿积</p>\"},{\"Key\":\"C\",\"Value\":\"<p>等值连接</p>\"},{\"Key\":\"D\",\"Value\":\"<p>θ连接</p>\"}]",
+        "questions": "<p>在关系代数的连接操作中，哪一种连接操作需要取消重复列？（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108208,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>模式</p>\"},{\"Key\":\"B\",\"Value\":\"<p>外模式</p>\"},{\"Key\":\"C\",\"Value\":\"<p>内模式</p>\"},{\"Key\":\"D\",\"Value\":\"<p>存储模式</p>\"}]",
+        "questions": "<p>（）是数据库中全部数据的逻辑结构和特征的描述。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108209,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>第一范式的</p>\"},{\"Key\":\"B\",\"Value\":\"<p>第二范式的</p>\"},{\"Key\":\"C\",\"Value\":\"<p>第三范式的</p>\"},{\"Key\":\"D\",\"Value\":\"<p>BCNF范式的</p>\"}]",
+        "questions": "<p>设有关系框架R(A,B,C,D)及其上的函数相关性集合F＝{B→A,BC→D},那么关系框架Ｒ最高是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108210,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>候选键是能唯一标识实体的属性集</p>\"},{\"Key\":\"B\",\"Value\":\"<p>每个实体最多只能有一个候选键</p>\"},{\"Key\":\"C\",\"Value\":\"<p>候选键能唯一决定一个元组</p>\"},{\"Key\":\"D\",\"Value\":\"<p>候选键一定是主键，主键不一定是候选键</p>\"}]",
+        "questions": "<p>以下关于候选键的说法，正确的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108211,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>数据查询</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据操纵</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据定义</p>\"},{\"Key\":\"D\",\"Value\":\"<p>数据控制</p>\"}]",
+        "questions": "<p>SQL语言集数据查询、数据操纵、数据定义和数据控制功能于一体，语句INSERT、DELETE、UPDATE实现哪类功能？（）</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108212,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>数据冗余</p>\"},{\"Key\":\"B\",\"Value\":\"<p>插入异常</p>\"},{\"Key\":\"C\",\"Value\":\"<p>删除异常</p>\"},{\"Key\":\"D\",\"Value\":\"<p>丢失修改</p>\"}]",
+        "questions": "<p>下列哪一条不是由于关系模式设计不当所引起的问题？（）</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      }
+    ]
+  }
+}

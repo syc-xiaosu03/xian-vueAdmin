@@ -1,0 +1,98 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29869,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108121,108122,108123,108124,108125,108126\"}",
+    "parent_id": 28707,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108121,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>错误数据</p>\"},{\"Key\":\"B\",\"Value\":\"<p>重复数据</p>\"},{\"Key\":\"C\",\"Value\":\"<p>过期数据</p>\"},{\"Key\":\"D\",\"Value\":\"<p>脏数据</p>\"}]",
+        "questions": "<p>在数据技术中，未提交的随后又被撤销的数据称为（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108122,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>数据定义功能</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据管理功能</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据操纵功能</p>\"},{\"Key\":\"D\",\"Value\":\"<p>数据控制功能</p>\"}]",
+        "questions": "<p>数据库管理系统能实现对数据库中数据的查询、插入、修改和删除等操作，这种功能称为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108123,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>2NF</p>\"},{\"Key\":\"B\",\"Value\":\"<p>3NF</p>\"},{\"Key\":\"C\",\"Value\":\"<p>4NF</p>\"},{\"Key\":\"D\",\"Value\":\"<p>BCNF</p>\"}]",
+        "questions": "<p>如果一个关系R中的所有非主属性都完全函数依赖于键码，则称关系R属于（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108124,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>数据库</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据库管理系统</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据模型</p>\"},{\"Key\":\"D\",\"Value\":\"<p>软件工具</p>\"}]",
+        "questions": "<p>数据库系统的核心是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108125,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>R1（学号，姓名，性别）</p>\"},{\"Key\":\"B\",\"Value\":\"<p>R2（学号，姓名，班级号）</p>\"},{\"Key\":\"C\",\"Value\":\"<p>R3（学号，姓名，宿舍号 )</p>\"},{\"Key\":\"D\",\"Value\":\"<p>R4（学号，姓名，简历）</p>\"}]",
+        "questions": "<p>在通常情况下，下面的关系中不可以作为关系数据库的关系是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108126,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>1个</p>\"},{\"Key\":\"B\",\"Value\":\"<p>2个</p>\"},{\"Key\":\"C\",\"Value\":\"<p>3个</p>\"},{\"Key\":\"D\",\"Value\":\"<p>任意多个</p>\"}]",
+        "questions": "<p>在数据库的三级模式结构中，内模式有（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ]
+  }
+}

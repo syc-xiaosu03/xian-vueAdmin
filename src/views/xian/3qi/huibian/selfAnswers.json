@@ -1,0 +1,85 @@
+{
+  "paperAnswers": [
+    { "answer": ["<p>16条双向线</p>"], "paperQuestionId": 128344 },
+    { "answer": ["<p>接口</p>"], "paperQuestionId": 128329 },
+    { "answer": ["<p>SP</p>"], "paperQuestionId": 128332 },
+    { "answer": ["<p>查询</p>"], "paperQuestionId": 128347 },
+    { "answer": ["<p>低 IN</p>"], "paperQuestionId": 128340 },
+    {
+      "answer": [
+        "<p>传送速度比DMA传递方式慢</p>",
+        "<p>以CPU为中心，由CPU控制数据的传送</p>",
+        "<p>有无条件传送、查询传送、中断传送三种方式</p>",
+        "<p>通过预先编制好的输入输出程序（传送指令和I/O指令）实现数据的传递</p>"
+      ],
+      "paperQuestionId": 128540
+    },
+    {
+      "answer": ["<p>AF</p>", "<p>OF</p>", "<p>SF</p>"],
+      "paperQuestionId": 128537
+    },
+    {
+      "answer": [
+        "<p>8237每个通道有单字节传送方式、数据块传送方式、请求传送方式和级联传输方式</p>",
+        "<p>8237中4个通道的方式寄存器共用一个端口地址</p>",
+        "<p>8237在固定优先级情况下，DREQ0优先级最高DDREQ3优先级最低</p>"
+      ],
+      "paperQuestionId": 128543
+    },
+    {
+      "answer": [
+        "<p>2732A有8条数据线</p>",
+        "<p>2732A有12条地址线</p>",
+        "<p>2732A有6种工作方式</p>",
+        "<p>当2732A处于读方式时，两条控制信号CE和OE同时为低电平</p>",
+        "<p>可以对多个并联的2732A用同样的数据进行编程</p>"
+      ],
+      "paperQuestionId": 128539
+    },
+    {
+      "answer": [
+        "<p>标志寄存器</p>",
+        "<p>通用寄存器</p>",
+        "<p>算术逻辑部件</p>",
+        "<p>EU控制系统</p>"
+      ],
+      "paperQuestionId": 128536
+    },
+    { "answer": ["对"], "paperQuestionId": 128629 },
+    { "answer": ["对"], "paperQuestionId": 128601 },
+    { "answer": ["错"], "paperQuestionId": 128638 },
+    { "answer": ["错"], "paperQuestionId": 128612 },
+    { "answer": ["对"], "paperQuestionId": 128631 },
+    { "answer": ["错"], "paperQuestionId": 128651 },
+    { "answer": ["错"], "paperQuestionId": 128614 },
+    { "answer": ["对"], "paperQuestionId": 128634 },
+    { "answer": ["对"], "paperQuestionId": 128623 },
+    { "answer": ["错"], "paperQuestionId": 128639 },
+    { "answer": ["<p>BIT</p>"], "paperQuestionId": 128799 },
+    { "answer": ["<p>8位</p>"], "paperQuestionId": 128802 },
+    { "answer": ["<p>寄存器间接寻址</p>"], "paperQuestionId": 128798 },
+    {
+      "answer": ["<p>5个中断源， 2级中断优先级别</p>"],
+      "paperQuestionId": 128804
+    },
+    { "answer": ["<p>基址加变址寻址</p>"], "paperQuestionId": 128787 },
+    {
+      "answer": [
+        "<p>统一编址和分段编址都是内存管理的方式，用于管理计算机系统中的内存。它们之间的区别在于内存地址的表示方式和管理方式不同。</p><p><br></p><p>统一编址：</p><p>存储器单元地址和I/O端口地址在同一个地址空间中分配。由于I/O端口地址占用存储器单元地址，减少了存储器的寻址空间，访问存储器单元和I/O端口可用相同的指令；</p><p>这种方式的优点是优点类型多，功能全、简单、易于实现，内存地址的转换也比较容易。但是，由于内存空间是连续的，因此，它的最大容量受到地址总线宽度的限制。</p><p><br></p><p>分别编址：</p><p>存储器单元地址和I/O端口地址在不同的地址空间中分配。存储器和I/O端口都独立且较大的寻址空间，CPU需要用门的控制线来识别是访问存储器还是访问I/O端口，访问存储器单元和I/O端口要用不相的指令。</p><p><span style=\\\"background-color: rgb(241, 242, 242); color: rgb(5, 14, 23);\\\">这种方式的优点是可以更灵活地管理内存，可以动态地分配和释放内存，同时也可以更好地保护内存，防止程序越界访问。但是，由于需要进行地址转换，因此分段编址的实现相对复杂。</span></p>"
+      ],
+      "paperQuestionId": 128952
+    },
+    {
+      "answer": [
+        "<p>相同点:</p><p>t1.内部均由EU、BIU两大局部组成,结构基本相同;</p><p>t2. 用户编程使用的存放器等功能部件均为16位; </p><p>t3. 内部数据通路为16位。</p><p>不同点:</p><p>t1. 对外数据总线8086为16位，8088为8位；</p><p>t2. 指令队列8086为6级，8088为4级。</p>"
+      ],
+      "paperQuestionId": 128967
+    }
+  ],
+  "paperId": 2147720516,
+  "paperStartTime": "2023-07-02 20:20:14",
+  "studentId": "39270",
+  "examId": 2141353813,
+  "remark": 1,
+  "id": 2145841791
+}

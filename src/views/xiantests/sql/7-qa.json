@@ -1,0 +1,87 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29875,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108181,108182,108183,108184,108185\"}",
+    "parent_id": 28754,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108181,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>重建</p>\"},{\"Key\":\"B\",\"Value\":\"<p>选取</p>\"},{\"Key\":\"C\",\"Value\":\"<p>投影</p>\"},{\"Key\":\"D\",\"Value\":\"<p>连接</p>\"}]",
+        "questions": "<p>在关系运算中，查找满足一定条件的元组的员算是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108182,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>书号</p>\"},{\"Key\":\"B\",\"Value\":\"<p>作者号</p>\"},{\"Key\":\"C\",\"Value\":\"<p>出版社号</p>\"},{\"Key\":\"D\",\"Value\":\"<p>书号，作者号</p>\"}]",
+        "questions": "<p>在书店的\"销售\"表中，定义了：书号，作者号，出版社号，价格等属性，其主码应是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108183,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Y函数依赖于X</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Y对X完全函数依赖</p>\"},{\"Key\":\"C\",\"Value\":\"<p>X为U的候选码</p>\"},{\"Key\":\"D\",\"Value\":\"<p>R属于2NF</p>\"}]",
+        "questions": "<p>设R(U)是属性集U上的关系模式.X,Y是U的子集.若对于R(U)的任意一个可能的关系r,r中不可能存在两个元组在X上的属性值相等,而在Y上的属性值不等,则称（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108184,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>数据</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据模型</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据以及数据之间的联系</p>\"},{\"Key\":\"D\",\"Value\":\"<p>信息</p>\"}]",
+        "questions": "<p>数据库中存储的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108185,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>具体的机器和DBMS</p>\"},{\"Key\":\"B\",\"Value\":\"<p>E-R图</p>\"},{\"Key\":\"C\",\"Value\":\"<p>信息世界</p>\"},{\"Key\":\"D\",\"Value\":\"<p>现实世界</p>\"}]",
+        "questions": "<p>数据库的概念模型独立于（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ]
+  }
+}

@@ -1,0 +1,98 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29878,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108249,108250,108251,108252,108253,108254\"}",
+    "parent_id": 28773,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108249,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>只能读不能写</p>\"},{\"Key\":\"B\",\"Value\":\"<p>只能写不能读</p>\"},{\"Key\":\"C\",\"Value\":\"<p>既可读又可写</p>\"},{\"Key\":\"D\",\"Value\":\"<p>不能读不能写</p>\"}]",
+        "questions": "<p>如果事务T获得了数据项Q上的排它锁，则T对Q（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108250,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>数据库结构</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据库管理系统</p>\"},{\"Key\":\"C\",\"Value\":\"<p>操作系统</p>\"},{\"Key\":\"D\",\"Value\":\"<p>数据模型</p>\"}]",
+        "questions": "<p>数据库系统的基础是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108251,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>层次数据库</p>\"},{\"Key\":\"B\",\"Value\":\"<p>网络数据库</p>\"},{\"Key\":\"C\",\"Value\":\"<p>关系数据库</p>\"},{\"Key\":\"D\",\"Value\":\"<p>非数据库</p>\"}]",
+        "questions": "<p>SQL语言是（）语言</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108252,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>’5021’,’刘洋’,男,21</p>\"},{\"Key\":\"B\",\"Value\":\"<p>NULL,’刘洋’,NULL,21</p>\"},{\"Key\":\"C\",\"Value\":\"<p>’5021’,’刘洋’,NULL,NULL</p>\"},{\"Key\":\"D\",\"Value\":\"<p>’5021’,NULL,男,21</p>\"}]",
+        "questions": "<p>用下面的DDL语句建立一个基本表，可以插入到表中的元组是（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108253,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>事务故障</p>\"},{\"Key\":\"B\",\"Value\":\"<p>程序故障</p>\"},{\"Key\":\"C\",\"Value\":\"<p>系统故障</p>\"},{\"Key\":\"D\",\"Value\":\"<p>介质故障</p>\"}]",
+        "questions": "<p>系统死锁属于（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108254,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>数据共享</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据分布</p>\"},{\"Key\":\"C\",\"Value\":\"<p>网络开销小</p>\"},{\"Key\":\"D\",\"Value\":\"<p>DBMS和应用分开</p>\"}]",
+        "questions": "<p>客户/服务器结构与其它数据库体系结构的根本区别在于（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      }
+    ]
+  }
+}

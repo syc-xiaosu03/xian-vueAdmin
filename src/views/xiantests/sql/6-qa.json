@@ -1,0 +1,109 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29873,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108174,108175,108176,108177,108178,108179,108180\"}",
+    "parent_id": 28738,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108174,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>实体集</p>\"},{\"Key\":\"B\",\"Value\":\"<p>属性</p>\"},{\"Key\":\"C\",\"Value\":\"<p>码</p>\"},{\"Key\":\"D\",\"Value\":\"<p>实体型</p>\"}]",
+        "questions": "<p>在概念模型中，实体所具有的某一特征称为（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108175,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>外模式改变不影响模式</p>\"},{\"Key\":\"B\",\"Value\":\"<p>模式改变不影响应用程序</p>\"},{\"Key\":\"C\",\"Value\":\"<p>模式改变不影响内模式</p>\"},{\"Key\":\"D\",\"Value\":\"<p>内模式改变不影响应用程序</p>\"}]",
+        "questions": "<p>数据库系统中，物理数据独立性是指（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108176,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>选择存取路径</p>\"},{\"Key\":\"B\",\"Value\":\"<p>选择存储结构</p>\"},{\"Key\":\"C\",\"Value\":\"<p>分析用户要求</p>\"},{\"Key\":\"D\",\"Value\":\"<p>确定存取方法</p>\"}]",
+        "questions": "<p>物理结构设计阶段的任务应考虑的主要因素不包括（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108177,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>GRANT QTY ON SPJ TO '李勇'</p>\"},{\"Key\":\"B\",\"Value\":\"<p>GRANT UPDATE(QTY) ON SPJ TO '李勇'</p>\"},{\"Key\":\"C\",\"Value\":\"<p>GRANT UPDATE (QTY) ON SPJ TO 李勇</p>\"},{\"Key\":\"D\",\"Value\":\"<p>GRANT UPDATE ON SPJ (QTY) TO 李勇</p>\"}]",
+        "questions": "<p>把对关系SPJ的属性QTY的修改权授予用户李勇的T-SQL语句是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108178,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>层次模型</p>\"},{\"Key\":\"B\",\"Value\":\"<p>关系模型</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据模型</p>\"},{\"Key\":\"D\",\"Value\":\"<p>实体模型</p>\"}]",
+        "questions": "<p>有且仅有一个结点无父结点的模型是（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108179,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>排除设备故障</p>\"},{\"Key\":\"B\",\"Value\":\"<p>恢复遭到破坏的数据库</p>\"},{\"Key\":\"C\",\"Value\":\"<p>修改不适当的库结构</p>\"},{\"Key\":\"D\",\"Value\":\"<p>修改应用程序</p>\"}]",
+        "questions": "<p>数据库维护阶段的故障维护工作是指（）</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108180,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>select</p>\"},{\"Key\":\"B\",\"Value\":\"<p>from</p>\"},{\"Key\":\"C\",\"Value\":\"<p>where</p>\"},{\"Key\":\"D\",\"Value\":\"<p>group by</p>\"}]",
+        "questions": "<p>在SQL语言的SELECT语句中，实现投影操作的是哪个子句？（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ]
+  }
+}

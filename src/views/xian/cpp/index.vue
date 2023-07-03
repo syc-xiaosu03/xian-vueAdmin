@@ -7,7 +7,7 @@
     <ul>
       <li>1: C  ---  B </li>
     </ul>
-    <QaList :resPropData="resData" />
+    <QaList :qalistProp="qalist" />
   </div>
 </template>
 
@@ -21,7 +21,12 @@ export default {
   components: { QaList },
   data() {
     return {
-      resData: res || null
+      // qalist: res || null
+    }
+  },
+  computed: {
+    qalist() {
+      return res.data?.paperContents || []
     }
   }
 }

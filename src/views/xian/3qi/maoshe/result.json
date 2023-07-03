@@ -3,945 +3,707 @@
   "errCode": 200,
   "message": "操作成功",
   "data": {
-    "paperId": 2146999315,
-    "examId": 2141352573,
+    "paperId": 2147546639,
+    "examId": 2141353810,
     "paperContents": [
       {
-        "questionId": 29856,
-        "title": "<p>在多继承中，公有派生和私有派生对于基类成员在派生类中的可访问性与单继承的规则（）。</p>",
-        "answersNumber": ["<p>完全相同</p>"],
+        "questionId": 5549,
+        "title": "<p>社会主义制度的发展和完善是一个（）的历史过程。</p>",
         "options": [
-          "<p>完全不同</p>",
-          "<p>完全相同</p>",
-          "<p>部分相同</p>",
-          "<p>以上都不对</p>"
+          "<p>长期</p>",
+          "<p>中期</p>",
+          "<p>短期</p>",
+          "<p>中短期</p>"
         ],
         "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51024,
-        "title": "<p>在下面表达式中，不表示虚继承的是（）。</p>",
-        "answersNumber": ["<p>public</p>"],
-        "options": [
-          "<p>virtualpublic</p>",
-          "<p>publicvirtual</p>",
-          "<p>public</p>",
-          "<p>virtual</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51030,
-        "title": "<p>在说明一个结构体变量时系统分配给它的存储空间是（）。</p>",
-        "answersNumber": ["<p>该结构体中所有成员所需存储空间的总和。</p>"],
-        "options": [
-          "<p>该结构体中所有成员所需存储空间的总和。</p>",
-          "<p>该结构体中占用最大存储空间的成员所需的存储空间</p>",
-          "<p>该结构体中第一个成员所需的存储空间</p>",
-          "<p>该结构体中最后一个成员所需的存储空间</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 29841,
-        "title": "<p>下列关于类与对象的说法中错误的是（）。</p>",
-        "answersNumber": ["<p>类与对象没有什么实际关系。</p>"],
-        "options": [
-          "<p>类是对某一类事物的抽象描述，而对象则是该类事物的个体。</p>",
-          "<p>对象是类的实例化。</p>",
-          "<p>类用于描述多个对象的共同特征它是对象的模板。</p>",
-          "<p>类与对象没有什么实际关系。</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51031,
-        "title": "<p>模板的使用是为了（）。</p>",
-        "answersNumber": ["<p>提高代码的可重用性</p>"],
-        "options": [
-          "<p>提高代码的运行效率</p>",
-          "<p>提高代码的可重用性</p>",
-          "<p>加强类的封装性</p>",
-          "<p>实现多态性</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 29859,
-        "title": "<p>不属于动态绑定实现条件的是（）。</p>",
-        "answersNumber": ["<p>在构造函数中调用虚函数</p>"],
-        "options": [
-          "<p>在构造函数中调用虚函数</p>",
-          "<p>虚函数声明</p>",
-          "<p>指向对象的指针或引用可调用虚函数</p>",
-          "<p>派生类中重定义虚函数</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 29855,
-        "title": "<p>当一个派生类公有继承一个基类时，基类中的所有公有成员成为派生类的（）。</p>",
-        "answersNumber": ["<p>public成员</p>"],
-        "options": [
-          "<p>private成员</p>",
-          "<p>友元</p>",
-          "<p>protected成员</p>",
-          "<p>public成员</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51035,
-        "title": "<p>C++语言中语句的结束符是（）。</p>",
-        "answersNumber": ["<p>;</p>"],
-        "options": ["<p>;</p>", "<p>,</p>", "<p>。</p>", "<p>、</p>"],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 29862,
-        "title": "<p>运算符重载是对已有的运算符赋予多重含义，以下说法正确的是（）。</p>",
-        "answersNumber": [
-          "<p>只能重载C++中已经有的运算符，不能定义新运算符</p>"
-        ],
-        "options": [
-          "<p>只能重载C++中已经有的运算符，不能定义新运算符</p>",
-          "<p>可以对基本类型（如int类型）的数据，重新定义'+'运算符的含义</p>",
-          "<p>可以改变一个已有运算符的优先级和操作数个数</p>",
-          "<p>C++中已经有的所有运算符都可以重载</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51026,
-        "title": "<p>函数重载的目的是（）。</p>",
-        "answersNumber": ["<p>使用方便，提高可读性</p>"],
-        "options": [
-          "<p>使用方便，提高可读性</p>",
-          "<p>实现共享</p>",
-          "<p>提高速度</p>",
-          "<p>减少空间</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51607,
-        "title": "<p>下列关于静态代码块的描述中，正确的是（）。</p>",
-        "answersNumber": [
-          "<p>静态代码块指的是被static关键字修饰的代码块</p>",
-          "<p>静态代码块随着类的加载而加载</p>",
-          "<p>使用静态代码块可以实现类的初始化</p>"
-        ],
-        "options": [
-          "<p>静态代码块随着类的加载而加载</p>",
-          "<p>静态代码块指的是被static关键字修饰的代码块</p>",
-          "<p>使用静态代码块可以实现类的初始化</p>",
-          "<p>每次创建对象时，类中的静态代码块都会被执行一次</p>"
-        ],
-        "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 59,
+          "questionNumber": 109,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 67, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 42,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5587,
+        "title": "<p>下列哪项不属于社会主义核心价值体系的基本内容？（）</p>",
+        "options": [
+          "<p>社会主义荣辱观</p>",
+          "<p>以爱国主义为核心的民族精神</p>",
+          "<p>以改革创新为核心的时代精神</p>",
+          "<p>中国特色社会主义政治</p>"
+        ],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 109,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 67, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 42,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5156,
+        "title": "<p>在（）时期，实行主力军、地方军和民兵、自卫军“三结合”的武装力量体制。</p>",
+        "options": [
+          "<p>北伐战争</p>",
+          "<p>解放战争</p>",
+          "<p>抗日战争</p>",
+          "<p>土地革命</p>"
+        ],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 109,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 67, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 42,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5738,
+        "title": "<p>中国民主主义革命经历了旧民主主义革命和新民主主义革命两个阶段，“旧”阶段转化到“新”阶段的根本标志是（）。</p>",
+        "options": [
+          "<p>中国革命领导阶级的变化</p>",
+          "<p>中国革命主要对象的变化</p>",
+          "<p>中国革命基本性质的变化</p>",
+          "<p>中国社会主要矛盾的变化</p>"
+        ],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 109,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 67, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 42,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5545,
+        "title": "<p>我国的国家性质是（）领导的，以工农联盟为基础的人民民主专政的社会主义国家。</p>",
+        "options": [
+          "<p>工人阶级</p>",
+          "<p>农民阶级</p>",
+          "<p>工农联盟</p>",
+          "<p>商人阶层</p>"
+        ],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 109,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 67, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 42,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5634,
+        "title": "<p>马克思主义中国化就是把（）和时代特征结合起来。</p>",
+        "options": [
+          "<p>马克思主义基本原理</p>",
+          "<p>中国具体实际</p>",
+          "<p>中国具体实践</p>",
+          "<p>重要原理</p>"
+        ],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 20,
+          "questionNumber": 65,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
-          "singleScore": 3,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 17, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 47,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51635,
-        "title": "<p>下列关于方法重载的说法中，正确的是（）。</p>",
-        "answersNumber": [
-          "<p>方法重载要求方法名称必须相同</p>",
-          "<p>重载方法的参数列表必须不一致</p>",
-          "<p>重载方法的返回值类型可以不一致</p>"
-        ],
+        "questionId": 5171,
+        "title": "<p>广大海外侨胞有着（），是实现中国梦的重要力量。</p>",
         "options": [
-          "<p>方法重载要求方法名称必须相同</p>",
-          "<p>重载方法的参数列表必须不一致</p>",
-          "<p>重载方法的返回值类型可以不一致</p>",
-          "<p>一个方法在所有属的类中只能被重载一次</p>"
+          "<p>赤忱的爱国情怀</p>",
+          "<p>雄厚的经济实力</p>",
+          "<p>丰富的智力资源</p>",
+          "<p>广泛的商业人脉</p>"
         ],
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
-          "totalScore": 15,
-          "questionNumber": 59,
+          "totalScore": 20,
+          "questionNumber": 65,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
-          "singleScore": 3,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 17, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 47,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51605,
-        "title": "<p>下列关于变量描述正确的是（）。</p>",
-        "answersNumber": [
-          "<p>局部变量是在子程序内部使用的变量</p>",
-          "<p>局部变量只能在本模块内部使用</p>",
-          "<p>外部变量可以在其他模块中使用</p>"
-        ],
+        "questionId": 5632,
+        "title": "<p>党的十六大以后的十年，我国取得一系列新的历史性成就，为全面建成小康社会打下了坚实的基础。我国经济总量从世界第六位跃升至第二位，成功地迈上了三个大的台阶，即社会生产力、经济实力、科技实力迈上一个大台阶；人民生活水平、居民收入水平、社会保障水平迈上一个大台阶；（）迈上一个大台阶，国家面貌发生新的历史性的变化。</p>",
         "options": [
-          "<p>外部变量是在子程序外部使用的变量</p>",
-          "<p>局部变量是在子程序内部使用的变量</p>",
-          "<p>局部变量只能在本模块内部使用</p>",
-          "<p>外部变量可以在其他模块中使用</p>"
+          "<p>综合国力</p>",
+          "<p>国际竞争力</p>",
+          "<p>国际影响力</p>",
+          "<p>文化在世界上的号召力</p>"
         ],
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
-          "totalScore": 15,
-          "questionNumber": 59,
+          "totalScore": 20,
+          "questionNumber": 65,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
-          "singleScore": 3,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 17, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 47,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51650,
-        "title": "<p>下列目录中，哪些属于JDK安装后的子目录（）。</p>",
-        "answersNumber": [
-          "<p>lib目录</p>",
-          "<p>jre目录</p>",
-          "<p>include目录</p>"
-        ],
+        "questionId": 5743,
+        "title": "<p>中国梦是历史的、（）、（）的。</p>",
         "options": [
-          "<p>lib目录</p>",
-          "<p>demo目录</p>",
-          "<p>jre目录</p>",
-          "<p>include目录</p>"
+          "<p>富强的</p>",
+          "<p>现实的</p>",
+          "<p>未来的</p>",
+          "<p>发展的</p>"
         ],
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
-          "totalScore": 15,
-          "questionNumber": 59,
+          "totalScore": 20,
+          "questionNumber": 65,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
-          "singleScore": 3,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 17, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 47,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51610,
-        "title": "<p>以下关于接口对象的说法中正确的是（）。</p>",
-        "answersNumber": [
-          "<p>接口对象只能等于实现该接口的类的对象</p>",
-          "<p>接口只能被类实现，不能用来声明对象</p>"
-        ],
-        "options": [
-          "<p>接口只能被类实现，不能用来声明对象</p>",
-          "<p>接口对象只能等于实现该接口的类的对象</p>",
-          "<p>接口对象可以用关键词new创建</p>",
-          "<p>接口对象可以等于任何类的对象</p>"
-        ],
+        "questionId": 5162,
+        "title": "<p>“一国两制”的国家结构形式，是一种新型的国家结构组织形式，不仅在单一制的国家结构下某些复合制的特点，而且容纳了两种性质不同的（）制度。</p>",
+        "options": ["<p>经济</p>", "<p>政治</p>", "<p>文化</p>", "<p>社会</p>"],
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
-          "totalScore": 15,
-          "questionNumber": 59,
+          "totalScore": 20,
+          "questionNumber": 65,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
-          "singleScore": 3,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 17, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 47,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 1, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52227,
-        "title": "<p>一个变量有几种可能值，可以采用枚举类型，枚举类型的声明的关键字是union。</p>",
-        "answersNumber": ["错"],
+        "questionId": 5177,
+        "title": "<p>中国经济进入新常态是我国经济发展阶段性特征的必然反映。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
           "totalScore": 20,
-          "questionNumber": 104,
+          "questionNumber": 55,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
           "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52188,
-        "title": "<p>用new运算符产生的动态对象，在不再使用这种对象时，必须用delete运算符来释放对象所占用的存储空间。</p>",
-        "answersNumber": ["对"],
-        "options": ["对", "错"],
-        "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
-          "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
-          "questionTypeName": "判断题",
-          "isCheck": true,
-          "systemQuestionType": 3,
-          "questionType": 3,
-          "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52200,
-        "title": "<p>C++语言中所有成员函数都应该是公有的，所有数据成员都应该是私有或保护的。</p>",
-        "answersNumber": ["错"],
-        "options": ["对", "错"],
-        "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
-          "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
-          "questionTypeName": "判断题",
-          "isCheck": true,
-          "systemQuestionType": 3,
-          "questionType": 3,
-          "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52146,
-        "title": "<p>引用和指针都可作函数参数。</p>",
-        "answersNumber": ["对"],
-        "options": ["对", "错"],
-        "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
-          "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
-          "questionTypeName": "判断题",
-          "isCheck": true,
-          "systemQuestionType": 3,
-          "questionType": 3,
-          "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52157,
-        "title": "<p>运算符重载是通过对已有的运算符重新定义操作功能来实现的，它是C++语言多态性的一种表现。</p>",
-        "answersNumber": ["对"],
-        "options": ["对", "错"],
-        "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
-          "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
-          "questionTypeName": "判断题",
-          "isCheck": true,
-          "systemQuestionType": 3,
-          "questionType": 3,
-          "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52151,
-        "title": "<p>构造函数可以重载。</p>",
-        "answersNumber": ["对"],
-        "options": ["对", "错"],
-        "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
-          "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
-          "questionTypeName": "判断题",
-          "isCheck": true,
-          "systemQuestionType": 3,
-          "questionType": 3,
-          "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52218,
-        "title": "<p>有静态数据成员的类,一般地应该考虑为其设计复制构造函数、析构函数。</p>",
-        "answersNumber": ["对"],
-        "options": ["对", "错"],
-        "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
-          "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
-          "questionTypeName": "判断题",
-          "isCheck": true,
-          "systemQuestionType": 3,
-          "questionType": 3,
-          "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52211,
-        "title": "<p>非静态成员函数中，隐含传递的形参this是一个指针常量，它是一个指向不能被改变的指针。因此赋值语句this=NULL；企图改变它的方向是错误的。</p>",
-        "answersNumber": ["对"],
-        "options": ["对", "错"],
-        "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
-          "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
-          "questionTypeName": "判断题",
-          "isCheck": true,
-          "systemQuestionType": 3,
-          "questionType": 3,
-          "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52153,
-        "title": "<p>基类中被说明为protected和private的成员只能被其派生类的成员函数访问，不能被其它的函数访问。</p>",
-        "answersNumber": ["错"],
-        "options": ["对", "错"],
-        "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
-          "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
-          "questionTypeName": "判断题",
-          "isCheck": true,
-          "systemQuestionType": 3,
-          "questionType": 3,
-          "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52207,
-        "title": "<p>类的友元函数可以访问该类对象的受保护（protected）以及私有（private）成员。</p>",
-        "answersNumber": ["对"],
-        "options": ["对", "错"],
-        "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
-          "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
-          "questionTypeName": "判断题",
-          "isCheck": true,
-          "systemQuestionType": 3,
-          "questionType": 3,
-          "singleScore": 2,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 89,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51861,
-        "title": "<p>用关键字static修饰的类的成员称为（）成员。</p>",
-        "answersNumber": ["静态"],
-        "options": [],
-        "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
-          "totalNumber": 5,
-          "totalScore": 15,
-          "questionNumber": 60,
-          "questionTypeName": "填空题",
-          "isCheck": true,
-          "systemQuestionType": 4,
-          "questionType": 4,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 43,
-              "levelNumber": 5
-            },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51856,
-        "title": "<p>在重载“=”运算符时，必须使用（）函数重载。</p>",
-        "answersNumber": ["成员"],
-        "options": [],
-        "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
-          "totalNumber": 5,
-          "totalScore": 15,
-          "questionNumber": 60,
-          "questionTypeName": "填空题",
-          "isCheck": true,
-          "systemQuestionType": 4,
-          "questionType": 4,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 43,
-              "levelNumber": 5
-            },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51863,
-        "title": "<p>为了解决多继承产生的（）问题，在C++中引入了虚基类。</p>",
-        "answersNumber": ["二义性"],
-        "options": [],
-        "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
-          "totalNumber": 5,
-          "totalScore": 15,
-          "questionNumber": 60,
-          "questionTypeName": "填空题",
-          "isCheck": true,
-          "systemQuestionType": 4,
-          "questionType": 4,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 43,
-              "levelNumber": 5
-            },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51905,
-        "title": "<p>int和float类型的数据分别占用（）和4个字节。</p>",
-        "answersNumber": ["4"],
-        "options": [],
-        "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
-          "totalNumber": 5,
-          "totalScore": 15,
-          "questionNumber": 60,
-          "questionTypeName": "填空题",
-          "isCheck": true,
-          "systemQuestionType": 4,
-          "questionType": 4,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 43,
-              "levelNumber": 5
-            },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51889,
-        "title": "<p>若一个函数的定义处于调用它的函数之前，则在程序开始可以省去该函数的（）或（声明）语句。</p>",
-        "answersNumber": ["原型"],
-        "options": [],
-        "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
-          "totalNumber": 5,
-          "totalScore": 15,
-          "questionNumber": 60,
-          "questionTypeName": "填空题",
-          "isCheck": true,
-          "systemQuestionType": 4,
-          "questionType": 4,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 43,
-              "levelNumber": 5
-            },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 52544,
-        "title": "<p>简述面向对象程序设计的主要优点？</p>",
-        "answersNumber": [
-          "（1）可提高程序的重用性；（2）可控制程序的复杂性；（3）可改善程序的可维护性；（4）能够更好地支持大型程序设计；（5）增强了计算机处理信息的范围；（6）能很好地适应新的硬件环境。"
-        ],
-        "options": [],
-        "questionType": {
-          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
-          "totalNumber": 1,
-          "totalScore": 10,
-          "questionNumber": 18,
-          "questionTypeName": "简答题",
-          "isCheck": true,
-          "systemQuestionType": 5,
-          "questionType": 5,
-          "singleScore": 10,
           "ratioVoList": [
             { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较易", "maxNumber": 1, "levelNumber": 0 },
-            { "difficultyLevelName": "难", "maxNumber": 3, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 1 }
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52586,
-        "title": "<p>请写出以下程序的运行结果。<br/><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/df383353-50c1-442b-a11e-3cd320c28fac.png'><br/><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/c1dc2ddc-b8f8-4b51-a984-9537bb4216f6.png'></p>",
-        "answersNumber": [" 0 6 16 6"],
-        "options": [],
+        "questionId": 5180,
+        "title": "<p>辽宁号航空母舰是我国首艘拥有自主产权，自行设计建造的航空母舰。</p>",
+        "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
-          "totalNumber": 1,
-          "totalScore": 10,
-          "questionNumber": 12,
+          "explain": "",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 55,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5747,
+        "title": "<p>在市场经济中，政府的宏观调控主要是通过经济手段、法律手段来实现的。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 55,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5600,
+        "title": "<p>旧民主主义革命的失败、近代中国革命形势的发展，以及世界形势的新变化，呼唤着新的革命理论的诞生，为新民主主义革命理论的形成提供了客观条件。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 55,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5751,
+        "title": "<p>打败国民党蒋介石的政治路线、策略原则和军事方针的制定处于毛泽东思想成熟阶段。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 55,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5564,
+        "title": "<p>协调是持续健康发展的内在要求。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 55,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5637,
+        "title": "<p>新时代两步走战略把我国社会主义现代化的目标提升了。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 55,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5639,
+        "title": "<p>新时代的“新”意味着我国的奋斗目标已经改变，迈向了新的奋斗目标。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 55,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5275,
+        "title": "<p>2018年，我国的主要矛盾是人民日益增长的美好生活需要和不平衡不充分的发展之间的矛盾。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 55,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5173,
+        "title": "<p>巩固和发展最广泛的爱国统一战线，必须全面贯彻党的宗教工作基本方针。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 55,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 55,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5570,
+        "title": "<p>新四大发明被国际朋友称为“最想带回家的中国生活方式”，包括高铁、支付宝、共享单车和（）。</p>",
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 49,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 47,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5194,
+        "title": "<p>中国经济面临的“三期叠加”局面不包括（）。</p>",
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 49,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 47,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5571,
+        "title": "<p>全面提高对外开放水平，既要借鉴其他文明，也要推动（）为世界文明发展作出更多的贡献。</p>",
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 49,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 47,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5283,
+        "title": "<p>习近平新时代中国特色社会主义思想是当代中国的（）。</p>",
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 49,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 47,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5648,
+        "title": "<p>以习近平同志为核心的党中央强调新时代党的建设要以党的（）建设为统领。</p>",
+        "questionType": {
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 49,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 47,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 5199,
+        "title": "<p>简述科学发展观的形成条件。</p>",
+        "questionType": {
+          "explain": "",
+          "totalNumber": 3,
+          "totalScore": 30,
+          "questionNumber": 23,
           "questionTypeName": "综合题",
           "isCheck": true,
           "systemQuestionType": 5,
@@ -949,14 +711,57 @@
           "singleScore": 10,
           "ratioVoList": [
             { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较易", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "难", "maxNumber": 3, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 1 }
+            { "difficultyLevelName": "较易", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 4, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 16, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 5287,
+        "title": "<p>简述我国社会主要矛盾转化的依据？</p>",
+        "questionType": {
+          "explain": "",
+          "totalNumber": 3,
+          "totalScore": 30,
+          "questionNumber": 23,
+          "questionTypeName": "综合题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 8,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 4, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 16, "levelNumber": 2 }
+          ]
+        }
+      },
+      {
+        "questionId": 5617,
+        "title": "<p>中国梦的科学内涵有哪些？</p>",
+        "questionType": {
+          "explain": "",
+          "totalNumber": 3,
+          "totalScore": 30,
+          "questionNumber": 23,
+          "questionTypeName": "综合题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 8,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 4, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 16, "levelNumber": 2 }
           ]
         }
       }
     ],
     "examPaperAnswerVoList": [],
-    "sysTime": "2022-12-28 15:29:23"
+    "sysTime": "2023-07-02 17:06:14",
+    "startTime": "2023-07-02 17:06:14"
   }
 }

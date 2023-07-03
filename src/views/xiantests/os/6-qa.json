@@ -1,0 +1,109 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 16233,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"16735,16734,16733,16732,103605,103604,103603\"}",
+    "parent_id": 15626,
+    "curriculum_id": 284,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 16732,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>绝对路径</p>\"},{\"Key\":\"B\",\"Value\":\"<p>根路径</p>\"},{\"Key\":\"C\",\"Value\":\"<p>相对路径</p>\"},{\"Key\":\"D\",\"Value\":\"<p>工作路径</p>\"}]",
+        "questions": "<p>‎从根目录开始的文件路径被称为（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 16733,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>直接链接</p>\"},{\"Key\":\"B\",\"Value\":\"<p>符号链接</p>\"},{\"Key\":\"C\",\"Value\":\"<p>间接链接</p>\"},{\"Key\":\"D\",\"Value\":\"<p>硬链接</p>\"}]",
+        "questions": "<p>Windows采用的文件共享模式是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 16734,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>B</p>\"},{\"Key\":\"B\",\"Value\":\"<p>A</p>\"},{\"Key\":\"C\",\"Value\":\"<p>不一定</p>\"},{\"Key\":\"D\",\"Value\":\"<p>都不对</p>\"}]",
+        "questions": "<p>学生A和B正在讨论i节点。A认为存储器容量越来越大，价格越来越便宜，所以当打开文件时，直接取i节点的副本，放到内存i节点表中，建立一个新i节点将更简单、更快，没有必要搜索整个i节点来判断它是否已经存在。B则不同意这一观点。他们两个人中正确的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 16735,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>父目录</p>\"},{\"Key\":\"B\",\"Value\":\"<p>子目录</p>\"},{\"Key\":\"C\",\"Value\":\"<p>根目录</p>\"},{\"Key\":\"D\",\"Value\":\"<p>当前目录</p>\"}]",
+        "questions": "<p>使用相对路径时，从（）开始检索目录。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 103603,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>多级目录</p>\"},{\"Key\":\"B\",\"Value\":\"<p>文件控制块</p>\"},{\"Key\":\"C\",\"Value\":\"<p>单级目录</p>\"},{\"Key\":\"D\",\"Value\":\"<p>索引结点</p>\"}]",
+        "questions": "<p>‌为了允许文件系统中存在具有相同的文件名，通常文件系统采用（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 103604,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>exe</p>\"},{\"Key\":\"B\",\"Value\":\"<p>bat</p>\"},{\"Key\":\"C\",\"Value\":\"<p>doc</p>\"},{\"Key\":\"D\",\"Value\":\"<p>txt</p>\"}]",
+        "questions": "<p>在WINDOWS中，文件的扩展名决定了文件的类型。其中，最常用的文本文件的扩展名是（）。\t</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 103605,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>14</p>\"},{\"Key\":\"B\",\"Value\":\"<p>12</p>\"},{\"Key\":\"C\",\"Value\":\"<p>10</p>\"},{\"Key\":\"D\",\"Value\":\"<p>102</p>\"}]",
+        "questions": "<p>一个文件被组织成为索引文件。其中，每个记录的长度在10-100个字节之间，索引表每项大小为4个字节，为指向对应记录的指针和长度。如果要访问第i（i&gt;0）个记录（i不是最后一个记录），则最少需要读入（）个字节的内容。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ]
+  }
+}

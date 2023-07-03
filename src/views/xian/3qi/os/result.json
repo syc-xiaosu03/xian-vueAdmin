@@ -3,922 +3,712 @@
   "errCode": 200,
   "message": "操作成功",
   "data": {
-    "paperId": 2146999315,
-    "examId": 2141352573,
+    "paperId": 2147554576,
+    "examId": 2141353806,
     "paperContents": [
       {
-        "questionId": 29856,
-        "title": "<p>在多继承中，公有派生和私有派生对于基类成员在派生类中的可访问性与单继承的规则（）。</p>",
-        "answersNumber": ["<p>完全相同</p>"],
+        "questionId": 58699,
+        "title": "<p>等待当前磁道上的某指定扇区旋转到磁头下所需的时间称为（）。</p>",
         "options": [
-          "<p>完全不同</p>",
-          "<p>完全相同</p>",
-          "<p>部分相同</p>",
-          "<p>以上都不对</p>"
+          "<p>启动时间</p>",
+          "<p>寻找时间</p>",
+          "<p>延迟时间</p>",
+          "<p>传送时间</p>"
         ],
         "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 10,
+          "questionNumber": 39,
           "questionTypeName": "单选题",
           "isCheck": true,
           "systemQuestionType": 1,
           "questionType": 1,
-          "singleScore": 3,
+          "singleScore": 2,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
+              "maxNumber": 39,
+              "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51024,
-        "title": "<p>在下面表达式中，不表示虚继承的是（）。</p>",
-        "answersNumber": ["<p>public</p>"],
+        "questionId": 58712,
+        "title": "<p>分时操作系统的主要特征之一是提高（）。</p>",
         "options": [
-          "<p>virtualpublic</p>",
-          "<p>publicvirtual</p>",
-          "<p>public</p>",
-          "<p>virtual</p>"
+          "<p>计算机系统的可靠性</p>",
+          "<p>计算机系统的实时性</p>",
+          "<p>计算机系统的交互性</p>",
+          "<p>计算机系统的安全性</p>"
         ],
         "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 10,
+          "questionNumber": 39,
           "questionTypeName": "单选题",
           "isCheck": true,
           "systemQuestionType": 1,
           "questionType": 1,
-          "singleScore": 3,
+          "singleScore": 2,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
+              "maxNumber": 39,
+              "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51030,
-        "title": "<p>在说明一个结构体变量时系统分配给它的存储空间是（）。</p>",
-        "answersNumber": ["<p>该结构体中所有成员所需存储空间的总和。</p>"],
+        "questionId": 58719,
+        "title": "<p>在Windows中，在下列叙述中正确的是（）。</p>",
         "options": [
-          "<p>该结构体中所有成员所需存储空间的总和。</p>",
-          "<p>该结构体中占用最大存储空间的成员所需的存储空间</p>",
-          "<p>该结构体中第一个成员所需的存储空间</p>",
-          "<p>该结构体中最后一个成员所需的存储空间</p>"
+          "<p>在不同文件夹中，不允许有相同名称的文件夹</p>",
+          "<p>在不同文件夹中，允许有相同名称的文件夹</p>",
+          "<p>在同一个文件夹中，只允许有一对相同名称的文件夹</p>",
+          "<p>在同一个文件夹中，允许有相同名称的文件夹</p>"
         ],
         "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 10,
+          "questionNumber": 39,
           "questionTypeName": "单选题",
           "isCheck": true,
           "systemQuestionType": 1,
           "questionType": 1,
-          "singleScore": 3,
+          "singleScore": 2,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
+              "maxNumber": 39,
+              "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 29841,
-        "title": "<p>下列关于类与对象的说法中错误的是（）。</p>",
-        "answersNumber": ["<p>类与对象没有什么实际关系。</p>"],
+        "questionId": 58725,
+        "title": "<p>在页式虚拟存储管理中，LFU页面调度算法是指先调出（）。</p>",
         "options": [
-          "<p>类是对某一类事物的抽象描述，而对象则是该类事物的个体。</p>",
-          "<p>对象是类的实例化。</p>",
-          "<p>类用于描述多个对象的共同特征它是对象的模板。</p>",
-          "<p>类与对象没有什么实际关系。</p>"
+          "<p>最先进入主存的页面</p>",
+          "<p>近期最长时间没有被访问的页面</p>",
+          "<p>近期被访问次数最少的页面</p>",
+          "<p>以后不再访问的页面或距当前最长时间后再访问的页面</p>"
         ],
         "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 10,
+          "questionNumber": 39,
           "questionTypeName": "单选题",
           "isCheck": true,
           "systemQuestionType": 1,
           "questionType": 1,
-          "singleScore": 3,
+          "singleScore": 2,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
+              "maxNumber": 39,
+              "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51031,
-        "title": "<p>模板的使用是为了（）。</p>",
-        "answersNumber": ["<p>提高代码的可重用性</p>"],
+        "questionId": 161132,
+        "title": "<p>支持多道程序设计的操作系统在运行过程中，不断地选择新进程运行来实现CPU的共享，但其中（）不是引起操作系统选择新进程的直接原因。</p>",
         "options": [
-          "<p>提高代码的运行效率</p>",
-          "<p>提高代码的可重用性</p>",
-          "<p>加强类的封装性</p>",
-          "<p>实现多态性</p>"
+          "<p>有新进程进入就绪队列</p>",
+          "<p>运行进程要等待某一事件发生</p>",
+          "<p>运行进程出错</p>",
+          "<p>运行进程的时间片用完</p>"
         ],
         "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
+          "explain": "",
+          "totalNumber": 5,
+          "totalScore": 10,
+          "questionNumber": 39,
           "questionTypeName": "单选题",
           "isCheck": true,
           "systemQuestionType": 1,
           "questionType": 1,
-          "singleScore": 3,
+          "singleScore": 2,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
+              "maxNumber": 39,
+              "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 29859,
-        "title": "<p>不属于动态绑定实现条件的是（）。</p>",
-        "answersNumber": ["<p>在构造函数中调用虚函数</p>"],
+        "questionId": 58906,
+        "title": "<p>想建立一个新文件夹,可用鼠标点中（）。</p>",
         "options": [
-          "<p>在构造函数中调用虚函数</p>",
-          "<p>虚函数声明</p>",
-          "<p>指向对象的指针或引用可调用虚函数</p>",
-          "<p>派生类中重定义虚函数</p>"
+          "<p>“我的电脑”右边空白处点右键选择“新键”点“文件夹”</p>",
+          "<p>“资源管理器”右边空白处点右键选择“新键”点“文件夹”</p>",
+          "<p>“我的电脑”右边白处点左键选择“新键”点“文件夹”</p>",
+          "<p>在桌面的空白处,点右键选“新键”点“文件夹”</p>"
         ],
         "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 29855,
-        "title": "<p>当一个派生类公有继承一个基类时，基类中的所有公有成员成为派生类的（）。</p>",
-        "answersNumber": ["<p>public成员</p>"],
-        "options": [
-          "<p>private成员</p>",
-          "<p>友元</p>",
-          "<p>protected成员</p>",
-          "<p>public成员</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51035,
-        "title": "<p>C++语言中语句的结束符是（）。</p>",
-        "answersNumber": ["<p>;</p>"],
-        "options": ["<p>;</p>", "<p>,</p>", "<p>。</p>", "<p>、</p>"],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 29862,
-        "title": "<p>运算符重载是对已有的运算符赋予多重含义，以下说法正确的是（）。</p>",
-        "answersNumber": [
-          "<p>只能重载C++中已经有的运算符，不能定义新运算符</p>"
-        ],
-        "options": [
-          "<p>只能重载C++中已经有的运算符，不能定义新运算符</p>",
-          "<p>可以对基本类型（如int类型）的数据，重新定义'+'运算符的含义</p>",
-          "<p>可以改变一个已有运算符的优先级和操作数个数</p>",
-          "<p>C++中已经有的所有运算符都可以重载</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51026,
-        "title": "<p>函数重载的目的是（）。</p>",
-        "answersNumber": ["<p>使用方便，提高可读性</p>"],
-        "options": [
-          "<p>使用方便，提高可读性</p>",
-          "<p>实现共享</p>",
-          "<p>提高速度</p>",
-          "<p>减少空间</p>"
-        ],
-        "questionType": {
-          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
-          "totalNumber": 10,
-          "totalScore": 30,
-          "questionNumber": 96,
-          "questionTypeName": "单选题",
-          "isCheck": true,
-          "systemQuestionType": 1,
-          "questionType": 1,
-          "singleScore": 3,
-          "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 14, "levelNumber": 0 },
-            {
-              "difficultyLevelName": "较易",
-              "maxNumber": 70,
-              "levelNumber": 10
-            },
-            { "difficultyLevelName": "难", "maxNumber": 8, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
-          ]
-        }
-      },
-      {
-        "questionId": 51607,
-        "title": "<p>下列关于静态代码块的描述中，正确的是（）。</p>",
-        "answersNumber": [
-          "<p>静态代码块指的是被static关键字修饰的代码块</p>",
-          "<p>静态代码块随着类的加载而加载</p>",
-          "<p>使用静态代码块可以实现类的初始化</p>"
-        ],
-        "options": [
-          "<p>静态代码块随着类的加载而加载</p>",
-          "<p>静态代码块指的是被static关键字修饰的代码块</p>",
-          "<p>使用静态代码块可以实现类的初始化</p>",
-          "<p>每次创建对象时，类中的静态代码块都会被执行一次</p>"
-        ],
-        "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 59,
+          "questionNumber": 39,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 39,
               "levelNumber": 5
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51635,
-        "title": "<p>下列关于方法重载的说法中，正确的是（）。</p>",
-        "answersNumber": [
-          "<p>方法重载要求方法名称必须相同</p>",
-          "<p>重载方法的参数列表必须不一致</p>",
-          "<p>重载方法的返回值类型可以不一致</p>"
-        ],
+        "questionId": 58899,
+        "title": "<p>启动应用程序可采用以下方法（）。</p>",
         "options": [
-          "<p>方法重载要求方法名称必须相同</p>",
-          "<p>重载方法的参数列表必须不一致</p>",
-          "<p>重载方法的返回值类型可以不一致</p>",
-          "<p>一个方法在所有属的类中只能被重载一次</p>"
+          "<p>从“开始”的“程序”找到该程序名并单击</p>",
+          "<p>在桌面建立快捷方式,双击该图标</p>",
+          "<p>从“我的电脑”里找到该程序并运行</p>",
+          "<p>从“开始”的“运行”输入该程序所在路径和程序名并运行</p>"
         ],
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 59,
+          "questionNumber": 39,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 39,
               "levelNumber": 5
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51605,
-        "title": "<p>下列关于变量描述正确的是（）。</p>",
-        "answersNumber": [
-          "<p>局部变量是在子程序内部使用的变量</p>",
-          "<p>局部变量只能在本模块内部使用</p>",
-          "<p>外部变量可以在其他模块中使用</p>"
-        ],
+        "questionId": 58918,
+        "title": "<p>死锁的必要条件是（）。</p>",
         "options": [
-          "<p>外部变量是在子程序外部使用的变量</p>",
-          "<p>局部变量是在子程序内部使用的变量</p>",
-          "<p>局部变量只能在本模块内部使用</p>",
-          "<p>外部变量可以在其他模块中使用</p>"
+          "<p>请求与保持</p>",
+          "<p>环路等待</p>",
+          "<p>互斥条件</p>",
+          "<p>不剥夺条件</p>"
         ],
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 59,
+          "questionNumber": 39,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 39,
               "levelNumber": 5
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51650,
-        "title": "<p>下列目录中，哪些属于JDK安装后的子目录（）。</p>",
-        "answersNumber": [
-          "<p>lib目录</p>",
-          "<p>jre目录</p>",
-          "<p>include目录</p>"
-        ],
+        "questionId": 58900,
+        "title": "<p>基于文件系统的概念，数据组成分为（）。</p>",
         "options": [
-          "<p>lib目录</p>",
-          "<p>demo目录</p>",
-          "<p>jre目录</p>",
-          "<p>include目录</p>"
+          "<p>数据项</p>",
+          "<p>记录</p>",
+          "<p>文件</p>",
+          "<p>字符</p>"
         ],
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 59,
+          "questionNumber": 39,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 39,
               "levelNumber": 5
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51610,
-        "title": "<p>以下关于接口对象的说法中正确的是（）。</p>",
-        "answersNumber": [
-          "<p>接口对象只能等于实现该接口的类的对象</p>",
-          "<p>接口只能被类实现，不能用来声明对象</p>"
-        ],
+        "questionId": 58920,
+        "title": "<p>多个有交互关系的进程正在并发执行,其中每个进程执行时（）。</p>",
         "options": [
-          "<p>接口只能被类实现，不能用来声明对象</p>",
-          "<p>接口对象只能等于实现该接口的类的对象</p>",
-          "<p>接口对象可以用关键词new创建</p>",
-          "<p>接口对象可以等于任何类的对象</p>"
+          "<p>与相关进程有依赖关系</p>",
+          "<p>按程序规定的顺序执行</p>",
+          "<p>可能被中断</p>",
+          "<p>执行的速度不变</p>"
         ],
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 59,
+          "questionNumber": 39,
           "questionTypeName": "多选题",
           "isCheck": true,
           "systemQuestionType": 2,
           "questionType": 2,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 34,
+              "maxNumber": 39,
               "levelNumber": 5
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 13, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52227,
-        "title": "<p>一个变量有几种可能值，可以采用枚举类型，枚举类型的声明的关键字是union。</p>",
-        "answersNumber": ["错"],
+        "questionId": 161225,
+        "title": "<p>进程的互斥和同步是进程通信的基本内容。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52188,
-        "title": "<p>用new运算符产生的动态对象，在不再使用这种对象时，必须用delete运算符来释放对象所占用的存储空间。</p>",
-        "answersNumber": ["对"],
+        "questionId": 59189,
+        "title": "<p>把逻辑地址转换成物理地址的过程称为地址转换。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52200,
-        "title": "<p>C++语言中所有成员函数都应该是公有的，所有数据成员都应该是私有或保护的。</p>",
-        "answersNumber": ["错"],
+        "questionId": 59224,
+        "title": "<p>有交互的并发进程执行时可能出现与时间有关的错误,其根本原因是由于进程使用共享资源次数太多。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52146,
-        "title": "<p>引用和指针都可作函数参数。</p>",
-        "answersNumber": ["对"],
+        "questionId": 59222,
+        "title": "<p>通道在执行通道程序时,把通道和设备的执行情况随时记录下来并存放到通道状态字。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52157,
-        "title": "<p>运算符重载是通过对已有的运算符重新定义操作功能来实现的，它是C++语言多态性的一种表现。</p>",
-        "answersNumber": ["对"],
+        "questionId": 59191,
+        "title": "<p>地址动态重定位方式适用于页式存储管理。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52151,
-        "title": "<p>构造函数可以重载。</p>",
-        "answersNumber": ["对"],
+        "questionId": 59192,
+        "title": "<p>在可变分区存储管理中,采用最优适应分配算法,空闲区表中的空闲区是按长度递减顺序排列。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52218,
-        "title": "<p>有静态数据成员的类,一般地应该考虑为其设计复制构造函数、析构函数。</p>",
-        "answersNumber": ["对"],
+        "questionId": 161229,
+        "title": "<p>UNIX的最大特点是分时、多用户、多任务和倒树型文件结构。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52211,
-        "title": "<p>非静态成员函数中，隐含传递的形参this是一个指针常量，它是一个指向不能被改变的指针。因此赋值语句this=NULL；企图改变它的方向是错误的。</p>",
-        "answersNumber": ["对"],
+        "questionId": 59220,
+        "title": "<p>窗口最小化后就等于关闭了窗口。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52153,
-        "title": "<p>基类中被说明为protected和private的成员只能被其派生类的成员函数访问，不能被其它的函数访问。</p>",
-        "answersNumber": ["错"],
+        "questionId": 59218,
+        "title": "<p>由于过程控制系统的滞后比较普遍，在MATLAB中对过程控制进行仿真时，其延迟环节是必不可少的，但可以设置成0延迟。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52207,
-        "title": "<p>类的友元函数可以访问该类对象的受保护（protected）以及私有（private）成员。</p>",
-        "answersNumber": ["对"],
+        "questionId": 161232,
+        "title": "<p>具有多道功能的操作系统一定是多用户操作系统。</p>",
         "options": ["对", "错"],
         "questionType": {
-          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "explain": "",
           "totalNumber": 10,
-          "totalScore": 20,
-          "questionNumber": 104,
+          "totalScore": 40,
+          "questionNumber": 58,
           "questionTypeName": "判断题",
           "isCheck": true,
           "systemQuestionType": 3,
           "questionType": 3,
-          "singleScore": 2,
+          "singleScore": 4,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 89,
+              "maxNumber": 57,
               "levelNumber": 10
             },
             { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51861,
-        "title": "<p>用关键字static修饰的类的成员称为（）成员。</p>",
-        "answersNumber": ["静态"],
-        "options": [],
+        "questionId": 59087,
+        "title": "<p>操作系统是计算机系统的一种系统软件，是控制和管理计算机系统内部各种硬件和软件资源、有效地组织多道程序运行的系统软件或程序集合，是用户和计算机的（）。</p>",
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 60,
+          "questionNumber": 38,
           "questionTypeName": "填空题",
           "isCheck": true,
           "systemQuestionType": 4,
           "questionType": 4,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 43,
+              "maxNumber": 38,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51856,
-        "title": "<p>在重载“=”运算符时，必须使用（）函数重载。</p>",
-        "answersNumber": ["成员"],
-        "options": [],
+        "questionId": 161268,
+        "title": "<p>MS-DOS系统中的磁盘文件物理结构属于（）。</p>",
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 60,
+          "questionNumber": 38,
           "questionTypeName": "填空题",
           "isCheck": true,
           "systemQuestionType": 4,
           "questionType": 4,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 43,
+              "maxNumber": 38,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51863,
-        "title": "<p>为了解决多继承产生的（）问题，在C++中引入了虚基类。</p>",
-        "answersNumber": ["二义性"],
-        "options": [],
+        "questionId": 161266,
+        "title": "<p>CPU输出数据的速度远远高于打印机的打印速度，为解决这一矛盾，可采用（）。</p>",
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 60,
+          "questionNumber": 38,
           "questionTypeName": "填空题",
           "isCheck": true,
           "systemQuestionType": 4,
           "questionType": 4,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 43,
+              "maxNumber": 38,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51905,
-        "title": "<p>int和float类型的数据分别占用（）和4个字节。</p>",
-        "answersNumber": ["4"],
-        "options": [],
+        "questionId": 59082,
+        "title": "<p>分时系统的四个特征是 多路性，独立性，及时性，（）。</p>",
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 60,
+          "questionNumber": 38,
           "questionTypeName": "填空题",
           "isCheck": true,
           "systemQuestionType": 4,
           "questionType": 4,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 43,
+              "maxNumber": 38,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 51889,
-        "title": "<p>若一个函数的定义处于调用它的函数之前，则在程序开始可以省去该函数的（）或（声明）语句。</p>",
-        "answersNumber": ["原型"],
-        "options": [],
+        "questionId": 59090,
+        "title": "<p>操作系统是整个系统的控制管理中心，它既管理（），又管理软件。</p>",
         "questionType": {
-          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "explain": "",
           "totalNumber": 5,
           "totalScore": 15,
-          "questionNumber": 60,
+          "questionNumber": 38,
           "questionTypeName": "填空题",
           "isCheck": true,
           "systemQuestionType": 4,
           "questionType": 4,
           "singleScore": 3,
           "ratioVoList": [
-            { "difficultyLevelName": "易", "maxNumber": 11, "levelNumber": 0 },
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
             {
               "difficultyLevelName": "较易",
-              "maxNumber": 43,
+              "maxNumber": 38,
               "levelNumber": 5
             },
-            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 4, "levelNumber": 0 }
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52544,
-        "title": "<p>简述面向对象程序设计的主要优点？</p>",
-        "answersNumber": [
-          "（1）可提高程序的重用性；（2）可控制程序的复杂性；（3）可改善程序的可维护性；（4）能够更好地支持大型程序设计；（5）增强了计算机处理信息的范围；（6）能很好地适应新的硬件环境。"
-        ],
-        "options": [],
+        "questionId": 59258,
+        "title": "<p>产生死锁的四个必要条件：</p>",
         "questionType": {
-          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "explain": "",
           "totalNumber": 1,
           "totalScore": 10,
-          "questionNumber": 18,
+          "questionNumber": 12,
           "questionTypeName": "简答题",
           "isCheck": true,
           "systemQuestionType": 5,
@@ -926,22 +716,24 @@
           "singleScore": 10,
           "ratioVoList": [
             { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较易", "maxNumber": 1, "levelNumber": 0 },
-            { "difficultyLevelName": "难", "maxNumber": 3, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 1 }
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 10,
+              "levelNumber": 1
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
           ]
         }
       },
       {
-        "questionId": 52586,
-        "title": "<p>请写出以下程序的运行结果。<br/><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/df383353-50c1-442b-a11e-3cd320c28fac.png'><br/><img src='https://168wangxiao.oss-cn-beijing.aliyuncs.com/education/c1dc2ddc-b8f8-4b51-a984-9537bb4216f6.png'></p>",
-        "answersNumber": [" 0 6 16 6"],
-        "options": [],
+        "questionId": 59263,
+        "title": "<p>某系统中有10台打印机，有三个进程P1，P2，P3分别需要8台，7台和4台。若P1，P2，P3已申请到4台，2台和2台。试问：按银行家算法能安全分配吗？请说明分配过程。</p>",
         "questionType": {
-          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "explain": "",
           "totalNumber": 1,
           "totalScore": 10,
-          "questionNumber": 12,
+          "questionNumber": 8,
           "questionTypeName": "综合题",
           "isCheck": true,
           "systemQuestionType": 5,
@@ -949,14 +741,15 @@
           "singleScore": 10,
           "ratioVoList": [
             { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "较易", "maxNumber": 0, "levelNumber": 0 },
-            { "difficultyLevelName": "难", "maxNumber": 3, "levelNumber": 0 },
-            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 1 }
+            { "difficultyLevelName": "较易", "maxNumber": 8, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
           ]
         }
       }
     ],
     "examPaperAnswerVoList": [],
-    "sysTime": "2022-12-28 15:29:23"
+    "sysTime": "2023-07-03 20:12:12",
+    "startTime": "2023-07-03 20:12:12"
   }
 }

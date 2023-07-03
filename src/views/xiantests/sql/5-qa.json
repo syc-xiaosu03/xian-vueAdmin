@@ -1,0 +1,109 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29871,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108154,108155,108156,108157,108158,108159,108160\"}",
+    "parent_id": 28711,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108154,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>业务流程图</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据流图</p>\"},{\"Key\":\"C\",\"Value\":\"<p>局部E-R图</p>\"},{\"Key\":\"D\",\"Value\":\"<p>基本E-R图</p>\"}]",
+        "questions": "<p>表达业务流程分析结果的图表是（）</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 108155,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>仅Ⅰ和Ⅱ</p>\"},{\"Key\":\"B\",\"Value\":\"<p>仅Ⅱ和Ⅲ</p>\"},{\"Key\":\"C\",\"Value\":\"<p>仅Ⅲ和Ⅳ</p>\"},{\"Key\":\"D\",\"Value\":\"<p>仅Ⅳ和Ⅴ</p>\"}]",
+        "questions": "<p>下列哪些条不属于数据库设计的任务？（）<br/>Ⅰ数据库物理结构设计<br/>Ⅱ.数据库逻辑结构设计<br/>Ⅲ.数据库概念结构设计<br/>Ⅳ.数据库应用结构设计<br/>Ⅴ.数据库管理系统设计</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108156,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>RxR</p>\"},{\"Key\":\"B\",\"Value\":\"<p>R wv R</p>\"},{\"Key\":\"C\",\"Value\":\"<p>of（R）</p>\"},{\"Key\":\"D\",\"Value\":\"<p>f（R）</p>\"}]",
+        "questions": "<p>设有关系R，按条件f对关系R进行选择，正确的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108157,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Y函数依赖于X</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Y对X完全函数依赖</p>\"},{\"Key\":\"C\",\"Value\":\"<p>X为U的候选码</p>\"},{\"Key\":\"D\",\"Value\":\"<p>R属于2NF</p>\"}]",
+        "questions": "<p>设R(U)是属性集U上的关系模式。X,Y是U的子集。若对于R(U)的任意一个可能的关系r，r中不可能存在两个元组在X上的属性值相等，而在Y上的属性值不等，则称（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108158,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>一个实体类型转换为一个关系模式</p>\"},{\"Key\":\"B\",\"Value\":\"<p>一个1:1联系可以转换为一个独立的关系模式，也可以与联系的任意一端实体所对应的关系模式合并</p>\"},{\"Key\":\"C\",\"Value\":\"<p>一个1:n联系可以转换为一个独立的关系模式，也可以与联系的任意一端实体所对应的关系模式合并</p>\"},{\"Key\":\"D\",\"Value\":\"<p>一个m:n联系转换为一个关系模式</p>\"}]",
+        "questions": "<p>下列有关E-R模型向关系模型转换的叙述中。不正确的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108159,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>7</p>\"},{\"Key\":\"B\",\"Value\":\"<p>9</p>\"},{\"Key\":\"C\",\"Value\":\"<p>12</p>\"},{\"Key\":\"D\",\"Value\":\"<p>16</p>\"}]",
+        "questions": "<p>设关系R和关系S的基数分别是3和4，关系T是R与S的广义笛卡尔积，即：T=R×S，则关系T的元数是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108160,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>字节</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据项</p>\"},{\"Key\":\"C\",\"Value\":\"<p>记录</p>\"},{\"Key\":\"D\",\"Value\":\"<p>字符</p>\"}]",
+        "questions": "<p>在数据库系统中，对数据操作的最小单位是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      }
+    ]
+  }
+}

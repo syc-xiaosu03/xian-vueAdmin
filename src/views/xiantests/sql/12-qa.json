@@ -1,0 +1,87 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29880,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108325,108326,108327,108328,108329\"}",
+    "parent_id": 28786,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108325,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>结构冲突</p>\"},{\"Key\":\"B\",\"Value\":\"<p>联系冲突</p>\"},{\"Key\":\"C\",\"Value\":\"<p>类型冲突</p>\"},{\"Key\":\"D\",\"Value\":\"<p>实体冲突</p>\"}]",
+        "questions": "<p>全局E-R模型的设计，需要消除属性冲突、命名冲突和（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108326,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>数据定义语言</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据管理语言</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据操纵语言</p>\"},{\"Key\":\"D\",\"Value\":\"<p>数据控制语言</p>\"}]",
+        "questions": "<p>数据库管理系统中负责数据模式定义的语言是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 108327,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>元组</p>\"},{\"Key\":\"B\",\"Value\":\"<p>行</p>\"},{\"Key\":\"C\",\"Value\":\"<p>记录</p>\"},{\"Key\":\"D\",\"Value\":\"<p>属性</p>\"}]",
+        "questions": "<p>自然连接是构成新关系的有效方法。一般情况下，当对关系R和S使用自然连接时，要求R和S含有一个或多个共有的（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108328,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>并发控制</p>\"},{\"Key\":\"B\",\"Value\":\"<p>存取控制</p>\"},{\"Key\":\"C\",\"Value\":\"<p>安全控制</p>\"},{\"Key\":\"D\",\"Value\":\"<p>完整性控制</p>\"}]",
+        "questions": "<p>在数据库系统中，保证数据及语义正确和有效的功能是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108329,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>E-R模型</p>\"},{\"Key\":\"B\",\"Value\":\"<p>层次模型</p>\"},{\"Key\":\"C\",\"Value\":\"<p>关系模型</p>\"},{\"Key\":\"D\",\"Value\":\"<p>面向对象的模型</p>\"}]",
+        "questions": "<p>在数据库技术中，独立于计算机系统的模型是（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ]
+  }
+}

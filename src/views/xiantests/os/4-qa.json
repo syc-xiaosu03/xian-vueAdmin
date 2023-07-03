@@ -1,0 +1,109 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 16231,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"16722,16721,103596,16719,103594,16717,16716\"}",
+    "parent_id": 15577,
+    "curriculum_id": 284,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 16716,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>RAID5</p>\"},{\"Key\":\"B\",\"Value\":\"<p>RAID1</p>\"},{\"Key\":\"C\",\"Value\":\"<p>RAID10</p>\"},{\"Key\":\"D\",\"Value\":\"<p>RAID0</p>\"}]",
+        "questions": "<p>‎不具有容错功能的RAID技术是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 16717,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>SCAN</p>\"},{\"Key\":\"B\",\"Value\":\"<p>SSTF</p>\"},{\"Key\":\"C\",\"Value\":\"<p>C-SCAN</p>\"},{\"Key\":\"D\",\"Value\":\"<p>FCFS</p>\"}]",
+        "questions": "<p>具有更加均匀的等待时间的磁盘调度算法是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 16719,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>12 24 7 28 18 23 43</p>\"},{\"Key\":\"B\",\"Value\":\"<p>23 24 28 18 12 7 43</p>\"},{\"Key\":\"C\",\"Value\":\"<p>18 22 24 28 43 12 7</p>\"},{\"Key\":\"D\",\"Value\":\"<p>其它</p>\"}]",
+        "questions": "<p>假设有一个磁盘访问的请求系列为： 12 24 7 28 18 23 43。当前磁头在磁道20，往0方向移动。则采用SSTF算法访问的请求为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 16721,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>120</p>\"},{\"Key\":\"B\",\"Value\":\"<p>360</p>\"},{\"Key\":\"C\",\"Value\":\"<p>60</p>\"},{\"Key\":\"D\",\"Value\":\"<p>240</p>\"}]",
+        "questions": "<p>7200RPM的磁盘的转速是（）转/秒。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 16722,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>分区</p>\"},{\"Key\":\"B\",\"Value\":\"<p>MBR</p>\"},{\"Key\":\"C\",\"Value\":\"<p>低级格式化</p>\"},{\"Key\":\"D\",\"Value\":\"<p>高级格式化</p>\"}]",
+        "questions": "<p>将物理磁盘划分为扇区的操作有（）完成。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 103594,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>30000</p>\"},{\"Key\":\"B\",\"Value\":\"<p>7200</p>\"},{\"Key\":\"C\",\"Value\":\"<p>15000</p>\"},{\"Key\":\"D\",\"Value\":\"<p>10000</p>\"}]",
+        "questions": "<p>‌一个磁盘的平均旋转延迟大约为1ms，则该磁盘的RPM为（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 103596,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>30MB</p>\"},{\"Key\":\"B\",\"Value\":\"<p>15MB</p>\"},{\"Key\":\"C\",\"Value\":\"<p>7.5MB</p>\"},{\"Key\":\"D\",\"Value\":\"<p>其它</p>\"}]",
+        "questions": "<p>‌一个磁盘有2个磁片，每个磁片上有120个柱面，每个柱面有64个扇区。则这个磁盘的容量是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      }
+    ]
+  }
+}

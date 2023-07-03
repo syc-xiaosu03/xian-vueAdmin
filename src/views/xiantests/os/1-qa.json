@@ -1,0 +1,142 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 16228,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"103567,103566,103565,103564,103563,103562,16746,16745,16744,16743\"}",
+    "parent_id": 15448,
+    "curriculum_id": 284,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 16743,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>硬盘</p>\"},{\"Key\":\"B\",\"Value\":\"<p>寄存器</p>\"},{\"Key\":\"C\",\"Value\":\"<p>内存</p>\"},{\"Key\":\"D\",\"Value\":\"<p>高速缓存</p>\"}]",
+        "questions": "<p>CPU不能直接访问的存储器是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 16744,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>一种联机的多用户交互式的操作系统</p>\"},{\"Key\":\"B\",\"Value\":\"<p>在单位时间内，每个用户获得一个时间片并运行</p>\"},{\"Key\":\"C\",\"Value\":\"<p>每个用户都能实时得到服务</p>\"},{\"Key\":\"D\",\"Value\":\"<p>一般采用时间片轮转方式使一台计算机为多个用户服务</p>\"}]",
+        "questions": "<p>以下有关分时系统的论述，错误的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 16745,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>iOS</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Windows Phone</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Android</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Unix</p>\"}]",
+        "questions": "<p>以下操作系统不属于手持设备系统的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 16746,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>1</p>\"},{\"Key\":\"B\",\"Value\":\"<p>0</p>\"},{\"Key\":\"C\",\"Value\":\"<p>3</p>\"},{\"Key\":\"D\",\"Value\":\"<p>2</p>\"}]",
+        "questions": "<p>一次系统调用的完成需要进行（）次模式转换。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 103562,
+        "difficulty_level": "较难",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>程序一个一个依次装入内容并顺序执行</p>\"},{\"Key\":\"B\",\"Value\":\"<p>同一个程序可以对应多个不同的进程</p>\"},{\"Key\":\"C\",\"Value\":\"<p>有多个程序同时进入主存并发运行</p>\"},{\"Key\":\"D\",\"Value\":\"<p>有多个程序同时进入CPU运行</p>\"}]",
+        "questions": "<p>多道程序设计是指（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 103563,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>内存越多</p>\"},{\"Key\":\"B\",\"Value\":\"<p>用户越多</p>\"},{\"Key\":\"C\",\"Value\":\"<p>用户越少</p>\"},{\"Key\":\"D\",\"Value\":\"<p>内存越少</p>\"}]",
+        "questions": "<p>在分时系统中，如果时间片一定，那么（），响应时间越长。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 103564,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>用户进程与操作系统进程</p>\"},{\"Key\":\"B\",\"Value\":\"<p>不同进程</p>\"},{\"Key\":\"C\",\"Value\":\"<p>主程序与子程序</p>\"},{\"Key\":\"D\",\"Value\":\"<p>CPU和硬盘控制器</p>\"}]",
+        "questions": "<p>单核单处理计算机系统中，（）可并行操作。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 103565,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>设备控制器</p>\"},{\"Key\":\"B\",\"Value\":\"<p>总线</p>\"},{\"Key\":\"C\",\"Value\":\"<p>CPU</p>\"},{\"Key\":\"D\",\"Value\":\"<p>内存</p>\"}]",
+        "questions": "<p>控制设备工作的物理部件是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 103566,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>分布式系统</p>\"},{\"Key\":\"B\",\"Value\":\"<p>松耦合系统</p>\"},{\"Key\":\"C\",\"Value\":\"<p>紧耦合系统</p>\"},{\"Key\":\"D\",\"Value\":\"<p>集群系统</p>\"}]",
+        "questions": "<p>共享计算机总线和内存的多处理器系统是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 103567,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>键盘</p>\"},{\"Key\":\"B\",\"Value\":\"<p>定时器</p>\"},{\"Key\":\"C\",\"Value\":\"<p>USB</p>\"},{\"Key\":\"D\",\"Value\":\"<p>鼠标</p>\"}]",
+        "questions": "<p>（）是操作系统不可缺少的硬件支持。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      }
+    ]
+  }
+}

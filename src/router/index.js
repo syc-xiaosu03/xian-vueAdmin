@@ -61,7 +61,7 @@ export const constantRoutes = [
     redirect: '/xian/note',
     name: 'xian-note',
     meta: {
-      title: '西安工业大学',
+      title: '西安工业大学期末考试',
       icon: 'nested'
     },
     children: [
@@ -115,7 +115,36 @@ export const constantRoutes = [
       }
     ]
   },
-
+  {
+    path: '/xiantests',
+    component: Layout,
+    redirect: '/xiantests/note',
+    name: 'xiantests',
+    meta: {
+      title: '西工大-测试题汇总',
+      icon: 'nested'
+    },
+    children: [
+      {
+        path: '/xiantests/note',
+        component: () => import('@/views/xiantests/note/index'), // Parent router-view
+        name: 'xiantests-note',
+        meta: { title: '笔记' }
+      },
+      {
+        path: '/xiantests/os',
+        component: () => import('@/views/xiantests/os/index'), // Parent router-view
+        name: 'xiantests-os',
+        meta: { title: '操作系统' }
+      },
+      {
+        path: '/xiantests/sql',
+        component: () => import('@/views/xiantests/sql/index'), // Parent router-view
+        name: 'xiantests-sql',
+        meta: { title: '数据库原理及应用' }
+      }
+    ]
+  },
   {
     path: '/example',
     component: Layout,

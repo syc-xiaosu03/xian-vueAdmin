@@ -8,15 +8,19 @@
         <!-- <div class="qqq">{{ qa.questionType.explain }}</div> -->
         <div class="qa-title">
           <span>{{ idx + 1 }}</span>
-          <div v-html="qa.title" />
+          <div v-html="qa.questions" />
         </div>
         <ul class="qa-options">
           <!-- <li v-for="(op, subIdx) in qa.options" :key="subIdx" v-html="op" /> -->
           <li v-for="(op, subIdx) in qa.options" :key="subIdx" v-html="optionItem(op, subIdx)" />
         </ul>
-        <div v-if="qa.answersNumber" class="qa-answer">
+        <div v-if="qa.ret_answer" class="qa-answer">
           <span>答: </span>
-          <div v-html="qa.answersNumber.join(',')" />
+          <div class="content" v-html="qa.answer" />
+        </div>
+        <div v-if="qa.ret_answer" class="qa-answer ret_a">
+          <span>自答: </span>
+          <div class="content" v-html="qa.ret_answer" />
         </div>
       </el-card>
     </template>
@@ -53,7 +57,7 @@ export default {
   },
   methods: {
     optionItem(op, idx) {
-      return `<strong>${letter[idx]}: </strong> ${op}`
+      return `<strong>${op.Key}: </strong> ${op.Value}`
     }
   }
 }
@@ -92,19 +96,27 @@ export default {
     }
     .qa-answer {
       font-size: 14px;
-      color: red;
+      color: green;
       font-weight: 700;
       // background-color: lavender;
       padding: 1px 0 2px 50px;
 
       display: flex;
-      // height: 50px;
-      // line-height: 50px;
+      ::v-deep .content {
+          flex: 1;
+          img{
+            width: 100%;
+          }
+      }
       ::v-deep p {
         margin: 0;
       }
       span {
-        padding-right: 10px;
+        width: 50px;
+        text-align: left;
+      }
+      &.ret_a{
+        color: red;
       }
     }
   }
