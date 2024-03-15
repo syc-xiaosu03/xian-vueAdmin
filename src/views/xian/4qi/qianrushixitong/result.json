@@ -1,0 +1,911 @@
+{
+  "success": true,
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "paperId": 2148348676,
+    "examId": 2141354596,
+    "paperContents": [
+      {
+        "questionId": 160075,
+        "title": "<p>关于 ARM 处理器的异常向量表的描述正确的是（）。</p>",
+        "options": [
+          "<p>异常向量表放的是跳转指令，执行该指令进入相应中断服务子程序</p>",
+          "<p>异常向量表放的是中断服务子程序的入口地址</p>",
+          "<p>异常向量表放的就是中断服务子程序</p>",
+          "<p>以上都不是</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160070,
+        "title": "<p>由于受到某种强干扰导致程序“跑飞”，ARM 处理器的最可能进入哪一种工作模式（）。</p>",
+        "options": [
+          "<p>未定义指令中止模式</p>",
+          "<p>管理模式</p>",
+          "<p>数据访问终止模式</p>",
+          "<p>系统模式</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160073,
+        "title": "<p>下面哪一种工作模式不属于 ARM 异常模式（）。</p>",
+        "options": [
+          "<p>快速中断模式</p>",
+          "<p>数据访问终止模式</p>",
+          "<p>系统模式</p>",
+          "<p>管理模式</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160082,
+        "title": "<p>ARM 处理器的异常的正确理解应该是（）。</p>",
+        "options": [
+          "<p>内部异常</p>",
+          "<p>系统调用</p>",
+          "<p>外部中断</p>",
+          "<p>以上都是</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160069,
+        "title": "<p>USB2.0 规范支持的速率有（）。</p>",
+        "options": [
+          "<p>480Mbps</p>",
+          "<p>12Mbps</p>",
+          "<p>1.5Mbps</p>",
+          "<p>以上都是</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160064,
+        "title": "<p>下列关于 RS232C 描述不正确的是（）。</p>",
+        "options": [
+          "<p>RS232C 采用非归零、双极性编码</p>",
+          "<p>&nbsp;RS232C使用负逻辑规定逻辑电平，-5V~-15V表示逻辑“1”</p>",
+          "<p>RS232C 引脚包含信号地</p>",
+          "<p>RS232C 采用同步通信协议</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160088,
+        "title": "<p>以下哪个处理器属于嵌入式处理器（）？</p>",
+        "options": [
+          "<p>看门狗</p>",
+          "<p>奔腾</p>",
+          "<p>S3C44</p>",
+          "<p>MP3 播放器</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160098,
+        "title": "<p>指令“ADD R2, R1, #10”的寻址方式为（）。</p>",
+        "options": [
+          "<p>多寄存器寻址</p>",
+          "<p>立即寻址</p>",
+          "<p>堆栈寻址</p>",
+          "<p>寄存器间接寻址</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160087,
+        "title": "<p>在总线时序协议中，时序主要用于描述（）出现在总线上的定位方式。</p>",
+        "options": [
+          "<p>事件</p>",
+          "<p>时钟信号</p>",
+          "<p>高电平</p>",
+          "<p>上升沿</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160091,
+        "title": "<p>在嵌入式系统设计中，嵌入式处理器选型是在进行（）时完成。</p>",
+        "options": [
+          "<p>系统集成</p>",
+          "<p>软硬件设计</p>",
+          "<p>需求分析</p>",
+          "<p>体系结构设计</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 39,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160120,
+        "title": "<p>内核提供与中断相关的功能包括（）？</p>",
+        "options": [
+          "<p>获取ISR入口地址</p>",
+          "<p>挂接ISR：中断向量与处理函数关联</p>",
+          "<p>获取中断嵌套层数</p>",
+          "<p>开/关中断</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 39,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160111,
+        "title": "<p>grid，block，thread是CUDA编程中的重要概念，以下说法正确的有（）。</p>",
+        "options": [
+          "<p>一个thread grid可以包含一个或多个threadblock</p>",
+          "<p>每个block有一个独特的block index; 可以是1D,2D, or 3D</p>",
+          "<p>每个thread有一个独特的thread index, 可以是1D, 2D, or 3D</p>",
+          "<p>thread index主要用于计算内存地址与作出控制流决定</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 39,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160132,
+        "title": "<p>如下哪些是复杂嵌入式软件的构成成分（）？</p>",
+        "options": [
+          "<p>文件系统</p>",
+          "<p>嵌入式操作系统</p>",
+          "<p>板级支持包</p>",
+          "<p>Boot Loader</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 39,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160136,
+        "title": "<p>下列关于RS232C 描述正确的是（）。</p>",
+        "options": [
+          "<p>RS232C 采用非归零、双极性编码</p>",
+          "<p>RS232C 使用负逻辑规定逻辑电平，-5V~-15V 表示逻辑“1”</p>",
+          "<p>RS232C 采用同步通信协议</p>",
+          "<p>RS232C 引脚包含信号地</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 39,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160106,
+        "title": "<p>在嵌入式系统中，应用程序需要通过内存来存储以下内容（）。</p>",
+        "options": [
+          "<p>操作系统内核</p>",
+          "<p>指令代码</p>",
+          "<p>程序代码</p>",
+          "<p>静态分配的数据</p>",
+          "<p>用来存储数据的堆、栈或动态分配的数据</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 39,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 39,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160167,
+        "title": "<p>在ARM的数据处理指令中，大多数均可在指令助记符后加S来设置状态寄存器的条件码。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160197,
+        "title": "<p>ARM7TDMI处理器数据总线宽度为16位。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160176,
+        "title": "<p>任何用户均可使用fdisk –l查看磁盘分区。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160211,
+        "title": "<p>异常结束时，异常处理程序必须将LR中的值减去偏移量后存入PC寄存器，以实现程序的异常返回。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160187,
+        "title": "<p>一个嵌入式处理器给它供电后就能独立工作。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160154,
+        "title": "<p>不同的 CPU，它的Boot Loader都相同。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160159,
+        "title": "<p>基于任务的周期分配，周期越短，优先级越高。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160157,
+        "title": "<p>资源是不可抢占的。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160209,
+        "title": "<p>系统在使用看门狗时，要求看门狗定时器定时时间必须等于系统最大程序执行循环周期。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160181,
+        "title": "<p>所有具备中央处理器的电子设备都属于嵌入式设备。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160239,
+        "title": "<p>ARM7TDMI中,T表示支持16位Thumb指令集,D表示在片可调试，M表示内嵌乘法器Multiplier，I表示（）,支持在线断点和调试。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 38,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 38,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160222,
+        "title": "<p>uClinux与标准Linux的最大区别在于（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 38,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 38,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160215,
+        "title": "<p>从嵌入式系统设计的角度来看，嵌入式软件结构可以分为（）、前后台系统、单处理器多任务系统以及多处理器多任务系统等几大类。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 38,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 38,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160241,
+        "title": "<p>I2C总线有两条重要的信号线，一是串行数据线SDA，另一个是（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 38,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 38,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160246,
+        "title": "<p>实时系统的关键问题是保证系统的（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 38,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 38,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160142,
+        "title": "<p>简述一下嵌入式设计流程。</p>",
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 12,
+          "questionTypeName": "简答题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 5,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 12,
+              "levelNumber": 1
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 160252,
+        "title": "<p>试写抢占式和非抢占式的区别。</p>",
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 8,
+          "questionTypeName": "综合题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 8,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 8, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      }
+    ],
+    "examPaperAnswerVoList": [],
+    "sysTime": "2023-12-17 17:51:06",
+    "startTime": "2023-12-17 17:51:06"
+  }
+}

@@ -1,0 +1,90 @@
+{
+  "paperAnswers": [
+    { "answer": ["<p>部分相同</p>"], "paperQuestionId": 29856 },
+    { "answer": ["<p>public</p>"], "paperQuestionId": 51024 },
+    {
+      "answer": ["<p>该结构体中所有成员所需存储空间的总和。</p>"],
+      "paperQuestionId": 51030
+    },
+    {
+      "answer": ["<p>类与对象没有什么实际关系。</p>"],
+      "paperQuestionId": 29841
+    },
+    { "answer": ["<p>提高代码的可重用性</p>"], "paperQuestionId": 51031 },
+    { "answer": ["<p>在构造函数中调用虚函数</p>"], "paperQuestionId": 29859 },
+    { "answer": ["<p>public成员</p>"], "paperQuestionId": 29855 },
+    { "answer": ["<p>;</p>"], "paperQuestionId": 51035 },
+    {
+      "answer": ["<p>只能重载C++中已经有的运算符，不能定义新运算符</p>"],
+      "paperQuestionId": 29862
+    },
+    { "answer": ["<p>使用方便，提高可读性</p>"], "paperQuestionId": 51026 },
+    {
+      "answer": [
+        "<p>静态代码块随着类的加载而加载</p>",
+        "<p>静态代码块指的是被static关键字修饰的代码块</p>",
+        "<p>使用静态代码块可以实现类的初始化</p>"
+      ],
+      "paperQuestionId": 51607
+    },
+    {
+      "answer": [
+        "<p>方法重载要求方法名称必须相同</p>",
+        "<p>重载方法的参数列表必须不一致</p>",
+        "<p>重载方法的返回值类型可以不一致</p>"
+      ],
+      "paperQuestionId": 51635
+    },
+    {
+      "answer": [
+        "<p>局部变量是在子程序内部使用的变量</p>",
+        "<p>局部变量只能在本模块内部使用</p>",
+        "<p>外部变量可以在其他模块中使用</p>"
+      ],
+      "paperQuestionId": 51605
+    },
+    {
+      "answer": ["<p>lib目录</p>", "<p>jre目录</p>", "<p>include目录</p>"],
+      "paperQuestionId": 51650
+    },
+    {
+      "answer": [
+        "<p>接口只能被类实现，不能用来声明对象</p>",
+        "<p>接口对象只能等于实现该接口的类的对象</p>"
+      ],
+      "paperQuestionId": 51610
+    },
+    { "answer": ["错"], "paperQuestionId": 52227 },
+    { "answer": ["对"], "paperQuestionId": 52188 },
+    { "answer": ["错"], "paperQuestionId": 52200 },
+    { "answer": ["对"], "paperQuestionId": 52146 },
+    { "answer": ["对"], "paperQuestionId": 52157 },
+    { "answer": ["对"], "paperQuestionId": 52151 },
+    { "answer": ["对"], "paperQuestionId": 52218 },
+    { "answer": ["对"], "paperQuestionId": 52211 },
+    { "answer": ["错"], "paperQuestionId": 52153 },
+    { "answer": ["对"], "paperQuestionId": 52207 },
+    { "answer": ["<p>静态</p>"], "paperQuestionId": 51861 },
+    { "answer": ["<p>成员</p>"], "paperQuestionId": 51856 },
+    { "answer": ["<p>二义性</p>"], "paperQuestionId": 51863 },
+    { "answer": ["<p>4个字节</p>"], "paperQuestionId": 51905 },
+    { "answer": ["<p>原型</p>"], "paperQuestionId": 51889 },
+    {
+      "answer": [
+        "<p>答：</p><p>（1）可提高程序的重用性；</p><p>（2）可控制程序的复杂性；</p><p>（3）可改善程序的可维护性；</p><p>（4）能够更好地支持大型程序设计；</p><p>（5）增强了计算机处理信息的范围；</p><p>（6）能很好地适应新的硬件环境。</p>"
+      ],
+      "paperQuestionId": 52544
+    },
+    {
+      "answer": [
+        "<p>答： 0&nbsp;&nbsp;&nbsp;&nbsp;6&nbsp;&nbsp;&nbsp;&nbsp;16&nbsp;&nbsp;&nbsp;6</p>"
+      ],
+      "paperQuestionId": 52586
+    }
+  ],
+  "paperId": 2146999315,
+  "paperStartTime": "2022-12-28 15:29:23",
+  "studentId": "39270",
+  "examId": 2141352573,
+  "remark": 2
+}

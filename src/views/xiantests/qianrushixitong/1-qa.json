@@ -1,0 +1,110 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 44950,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"176175,176176,176177,176178,176179,176180,176181\"}",
+    "parent_id": 32323,
+    "curriculum_id": 293,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "903",
+    "create_time": "2023-08-16T06:35:28.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 176175,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>30H</p>\"},{\"Key\":\"B\",\"Value\":\"<p>26</p>\"},{\"Key\":\"C\",\"Value\":\"<p>26H</p>\"},{\"Key\":\"D\",\"Value\":\"<p>30</p>\"}]",
+        "questions": "<p>内部RAM中，位地址为30H的位，该位所在字节的字节地址为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176176,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>04H</p>\"},{\"Key\":\"B\",\"Value\":\"<p>1BH</p>\"},{\"Key\":\"C\",\"Value\":\"<p>13H</p>\"},{\"Key\":\"D\",\"Value\":\"<p>0BH</p>\"}]",
+        "questions": "<p>MCS-51单片机复位后，R4所对应的存储单元的地址为（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 176177,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>当前正在执行指令的下一条指令的地址</p>\"},{\"Key\":\"B\",\"Value\":\"<p>当前正在执行指令的地址</p>\"},{\"Key\":\"C\",\"Value\":\"<p>当前正在执行指令的前一条指令的地址</p>\"},{\"Key\":\"D\",\"Value\":\"<p>控制器中指令寄存器的地址</p>\"}]",
+        "questions": "<p>MCS-51内部PC的值是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 176178,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>PSEN</p>\"},{\"Key\":\"B\",\"Value\":\"<p>ALE</p>\"},{\"Key\":\"C\",\"Value\":\"<p>VCC</p>\"},{\"Key\":\"D\",\"Value\":\"<p>RD</p>\"}]",
+        "questions": "<p>8051单片机引脚中作为地址锁存信号输出的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 176179,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>相应端口先清“0”</p>\"},{\"Key\":\"B\",\"Value\":\"<p>外接高电平</p>\"},{\"Key\":\"C\",\"Value\":\"<p>相应端口先置“1”</p>\"},{\"Key\":\"D\",\"Value\":\"<p>外接上拉电阻</p>\"}]",
+        "questions": "<p>P1口作普通输入口之前必须（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176180,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>控制器</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据存储器</p>\"},{\"Key\":\"C\",\"Value\":\"<p>程序存储器</p>\"},{\"Key\":\"D\",\"Value\":\"<p>累加器</p>\"}]",
+        "questions": "<p>在MCU中，通常将一些中间计算结果放在（）中。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 176181,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>70H</p>\"},{\"Key\":\"B\",\"Value\":\"<p>00H</p>\"},{\"Key\":\"C\",\"Value\":\"<p>30H</p>\"},{\"Key\":\"D\",\"Value\":\"<p>20H</p>\"}]",
+        "questions": "<p>MCS-51中既可位寻址又可字节寻址的RAM单元地址是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

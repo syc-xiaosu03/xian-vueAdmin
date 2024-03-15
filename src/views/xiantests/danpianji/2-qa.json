@@ -1,0 +1,88 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 8322,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"100372,100371,100369,100368,100366\"}",
+    "parent_id": 4742,
+    "curriculum_id": 169,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 100366,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>通信是信息传输的过程</p>\"},{\"Key\":\"B\",\"Value\":\"<p>通信是一种传输方式</p>\"},{\"Key\":\"C\",\"Value\":\"<p>无线通信专网2G、3G、4G、5G</p>\"},{\"Key\":\"D\",\"Value\":\"<p>有线通信包括以太网、USB、TYPE_C、RS232等</p>\"}]",
+        "questions": "<p>下列说法中，错误的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 100368,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>计算机通信是指计算机与计算机之间的信息交换</p>\"},{\"Key\":\"B\",\"Value\":\"<p>通信方式只有并行通信</p>\"},{\"Key\":\"C\",\"Value\":\"<p>现代测控系统中信息的交换多采用并行通信方式</p>\"},{\"Key\":\"D\",\"Value\":\"<p>并行通信适合远距离传输</p>\"}]",
+        "questions": "<p>下列说法中正确的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 100369,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>SCSI</p>\"},{\"Key\":\"B\",\"Value\":\"<p>RS232</p>\"},{\"Key\":\"C\",\"Value\":\"<p>IDE</p>\"},{\"Key\":\"D\",\"Value\":\"<p>PCI</p>\"}]",
+        "questions": "<p>下列不属于并行通信的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 100371,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>控制简单</p>\"},{\"Key\":\"B\",\"Value\":\"<p>速度快</p>\"},{\"Key\":\"C\",\"Value\":\"<p>成本高</p>\"},{\"Key\":\"D\",\"Value\":\"<p>传输线少</p>\"}]",
+        "questions": "<p>下列不属于并行通信特点的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 100372,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>全双工模式</p>\"},{\"Key\":\"B\",\"Value\":\"<p>半双工同步模式</p>\"},{\"Key\":\"C\",\"Value\":\"<p>同步模式</p>\"},{\"Key\":\"D\",\"Value\":\"<p>硬件流量控制</p>\"}]",
+        "questions": "<p>USARTx_RTS的引脚配置是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

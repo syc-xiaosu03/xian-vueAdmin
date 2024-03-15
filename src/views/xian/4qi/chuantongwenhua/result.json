@@ -1,0 +1,898 @@
+{
+  "success": true,
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "paperId": 2148275147,
+    "examId": 2141354923,
+    "paperContents": [
+      {
+        "questionId": 8927,
+        "title": "<p>中国权力的两股势力中，底层的是（）。</p>",
+        "options": ["<p>小农</p>", "<p>王权</p>", "<p>军人</p>", "<p>商户</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8923,
+        "title": "<p>中国古代的贵族对自己手下的民众是恩威并施，给民众以恩惠，是因为中国的什么意识（）。</p>",
+        "options": ["<p>民本</p>", "<p>人本</p>", "<p>家族</p>", "<p>人道</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161216,
+        "title": "<p>中国的一位著名学者，把文化比喻为人的生命，认为文化是国家或民族生活的绵延。这位学者是（）。</p>",
+        "options": [
+          "<p>辜鸿铭</p>",
+          "<p>钱穆</p>",
+          "<p>李泽厚</p>",
+          "<p>梁启超</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8470,
+        "title": "<p>春秋战国时期，民间开始出现了私人办的学校，（）是其首创者。</p>",
+        "options": ["<p>老子</p>", "<p>孔子</p>", "<p>墨子</p>", "<p>庄子</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8925,
+        "title": "<p>下面不属于儒家“仁”的含义的（）。</p>",
+        "options": [
+          "<p>爱人</p>",
+          "<p>克己复礼</p>",
+          "<p>兼爱</p>",
+          "<p>君子的事</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8566,
+        "title": "<p>宫廷文化属于（）。</p>",
+        "options": [
+          "<p>上层文化</p>",
+          "<p>底层文化</p>",
+          "<p>市民文化</p>",
+          "<p>中层文化</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161221,
+        "title": "<p>提出“轴心时代”这一著名概念的西方学者是（）。</p>",
+        "options": [
+          "<p>爱德华·泰勒</p>",
+          "<p>海德格尔</p>",
+          "<p>斯宾格勒</p>",
+          "<p>雅斯贝尔斯</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8376,
+        "title": "<p>阿房宫赋的作者就是（）。</p>",
+        "options": [
+          "<p>杜甫</p>",
+          "<p>李白</p>",
+          "<p>杜牧</p>",
+          "<p>孟浩然</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8373,
+        "title": "<p>人类文化发展过程中呈现出的某种外部状态与联系是（）。</p>",
+        "options": [
+          "<p>文化现象</p>",
+          "<p>文化思潮</p>",
+          "<p>文化事象</p>",
+          "<p>文化产品</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8372,
+        "title": "<p>下列选项中属于狭义文化产品的就是（）。</p>",
+        "options": [
+          "<p>生产工具</p>",
+          "<p>生活器具</p>",
+          "<p>运输工具</p>",
+          "<p>典籍</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 87,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 30, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 46,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 11, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8817,
+        "title": "<p>关于《齐民要术》的描述，正确的是（）。</p>",
+        "options": [
+          "<p>中国现存最完整的一部农书</p>",
+          "<p>北魏时贾思勰编写</p>",
+          "<p>全书10卷，92篇，11万多字</p>",
+          "<p>提出了按照自然规律搞好农业生产的宝贵思想</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 56,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 4, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 37,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 15, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8413,
+        "title": "<p>魏晋南北朝时期史学成就的主要标志有（）。</p>",
+        "options": [
+          "<p>范晔的后汉书</p>",
+          "<p>陈寿的三国志</p>",
+          "<p>班固的汉书</p>",
+          "<p>萧子显的南齐书</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 56,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 4, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 37,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 15, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161240,
+        "title": "<p>“中医学四大经典”指（）。</p>",
+        "options": [
+          "<p>《神农本草》</p>",
+          "<p>《伤寒论》</p>",
+          "<p>《黄帝内经》</p>",
+          "<p>《金匮要略》</p>",
+          "<p>《本草纲目》</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 56,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 4, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 37,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 15, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8690,
+        "title": "<p>中国文化属于（）。</p>",
+        "options": [
+          "<p>民族文化</p>",
+          "<p>多民族构成的共同体文化</p>",
+          "<p>国别文化</p>",
+          "<p>汉民族文化</p>",
+          "<p>东方文化</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 56,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 4, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 37,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 15, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8604,
+        "title": "<p>20世纪30、40年代新儒家的代表有（）。</p>",
+        "options": [
+          "<p>贺麟</p>",
+          "<p>冯友兰</p>",
+          "<p>余英时</p>",
+          "<p>刘述先</p>",
+          "<p>胡适</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 56,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 4, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 37,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 15, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8400,
+        "title": "<p>宋明理学自宋为兴起后，在政治思想领域占有统治地位，封建礼教所鼓吹的“三纲五常”成了人们的基本规范。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161294,
+        "title": "<p>中国的系统观是到了近代才出现。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8498,
+        "title": "<p>文化在多元发生以后，走向统一化的文明进程，这个过程是非常缓慢的。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161295,
+        "title": "<p>老子认为“无为而无不为”，无为是指不做任何行动。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161296,
+        "title": "<p>《周易》只是一本筮占的封建迷信书。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8396,
+        "title": "<p>中国文化具有贵和尚中的精神。“中”是把众多矛盾的事物有机地统一起来，构成一个和谐的整体。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161301,
+        "title": "<p>庄子的平等观是指人人平等。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8800,
+        "title": "<p>中国传统文化是指1840年鸦片战争以前的文化。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8808,
+        "title": "<p>古代宫殿建筑与帝王陵墓建筑的风格是一致的，都显示出高、大、深、庄的特征。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161304,
+        "title": "<p>推恩令的实施，是古代社会实施“多子分继财产”的开始。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 84,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 13, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 56,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 14, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161250,
+        "title": "<p>中国古代社会长达数千年，其社会结构模式是一个以（）为主体的宗法专制社会。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 59,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 10, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 40,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8486,
+        "title": "<p>印章字体，一般采用（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 59,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 10, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 40,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8385,
+        "title": "<p>20世纪80年代新儒家的代表人物是（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 59,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 10, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 40,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8794,
+        "title": "<p>中国音乐的五声音阶体系是指宫、商、角、徴、（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 59,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 10, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 40,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8584,
+        "title": "<p>宗法制形成于（）代，秦代以后名存实亡。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 59,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 10, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 40,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 9, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 161358,
+        "title": "<p>狭义文化应把握的要点是什么？</p>",
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 3,
+          "questionTypeName": "简答题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 5,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 8513,
+        "title": "<p>简述汉代统治者对法制进行的改革。</p>",
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 26,
+          "questionTypeName": "综合题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 8,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 20,
+              "levelNumber": 1
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 6, "levelNumber": 0 }
+          ]
+        }
+      }
+    ],
+    "examPaperAnswerVoList": [],
+    "sysTime": "2023-12-16 19:26:47",
+    "startTime": "2023-12-16 19:26:47"
+  }
+}

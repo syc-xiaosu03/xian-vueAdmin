@@ -1,0 +1,896 @@
+{
+  "success": true,
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "paperId": 2148005669,
+    "examId": 2141354558,
+    "paperContents": [
+      {
+        "questionId": 46021,
+        "title": "<p>下列设备属于资源子网的是（）。</p>",
+        "options": [
+          "<p>打印机</p>",
+          "<p>集中器</p>",
+          "<p>路由器</p>",
+          "<p>交换机</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46007,
+        "title": "<p>下列哪一种传输方式被用于计算机内部的数据传输（）？</p>",
+        "options": ["<p>串行</p>", "<p>并行</p>", "<p>同步</p>", "<p>异步</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46013,
+        "title": "<p>在下列功能中，哪一个最好的描述了OSI（开放系统互连）模型的数据链路层（）？</p>",
+        "options": [
+          "<p>保证数据正确的顺序、无错和完整</p>",
+          "<p>处理信号通过介质的传输</p>",
+          "<p>提供用户与网络的接口</p>",
+          "<p>控制报文通过网络的路由选择</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46017,
+        "title": "<p>若对一个最大频率为35kHz的声音信号进行采样，则最适合的采样频率为（）。</p>",
+        "options": [
+          "<p>15kHz</p>",
+          "<p>35kHz</p>",
+          "<p>45kHz</p>",
+          "<p>75kHz</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46008,
+        "title": "<p>在串行传输中，所有的数据字符的比特（）。</p>",
+        "options": [
+          "<p>在同一根导线上同时传输</p>",
+          "<p>在多根导线上同时传输</p>",
+          "<p>在传输介质上一次传输一位</p>",
+          "<p>以一组16位的形式在传输介质上传输</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46023,
+        "title": "<p>如果对某模拟信号进行采样后，有256个量化级别，则（）。</p>",
+        "options": [
+          "<p>用位7bit来表示结果</p>",
+          "<p>用1个字节来表示结果</p>",
+          "<p>用256位二进制数来表示结果</p>",
+          "<p>用128位二进制数来表示</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46018,
+        "title": "<p>实际上提供虚电路服务的通信子网内部的实际操作（）。</p>",
+        "options": [
+          "<p>既可以用虚电路也可以用数据报</p>",
+          "<p>只可以是虚电路方式</p>",
+          "<p>只可以是数据报方式</p>",
+          "<p>既不是虚电路也不是数据报</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46026,
+        "title": "<p>在OSI参考模型中，物理层的基本数据单元是（）。</p>",
+        "options": ["<p>报文</p>", "<p>分组</p>", "<p>帧</p>", "<p>比特流</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46020,
+        "title": "<p>ATM的信元头及信元的长度为（）。</p>",
+        "options": [
+          "<p>2字节和50字节</p>",
+          "<p>3字节和48字节</p>",
+          "<p>4字节和52字节</p>",
+          "<p>5字节和53字节</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46014,
+        "title": "<p>OSI模型的物理层负责下列哪一种功能（）？</p>",
+        "options": [
+          "<p>格式化报文</p>",
+          "<p>为数据选择通过网络的路由</p>",
+          "<p>定义连接到介质的特征</p>",
+          "<p>提供远程文件访问能力</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 4 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 16,
+              "levelNumber": 6
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46040,
+        "title": "<p>下列哪些项属于计算机网络中的传输介质（）。</p>",
+        "options": [
+          "<p>光纤</p>",
+          "<p>双绞线</p>",
+          "<p>微波</p>",
+          "<p>铜缆</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 27,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 8, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 3, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46048,
+        "title": "<p>计算机网络的拓扑结构可分为（）和环形网络。</p>",
+        "options": [
+          "<p>总线型网络</p>",
+          "<p>星型网络</p>",
+          "<p>树型网络</p>",
+          "<p>复合型网络</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 27,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 8, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 3, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46053,
+        "title": "<p>计算机的应用领域包括（）、计算机辅助系统和计算机网络与通信。</p>",
+        "options": [
+          "<p>科学计算、信息管理</p>",
+          "<p>高速运算、网络管理</p>",
+          "<p>过程控制、人工智能</p>",
+          "<p>卫星发射、导弹控制</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 27,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 8, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 3, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46036,
+        "title": "<p>下面关于网络互联设备叙述正确的是（）。</p>",
+        "options": [
+          "<p>在数据链路层扩展局域网可使用网桥</p>",
+          "<p>在物理层扩展局域网可使用转发器和集线器</p>",
+          "<p>以太网交换机实质上是一个多端口网桥，工作在网络层</p>",
+          "<p>路由器用来互连不同的网络，是网络层设备</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 27,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 8, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 3, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46037,
+        "title": "<p>下面关于IP地址与硬件地址的叙述正确的是（）。</p>",
+        "options": [
+          "<p>硬件地址是数据链路层和物理层使用的地址，IP地址是网络层和以上各层使用的。</p>",
+          "<p>在局域网中，硬件地址又称为物理地址或MAC地址。</p>",
+          "<p>IP地址不能直接用来进行通信，在实际网络的链路上传送数据帧必须使用硬件地址。</p>",
+          "<p>RARP是解决同一个局域网上的主机或路由器的IP地址和硬件地址的映射问题。</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 27,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 8, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 14,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 2, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 3, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46111,
+        "title": "<p>以太网最短有效帧长64字节。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46097,
+        "title": "<p>网络域名地址一般通俗易懂，大多采用英文名称的缩写来命名。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46119,
+        "title": "<p>主机号全为“0”网络号被解释成“本”网络，称为网络地址。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46129,
+        "title": "<p>域名www.haut.edu.cn中，顶级域名是cn。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46104,
+        "title": "<p>由于光纤传送信号需要进行两次光电转换，因此光纤无中继传送信号距离较电缆短。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46101,
+        "title": "<p>TCP为上层协议提供可靠的路由选择并保证路由决策是最优的。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46124,
+        "title": "<p>物理层的基本作用是在物理介质上提供传输原始比特流的物理连接。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46117,
+        "title": "<p>计算机互联的主要目的是资源共享。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46126,
+        "title": "<p>在B类IP地址中，网络号所占的二进制位数为14。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46135,
+        "title": "<p>PSTN采用的信息交换方式是线路交换。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 45,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 12, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 33,
+              "levelNumber": 8
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46067,
+        "title": "<p>电话系统由本地回路、（）和交换局三个部件组成。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 19,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46074,
+        "title": "<p>遵循网络体系结构标准建成的网络称为第（）代网络。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 19,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46089,
+        "title": "<p>数据经历的总时延就是发送时延、（）、处理时延和排队时延之和。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 19,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46066,
+        "title": "<p>计算机网络按其覆盖范围来分，计算机网络可分为局域网、城域网和（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 19,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46081,
+        "title": "<p>在局域网中，硬件地址又称为（）或MAC地址。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 30,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 9, "levelNumber": 2 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 19,
+              "levelNumber": 3
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 2, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46146,
+        "title": "<p>为什么把PCM采样时间设置成125μs？</p>",
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 9,
+          "questionTypeName": "简答题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 5,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 3, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 5, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 1, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 46152,
+        "title": "<p>给定的IP地址为193．55．12．120，子网屏蔽码是255．255．255．240,那么子网号是多少？主机号是多少？如果主机地址的头十位用于子网，那么188．218．133．233的子网屏蔽码是多少？</p>",
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 6,
+          "questionTypeName": "综合题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 8,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 3, "levelNumber": 1 },
+            { "difficultyLevelName": "较易", "maxNumber": 3, "levelNumber": 0 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      }
+    ],
+    "examPaperAnswerVoList": [],
+    "sysTime": "2023-12-21 19:37:31",
+    "startTime": "2023-12-21 19:37:31"
+  }
+}

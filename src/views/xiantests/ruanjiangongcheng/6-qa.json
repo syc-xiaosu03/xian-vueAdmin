@@ -1,0 +1,77 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45661,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178073,178074,178075,178076\"}",
+    "parent_id": 35130,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:15:18.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178073,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>state</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Class</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Interaction</p>\"},{\"Key\":\"D\",\"Value\":\"<p>use case</p>\"}]",
+        "questions": "<p>The sequence diagram and collaboration diagram are both（）diagrams; they describe the same thing in different way.<br/>序列图和协作图都是（）图; 他们用不同的方式描述同样的事情。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178074,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>State diagram</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Class diagram</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Sequence diagram</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Flow diagram</p>\"}]",
+        "questions": "<p>Which of the following diagrams is used to describe a specific scenario of a use case?（）<br/>下列哪个图表用于描述用例的特定场景？（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178075,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Message</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Transition</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Lifeline</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Object</p>\"}]",
+        "questions": "<p>Which of the following is not a component in the sequence diagram?（）<br/>以下哪项不是序列图中的组件？（）</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 178076,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Database design</p>\"},{\"Key\":\"B\",\"Value\":\"<p>User interface design</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Architecture design</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Data structure & algorithm design</p>\"}]",
+        "questions": "<p>Which of the following is not a task of detailed design?（）<br/>以下哪项不是详细设计的任务？（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

@@ -12,7 +12,7 @@
           <li> 2.3: paperContent内容为转义后的字符串, 需删除两头的引号,再批量替换删除`\`转义符 </li>
         </ul>
       </li>
-      <li>3. 找答案: 返回数据的数据列表中,有个字段`answersNumber`, 即是答案</li>
+      <li>3. <strike>找答案: 返回数据的数据列表中,有个字段`answersNumber`, 即是答案</strike>  此方法在23年系统迭代后失效</li>
       <li>4. 去除水印: 源代码中,script脚本下方一个设置了巨长行内的样式的div, 其背景图为base64, 去掉即可</li>
       <li>5. 复制粘贴等功能恢复: 去除body和类名为`quill-editor editor`的元素上的: `oncontextmenu`, 'copy', 'cut', 'paste'等事件, </li>
       <li>6. 部分综合题的题目高度超出出滚动条: 找到`contentView`元素删除其`max-height`</li>

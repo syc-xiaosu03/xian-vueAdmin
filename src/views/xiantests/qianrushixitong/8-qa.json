@@ -1,0 +1,110 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 44958,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"176427,176428,176429,176430,176431,176432,176433\"}",
+    "parent_id": 32371,
+    "curriculum_id": 293,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "903",
+    "create_time": "2023-08-16T06:44:43.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 176427,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>0</p>\"},{\"Key\":\"B\",\"Value\":\"<p>1</p>\"},{\"Key\":\"C\",\"Value\":\"<p>2</p>\"},{\"Key\":\"D\",\"Value\":\"<p>3</p>\"}]",
+        "questions": "<p>8255A的选通工作方式是方式（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 176428,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>PA口</p>\"},{\"Key\":\"B\",\"Value\":\"<p>PB口</p>\"},{\"Key\":\"C\",\"Value\":\"<p>PC口</p>\"},{\"Key\":\"D\",\"Value\":\"<p>控制字寄存器</p>\"}]",
+        "questions": "<p>8255A中的按位置位/复位的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176429,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>WR</p>\"},{\"Key\":\"B\",\"Value\":\"<p>RD</p>\"},{\"Key\":\"C\",\"Value\":\"<p>ALE</p>\"},{\"Key\":\"D\",\"Value\":\"<p>PSEN</p>\"}]",
+        "questions": "<p>当把74LS377扩展为输出口时，CLK引脚应接单片机的（）引脚。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 176430,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>无条件传送方式</p>\"},{\"Key\":\"B\",\"Value\":\"<p>查询方式</p>\"},{\"Key\":\"C\",\"Value\":\"<p>中断方式</p>\"},{\"Key\":\"D\",\"Value\":\"<p>存储器直接存取方式</p>\"}]",
+        "questions": "<p>下列不属于MCS-51与输入输出设备进行信息交换的方式是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 176431,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>7AH</p>\"},{\"Key\":\"B\",\"Value\":\"<p>FBH</p>\"},{\"Key\":\"C\",\"Value\":\"<p>7BH</p>\"},{\"Key\":\"D\",\"Value\":\"<p>FAH</p>\"}]",
+        "questions": "<p>MCS-51外扩8255A，若要求实现PC.5按位操作，且执行置“1”，则给8255A命令口的命令字为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176432,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>R15</p>\"},{\"Key\":\"B\",\"Value\":\"<p>R14</p>\"},{\"Key\":\"C\",\"Value\":\"<p>R13</p>\"},{\"Key\":\"D\",\"Value\":\"<p>R12</p>\"}]",
+        "questions": "<p>下列能用于堆栈指针的寄存器是（）?</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176433,
+        "difficulty_level": "较易",
+        "question_type": 2,
+        "question_type_name": "多选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>锁存器可以扩展为输出口，但必须有片选端和时钟端</p>\"},{\"Key\":\"B\",\"Value\":\"<p>扩展为输出口一般锁存，扩展为输入口必须三态</p>\"},{\"Key\":\"C\",\"Value\":\"<p>锁存器可以扩展为输出口</p>\"},{\"Key\":\"D\",\"Value\":\"<p>三态门扩展为输入时，必须有片选端和时钟端</p>\"}]",
+        "questions": "<p>关于通用TTL芯片扩展IO口，说法错误的是（）。</p>",
+        "answer": "AD",
+        "ret_answer": "AD",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

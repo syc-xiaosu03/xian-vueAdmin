@@ -1,0 +1,88 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 8320,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"100357,100352,100350,100347,100344\"}",
+    "parent_id": 4727,
+    "curriculum_id": 169,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 100344,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>定时器可以作为计数器使用</p>\"},{\"Key\":\"B\",\"Value\":\"<p>定时器使用MCU的内部时钟来计数</p>\"},{\"Key\":\"C\",\"Value\":\"<p>定时器/计数器为不同功能部件</p>\"},{\"Key\":\"D\",\"Value\":\"<p>计数器使用的是外部信号计数</p>\"}]",
+        "questions": "<p>下列说法中错误的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 100347,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>基本定时器是通用定时器的子集</p>\"},{\"Key\":\"B\",\"Value\":\"<p>通用定时器是又高级定时器的子集</p>\"},{\"Key\":\"C\",\"Value\":\"<p>定时器/计数器为不同功能部件</p>\"},{\"Key\":\"D\",\"Value\":\"<p>通用定时器是基本定时器的子集</p>\"}]",
+        "questions": "<p>下列说法错误的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 100350,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>每个定时器都是完全独立的，它们可以一起同步操作</p>\"},{\"Key\":\"B\",\"Value\":\"<p>16位自动重装载寄存器可以设置计数周期</p>\"},{\"Key\":\"C\",\"Value\":\"<p>16位预分频器可以将计数器的时钟频率按1到6553之间的任意值分频</p>\"},{\"Key\":\"D\",\"Value\":\"<p>通用定时器是基本定时器的子集</p>\"}]",
+        "questions": "<p>下列说法正确的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 100352,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>内部时钟(CK_INT)</p>\"},{\"Key\":\"B\",\"Value\":\"<p>外部输入脚(TIx)</p>\"},{\"Key\":\"C\",\"Value\":\"<p>外部触发输入(ETR）</p>\"},{\"Key\":\"D\",\"Value\":\"<p>控制寄存器(TIMx_CR1)</p>\"}]",
+        "questions": "<p>计数器时钟不可由下列时钟源提供的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 100357,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>RTC精度低，功耗小</p>\"},{\"Key\":\"B\",\"Value\":\"<p>当系统嘀嗒时钟设定为9MHz(HCLK/8的最大值)，产生1ms时间基准</p>\"},{\"Key\":\"C\",\"Value\":\"<p>定时器可产生us、ms、s，时间基准</p>\"},{\"Key\":\"D\",\"Value\":\"<p>RTC是一个独立的定时器</p>\"}]",
+        "questions": "<p>下列说法错误的是（ ）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 17020,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"103804,18119,18118,103803,18116,18115,103802,103801,103800,103799\"}",
+    "parent_id": 16485,
+    "curriculum_id": 290,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 18115,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>网络中的每个路由器</p>\"},{\"Key\":\"B\",\"Value\":\"<p>少于两个步跳距离的路由器</p>\"},{\"Key\":\"C\",\"Value\":\"<p>通过软件存储的表格</p>\"},{\"Key\":\"D\",\"Value\":\"<p>仅仅是他的邻居</p>\"}]",
+        "questions": "<p>在距离向量路由中，每个路由器从（）接收距离向量。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 18116,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>链路层服务和网络层服务</p>\"},{\"Key\":\"B\",\"Value\":\"<p>网络层服务和运输层服务</p>\"},{\"Key\":\"C\",\"Value\":\"<p>运输层服务和应用层服务</p>\"},{\"Key\":\"D\",\"Value\":\"<p>运输层服务和网络层服务</p>\"}]",
+        "questions": "<p>TCP/IP体系结构中的TCP和IP所提供的服务分别为（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 18118,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>虚电路和数据报分别为面向无连接和面向连接的服务</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据报在网络中沿同一条路径传输，并且按发出顺序到达</p>\"},{\"Key\":\"C\",\"Value\":\"<p>虚电路在建立连接之后，分组中只需要携带连接标识</p>\"},{\"Key\":\"D\",\"Value\":\"<p>虚电路中的分组到达顺序可能与发出顺序不同</p>\"}]",
+        "questions": "<p>下面有关虚电路和数据报的特性，正确的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 18119,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>127-191</p>\"},{\"Key\":\"B\",\"Value\":\"<p>128-191</p>\"},{\"Key\":\"C\",\"Value\":\"<p>129-191</p>\"},{\"Key\":\"D\",\"Value\":\"<p>126-191</p>\"}]",
+        "questions": "<p>我们将IP地址分为A、B、C三类，其中B类的IP地址第一字节取值范围是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 103799,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>ICMP协议根据MAC地址查找对应的IP地址</p>\"},{\"Key\":\"B\",\"Value\":\"<p>ICMP协议把公网的IP地址转换为私网的IP地址</p>\"},{\"Key\":\"C\",\"Value\":\"<p>ICMP协议根据网络通信的情况把控制报文发送给发送方主机</p>\"},{\"Key\":\"D\",\"Value\":\"<p>ICMP协议集中管理网网络中的IP地址分配</p>\"}]",
+        "questions": "<p>下面关于ICMP协议的描述中,正确的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 103800,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>A类地址</p>\"},{\"Key\":\"B\",\"Value\":\"<p>B类地址</p>\"},{\"Key\":\"C\",\"Value\":\"<p>C类地址</p>\"},{\"Key\":\"D\",\"Value\":\"<p>D类地址</p>\"}]",
+        "questions": "<p>用于多播的IP地址是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 103801,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>NOS </p>\"},{\"Key\":\"B\",\"Value\":\"<p>协议</p>\"},{\"Key\":\"C\",\"Value\":\"<p>DOS</p>\"},{\"Key\":\"D\",\"Value\":\"<p>信包</p>\"}]",
+        "questions": "<p>服务器和工作站操作系统使用何种语言，以提供网络上的通信（）？</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 103802,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>物理层</p>\"},{\"Key\":\"B\",\"Value\":\"<p>数据链路层</p>\"},{\"Key\":\"C\",\"Value\":\"<p>网络层</p>\"},{\"Key\":\"D\",\"Value\":\"<p>传输层</p>\"}]",
+        "questions": "<p>虚电路和数据报是（）中得连接方式，前者属于连接方式，后者属于非连接方式。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 103803,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>目的网络地址</p>\"},{\"Key\":\"B\",\"Value\":\"<p>源网络地址</p>\"},{\"Key\":\"C\",\"Value\":\"<p>源MAC地址</p>\"},{\"Key\":\"D\",\"Value\":\"<p>公认端口目的地址</p>\"}]",
+        "questions": "<p>在IPV4环境中，路由器根据什么信息在不同的路由器接口之间转发数据包（）？</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 103804,
+        "difficulty_level": "易",
+        "question_type": 3,
+        "question_type_name": "判断题",
+        "options": null,
+        "questions": "<p>在同一局域网上的主机或路由器的IP地址中的网络号可以不一样。</p>",
+        "answer": "错",
+        "ret_answer": "错",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

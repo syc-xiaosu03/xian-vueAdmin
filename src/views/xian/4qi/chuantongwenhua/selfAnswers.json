@@ -1,0 +1,78 @@
+{
+  "paperAnswers": [
+    { "answer": ["<p>小农</p>"], "paperQuestionId": 8927 },
+    { "answer": ["<p>人本</p>"], "paperQuestionId": 8923 },
+    { "answer": ["<p>钱穆</p>"], "paperQuestionId": 161216 },
+    { "answer": ["<p>孔子</p>"], "paperQuestionId": 8470 },
+    { "answer": ["<p>兼爱</p>"], "paperQuestionId": 8925 },
+    { "answer": ["<p>上层文化</p>"], "paperQuestionId": 8566 },
+    { "answer": ["<p>雅斯贝尔斯</p>"], "paperQuestionId": 161221 },
+    { "answer": ["<p>杜牧</p>"], "paperQuestionId": 8376 },
+    { "answer": ["<p>文化现象</p>"], "paperQuestionId": 8373 },
+    { "answer": ["<p>典籍</p>"], "paperQuestionId": 8372 },
+    {
+      "answer": [
+        "<p>中国现存最完整的一部农书</p>",
+        "<p>提出了按照自然规律搞好农业生产的宝贵思想</p>",
+        "<p>北魏时贾思勰编写</p>",
+        "<p>全书10卷，92篇，11万多字</p>"
+      ],
+      "paperQuestionId": 8817
+    },
+    {
+      "answer": [
+        "<p>范晔的后汉书</p>",
+        "<p>陈寿的三国志</p>",
+        "<p>萧子显的南齐书</p>"
+      ],
+      "paperQuestionId": 8413
+    },
+    {
+      "answer": [
+        "<p>《神农本草》</p>",
+        "<p>《伤寒论》</p>",
+        "<p>《黄帝内经》</p>",
+        "<p>《金匮要略》</p>"
+      ],
+      "paperQuestionId": 161240
+    },
+    {
+      "answer": ["<p>多民族构成的共同体文化</p>", "<p>国别文化</p>"],
+      "paperQuestionId": 8690
+    },
+    { "answer": ["<p>贺麟</p>", "<p>冯友兰</p>"], "paperQuestionId": 8604 },
+    { "answer": ["对"], "paperQuestionId": 8400 },
+    { "answer": ["错"], "paperQuestionId": 161294 },
+    { "answer": ["对"], "paperQuestionId": 8498 },
+    { "answer": ["错"], "paperQuestionId": 161295 },
+    { "answer": ["错"], "paperQuestionId": 161296 },
+    { "answer": ["错"], "paperQuestionId": 8396 },
+    { "answer": ["错"], "paperQuestionId": 161301 },
+    { "answer": ["对"], "paperQuestionId": 8800 },
+    { "answer": ["对"], "paperQuestionId": 8808 },
+    { "answer": ["对"], "paperQuestionId": 161304 },
+    { "answer": ["<p>血缘关系</p>"], "paperQuestionId": 161250 },
+    { "answer": ["<p>篆书</p>"], "paperQuestionId": 8486 },
+    { "answer": ["<p>杜维明</p>"], "paperQuestionId": 8385 },
+    { "answer": ["<p>羽</p>"], "paperQuestionId": 8794 },
+    { "answer": ["<p>西周</p>"], "paperQuestionId": 8584 },
+    {
+      "answer": [
+        "<p>1 狭义文化不但以人为中心,而且以人的精神活动为中心,即使观察物化世界,也是以其中的人文精神为内核的。</p><p>2 狭义文化关注的不是个别人的精神活动,而是经历史传承累积凝聚的共有的、成体系的人文精神。</p><p>3 狭义文化关注的不仅是全人类的普遍共性,而且更注重不同民族、阶层、集团人文精神的特点。</p>"
+      ],
+      "paperQuestionId": 161358
+    },
+    {
+      "answer": [
+        "<p>1. 废除苛法和酷刑。</p><p>2. 优恤老幼废疾。</p><p>3. 推行谳狱制度。谳狱，即评议定罪量刑。</p><p>4. 以《春秋》决狱。即引《易》、《书》、《诗》、《礼》、《乐》和春秋等六部儒家经典著作作为断案的准绳。</p><p>5. 以儒家教义解释法律。</p><p>汉代法制改革，是统治者不断总结经验修订秦法制的过程，也是儒家思想逐步影响封建法制的过程。</p>"
+      ],
+      "paperQuestionId": 8513
+    }
+  ],
+  "paperId": 2148275147,
+  "paperStartTime": "2023-12-16 19:26:47",
+  "studentId": "39270",
+  "examId": 2141354923,
+  "remark": 1,
+  "id": 2146027918
+}

@@ -1,0 +1,90 @@
+{
+  "paperAnswers": [
+    { "answer": ["<p>运算器、控制器</p>"], "paperQuestionId": 135204 },
+    { "answer": ["<p>哈佛</p>"], "paperQuestionId": 191271 },
+    { "answer": ["<p>CMOS</p>"], "paperQuestionId": 135197 },
+    {
+      "answer": ["<p>进位/借位、有符号数溢出、A累加器1的奇偶标志位</p>"],
+      "paperQuestionId": 135209
+    },
+    { "answer": ["<p>16位</p>"], "paperQuestionId": 135191 },
+    { "answer": ["<p>1</p>"], "paperQuestionId": 191260 },
+    { "answer": ["<p>高低电平</p>"], "paperQuestionId": 191256 },
+    { "answer": ["<p>37H</p>"], "paperQuestionId": 191268 },
+    { "answer": ["<p>存储器，定时器，CPU</p>"], "paperQuestionId": 135208 },
+    { "answer": ["<p>13根</p>"], "paperQuestionId": 191253 },
+    {
+      "answer": [
+        "<p>32个I/O引脚都可以连接</p>",
+        "<p>P1.0</p>",
+        "<p>PO~P3，4个8位并行双向端口</p>",
+        "<p>P3.0</p>",
+        "<p>P2.1</p>"
+      ],
+      "paperQuestionId": 135365
+    },
+    {
+      "answer": ["<p>工业微控制器</p>", "<p>微型计算机</p>"],
+      "paperQuestionId": 135373
+    },
+    {
+      "answer": [
+        "<p>协调电平差异</p>",
+        "<p>速度匹配</p>",
+        "<p>协调时序差异</p>",
+        "<p>信息格式转换</p>"
+      ],
+      "paperQuestionId": 135371
+    },
+    {
+      "answer": [
+        "<p>分号就是空语句</p>",
+        "<p>它的作用是什么也不做，占用时间</p>",
+        "<p>空语句一般用于延时</p>"
+      ],
+      "paperQuestionId": 135377
+    },
+    {
+      "answer": [
+        "<p>输入电路</p>",
+        "<p>晶振电路、复位电路</p>",
+        "<p>输出电路</p>",
+        "<p>电源电路</p>"
+      ],
+      "paperQuestionId": 135378
+    },
+    { "answer": ["对"], "paperQuestionId": 191300 },
+    { "answer": ["对"], "paperQuestionId": 191312 },
+    { "answer": ["对"], "paperQuestionId": 135458 },
+    { "answer": ["错"], "paperQuestionId": 191320 },
+    { "answer": ["对"], "paperQuestionId": 191303 },
+    { "answer": ["错"], "paperQuestionId": 135469 },
+    { "answer": ["错"], "paperQuestionId": 135474 },
+    { "answer": ["对"], "paperQuestionId": 135452 },
+    { "answer": ["对"], "paperQuestionId": 191313 },
+    { "answer": ["错"], "paperQuestionId": 135468 },
+    { "answer": ["<p>2级中断</p>"], "paperQuestionId": 135436 },
+    { "answer": ["<p>(R0)=23H</p>"], "paperQuestionId": 135442 },
+    { "answer": ["<p>8751</p>"], "paperQuestionId": 135428 },
+    { "answer": ["<p>0</p>"], "paperQuestionId": 135439 },
+    { "answer": ["<p>-128到127</p>"], "paperQuestionId": 191288 },
+    {
+      "answer": [
+        "<p>EA*是内外程序存储器选择控制信号。</p><p>当EA*为高电平时,AT89S51访问内部程序存储器，但当地址大于0FFF时，自动转到外部程序存储器；</p><p>当EA*为低电平时，AT89S51只读取外部程序存储器。</p>"
+      ],
+      "paperQuestionId": 135498
+    },
+    {
+      "answer": [
+        "<p>因为它们的控制信号不同：</p><p>1、外扩程序存储器是PSEN*信号为其控制信号，外扩数据存储器是RD*与WR*信号为其控制信号</p><p>2、指令不同，程序存储器用MOVC读取，数据存储器用MOVX存取。</p>"
+      ],
+      "paperQuestionId": 135539
+    }
+  ],
+  "paperId": 2148285443,
+  "paperStartTime": "2023-12-17 19:49:41",
+  "studentId": "39270",
+  "examId": 2141354483,
+  "remark": 1,
+  "id": 2146042944
+}

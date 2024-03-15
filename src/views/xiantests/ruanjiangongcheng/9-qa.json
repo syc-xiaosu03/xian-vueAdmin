@@ -1,0 +1,77 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45664,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178101,178102,178103,178104\"}",
+    "parent_id": 35140,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:15:29.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178101,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Spiral model</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Waterfall model</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Rapid prototype model</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Incremental model</p>\"}]",
+        "questions": "<p>Which software lifecycle model is suitable for only large-scale or in-house project?（）<br/>哪个软件生命周期模型只适合大规模或内部项目？（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178102,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>possibility</p>\"},{\"Key\":\"B\",\"Value\":\"<p>testing</p>\"},{\"Key\":\"C\",\"Value\":\"<p>decision</p>\"},{\"Key\":\"D\",\"Value\":\"<p>risk</p>\"}]",
+        "questions": "<p>The idea of minimizing risk via the use of prototypes and other means is the concept underlying the spiral model. A simplistic way of looking at this life-cycle model is as a waterfall model with each phase preceded by（）analysis.<br/>通过使用原型和其他手段最小化风险的想法是螺旋模型的基础的概念。看待这个生命周期模型的一个简单的方式是将该模型看作每个阶段之前都有（）分析的瀑布模型。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 178103,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Suitable to the situation when the requirement is defined explicitly.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>A model which cannot be used at present.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>A good method for quickly constructing executable software product.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Suitable for the software product which is developed by a large team.</p>\"}]",
+        "questions": "<p>The waterfall model of the software process is（）.<br/>软件过程的瀑布模型是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178104,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>One of the reasons of software crisis is the lack of document. So we should take a separate phase of the software life cycle to achieve sufficient document.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Since there are kinds of software lifecycle models, we should choose the best one for the target project.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Since there are kinds of software lifecycle models, we should choose the most suitable one for target project.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>The requirement of the software only concerns its functionality.</p>\"}]",
+        "questions": "<p>Which of the following is true?（）<br/>下列哪个语句是正确的？（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

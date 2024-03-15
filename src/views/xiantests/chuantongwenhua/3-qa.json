@@ -1,0 +1,143 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 6710,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"96664,96661,96659,96652,96647,96616,96610,96607,96604,96601\"}",
+    "parent_id": 5969,
+    "curriculum_id": 188,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 96601,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>中国古代文学与整个中国文化没有关系</p>\"},{\"Key\":\"B\",\"Value\":\"<p>中国古代文学反映了中华民族传统的文化心理、文化性格和文化精神</p>\"},{\"Key\":\"C\",\"Value\":\"<p>中国古代文学集中体现着中国文化的基本精神与历史走向</p>\"},{\"Key\":\"D\",\"Value\":\"<p>了解中国古代文学，可以更为深入、更为形象地把握中国传统文化的内涵，并能够进一步体会中国古代文学的当代文化价值</p>\"}]",
+        "questions": "<p>关于中国古代文学说法不正确的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 96604,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>风</p>\"},{\"Key\":\"B\",\"Value\":\"<p>雅</p>\"},{\"Key\":\"C\",\"Value\":\"<p>颂</p>\"},{\"Key\":\"D\",\"Value\":\"<p>赋</p>\"}]",
+        "questions": "<p>《诗经》 的分类不包括（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 96607,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>诗经</p>\"},{\"Key\":\"B\",\"Value\":\"<p>毛诗</p>\"},{\"Key\":\"C\",\"Value\":\"<p>诗三百</p>\"},{\"Key\":\"D\",\"Value\":\"<p>诗三百零五篇</p>\"}]",
+        "questions": "<p>《诗经》在先秦,常称为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 96610,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>儒家</p>\"},{\"Key\":\"B\",\"Value\":\"<p>道家</p>\"},{\"Key\":\"C\",\"Value\":\"<p>纵横家</p>\"},{\"Key\":\"D\",\"Value\":\"<p>墨家</p>\"}]",
+        "questions": "<p>下面不属于先秦诸子百家中影响最大的四家是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 96616,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>班固</p>\"},{\"Key\":\"B\",\"Value\":\"<p>杨雄</p>\"},{\"Key\":\"C\",\"Value\":\"<p>东方朔</p>\"},{\"Key\":\"D\",\"Value\":\"<p>司马相如</p>\"}]",
+        "questions": "<p>汉赋四大家不包括（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 96647,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>陶渊明</p>\"},{\"Key\":\"B\",\"Value\":\"<p>谢灵运</p>\"},{\"Key\":\"C\",\"Value\":\"<p>庾信</p>\"},{\"Key\":\"D\",\"Value\":\"<p>鲍照</p>\"}]",
+        "questions": "<p>下列作家中，以创作山水诗而闻名的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 96652,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>孟浩然</p>\"},{\"Key\":\"B\",\"Value\":\"<p>高适</p>\"},{\"Key\":\"C\",\"Value\":\"<p>岑参</p>\"},{\"Key\":\"D\",\"Value\":\"<p>王之涣</p>\"}]",
+        "questions": "<p>下列作家不是盛唐边塞诗人的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 96659,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>《梧桐雨》</p>\"},{\"Key\":\"B\",\"Value\":\"<p>《西厢记》</p>\"},{\"Key\":\"C\",\"Value\":\"<p>《汉宫秋》</p>\"},{\"Key\":\"D\",\"Value\":\"<p>《赵氏孤儿》</p>\"}]",
+        "questions": "<p>下列前期元杂剧中不属于历史剧的有（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 96661,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>《西汉通俗演义》</p>\"},{\"Key\":\"B\",\"Value\":\"<p>《列国志传》</p>\"},{\"Key\":\"C\",\"Value\":\"<p>《英烈传》</p>\"},{\"Key\":\"D\",\"Value\":\"<p>《唐书志传》</p>\"}]",
+        "questions": "<p>下列不属于历史演义小说的著作有（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 96664,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>匡超人</p>\"},{\"Key\":\"B\",\"Value\":\"<p>杜少卿</p>\"},{\"Key\":\"C\",\"Value\":\"<p>周进</p>\"},{\"Key\":\"D\",\"Value\":\"<p>范进</p>\"}]",
+        "questions": "<p>下列人物属于《儒林外史》中潇洒士人的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

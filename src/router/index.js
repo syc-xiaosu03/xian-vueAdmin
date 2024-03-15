@@ -47,12 +47,14 @@ export const constantRoutes = [
     path: '/',
     component: Layout,
     redirect: '/dashboard',
-    children: [{
-      path: 'dashboard',
-      name: 'Dashboard',
-      component: () => import('@/views/dashboard/index'),
-      meta: { title: 'Dashboard', icon: 'dashboard' }
-    }]
+    children: [
+      {
+        path: 'dashboard',
+        name: 'Dashboard',
+        component: () => import('@/views/dashboard/index'),
+        meta: { title: 'Dashboard', icon: 'dashboard' }
+      }
+    ]
   },
 
   {
@@ -112,6 +114,36 @@ export const constantRoutes = [
         component: () => import('@/views/xian/3qi/sql/index'),
         name: 'xian-sql',
         meta: { title: '数据库原理及应用' }
+      },
+      {
+        path: '/xian/chuantongwenhua',
+        component: () => import('@/views/xian/4qi/chuantongwenhua/index'),
+        name: 'xian-chuantongwenhua',
+        meta: { title: '中国传统文化概论' }
+      },
+      {
+        path: '/xian/qianrushixitong',
+        component: () => import('@/views/xian/4qi/qianrushixitong/index'),
+        name: 'xian-qianrushixitong',
+        meta: { title: '嵌入式系统' }
+      },
+      {
+        path: '/xian/dianpianji',
+        component: () => import('@/views/xian/4qi/dianpianji/index'),
+        name: 'xian-dianpianji',
+        meta: { title: '单片机原理与应用' }
+      },
+      {
+        path: '/xian/jisuanjitongxin',
+        component: () => import('@/views/xian/4qi/jisuanjitongxin/index'),
+        name: 'xian-jisuanjitongxin',
+        meta: { title: '计算机通信与网络' }
+      },
+      {
+        path: '/xian/ruanjiangongcheng',
+        component: () => import('@/views/xian/4qi/ruanjiangongcheng/index'),
+        name: 'xian-ruanjiangongcheng',
+        meta: { title: '软件工程' }
       }
     ]
   },
@@ -142,6 +174,36 @@ export const constantRoutes = [
         component: () => import('@/views/xiantests/sql/index'), // Parent router-view
         name: 'xiantests-sql',
         meta: { title: '数据库原理及应用' }
+      },
+      {
+        path: '/xiantests/danpianji',
+        component: () => import('@/views/xiantests/danpianji/index'), // Parent router-view
+        name: 'xiantests-danpianji',
+        meta: { title: '单片机原理与应用' }
+      },
+      {
+        path: '/xiantests/chuantongwenhua',
+        component: () => import('@/views/xiantests/chuantongwenhua/index'), // Parent router-view
+        name: 'xiantests-chuantongwenhua',
+        meta: { title: '中国传统文化概论' }
+      },
+      {
+        path: '/xiantests/jisuanjitongxin',
+        component: () => import('@/views/xiantests/jisuanjitongxin/index'), // Parent router-view
+        name: 'xiantests-jisuanjitongxin',
+        meta: { title: '计算机通信与网络' }
+      },
+      {
+        path: '/xiantests/qianrushixitong',
+        component: () => import('@/views/xiantests/qianrushixitong/index'), // Parent router-view
+        name: 'xiantests-qianrushixitong',
+        meta: { title: '嵌入式系统' }
+      },
+      {
+        path: '/xiantests/ruanjiangongcheng',
+        component: () => import('@/views/xiantests/ruanjiangongcheng/index'), // Parent router-view
+        name: 'xiantests-ruanjiangongcheng',
+        meta: { title: '软件工程' }
       }
     ]
   },
@@ -210,13 +272,15 @@ export const constantRoutes = [
             children: [
               {
                 path: 'menu1-2-1',
-                component: () => import('@/views/nested/menu1/menu1-2/menu1-2-1'),
+                component: () =>
+                  import('@/views/nested/menu1/menu1-2/menu1-2-1'),
                 name: 'Menu1-2-1',
                 meta: { title: 'Menu1-2-1' }
               },
               {
                 path: 'menu1-2-2',
-                component: () => import('@/views/nested/menu1/menu1-2/menu1-2-2'),
+                component: () =>
+                  import('@/views/nested/menu1/menu1-2/menu1-2-2'),
                 name: 'Menu1-2-2',
                 meta: { title: 'Menu1-2-2' }
               }

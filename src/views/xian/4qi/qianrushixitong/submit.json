@@ -1,0 +1,95 @@
+{
+  "paperAnswers": [
+    {
+      "answer": [
+        "<p>异常向量表放的是跳转指令，执行该指令进入相应中断服务子程序</p>"
+      ],
+      "paperQuestionId": 160075
+    },
+    { "answer": ["<p>未定义指令中止模式</p>"], "paperQuestionId": 160070 },
+    { "answer": ["<p>系统模式</p>"], "paperQuestionId": 160073 },
+    { "answer": ["<p>以上都是</p>"], "paperQuestionId": 160082 },
+    { "answer": ["<p>以上都是</p>"], "paperQuestionId": 160069 },
+    { "answer": ["<p>RS232C 采用同步通信协议</p>"], "paperQuestionId": 160064 },
+    { "answer": ["<p>S3C44</p>"], "paperQuestionId": 160088 },
+    { "answer": ["<p>立即寻址</p>"], "paperQuestionId": 160098 },
+    { "answer": ["<p>事件</p>"], "paperQuestionId": 160087 },
+    { "answer": ["<p>体系结构设计</p>"], "paperQuestionId": 160091 },
+    {
+      "answer": [
+        "<p>获取中断嵌套层数</p>",
+        "<p>开/关中断</p>",
+        "<p>挂接ISR：中断向量与处理函数关联</p>",
+        "<p>获取ISR入口地址</p>"
+      ],
+      "paperQuestionId": 160120
+    },
+    {
+      "answer": [
+        "<p>一个thread grid可以包含一个或多个threadblock</p>",
+        "<p>每个block有一个独特的block index; 可以是1D,2D, or 3D</p>",
+        "<p>每个thread有一个独特的thread index, 可以是1D, 2D, or 3D</p>",
+        "<p>thread index主要用于计算内存地址与作出控制流决定</p>"
+      ],
+      "paperQuestionId": 160111
+    },
+    {
+      "answer": [
+        "<p>文件系统</p>",
+        "<p>嵌入式操作系统</p>",
+        "<p>板级支持包</p>",
+        "<p>Boot Loader</p>"
+      ],
+      "paperQuestionId": 160132
+    },
+    {
+      "answer": [
+        "<p>RS232C 采用非归零、双极性编码</p>",
+        "<p>RS232C 使用负逻辑规定逻辑电平，-5V~-15V 表示逻辑“1”</p>",
+        "<p>RS232C 引脚包含信号地</p>"
+      ],
+      "paperQuestionId": 160136
+    },
+    {
+      "answer": [
+        "<p>指令代码</p>",
+        "<p>静态分配的数据</p>",
+        "<p>用来存储数据的堆、栈或动态分配的数据</p>"
+      ],
+      "paperQuestionId": 160106
+    },
+    { "answer": ["对"], "paperQuestionId": 160167 },
+    { "answer": ["错"], "paperQuestionId": 160197 },
+    { "answer": ["错"], "paperQuestionId": 160176 },
+    { "answer": ["对"], "paperQuestionId": 160211 },
+    { "answer": ["错"], "paperQuestionId": 160187 },
+    { "answer": ["错"], "paperQuestionId": 160154 },
+    { "answer": ["对"], "paperQuestionId": 160159 },
+    { "answer": ["错"], "paperQuestionId": 160157 },
+    { "answer": ["错"], "paperQuestionId": 160209 },
+    { "answer": ["错"], "paperQuestionId": 160181 },
+    { "answer": ["<p>嵌入式 ICE</p>"], "paperQuestionId": 160239 },
+    { "answer": ["<p>内存管理</p>"], "paperQuestionId": 160222 },
+    { "answer": ["<p>循环轮询系统</p>"], "paperQuestionId": 160215 },
+    { "answer": ["<p>串行时钟线SCL</p>"], "paperQuestionId": 160241 },
+    { "answer": ["<p>实时性</p>"], "paperQuestionId": 160246 },
+    {
+      "answer": [
+        "<p>1、需求分析：明确定义嵌入式系统的功能需求和性能要求。这包括确定系统的输入输出需求、硬件平台要求、软件功能和接口要求等。</p><p>2、系统设计：依据需求分析，进行系统设计。这包括选择适当的硬件平台、确定系统的总体架构和模块划分、定义系统的通信接口、计划系统的电源和外设等。</p><p>3、硬件设计：根据系统设计，进行硬件设计。这包括选择和设计电路板、选择和配置处理器、内存和外设等，进行电路布局和布线，进行原型制作和验证等。</p><p>4、软件设计：根据系统设计，进行软件设计。这包括选择适当的编程语言和开发工具，编写和优化软件算法、驱动程序和应用程序等，进行软件模块的测试和验证。</p><p>5、系统集成：将硬件和软件进行集成。这包括将软件加载到嵌入式系统中，进行硬件和软件的功能测试、接口测试和性能测试，确保系统的正常运行和满足要求。</p><p>6、系统测试和调试：对整个嵌入式系统进行验证和调试。这包括测试系统的功能、性能和可靠性，识别和解决硬件和软件的问题，进行系统的调优和优化等。</p><p>7、发布和维护：经过优化和调试之后，嵌入式系统可以进行发布和维护。发布是指将系统交付给用户，以供其使用。维护是指对系统进行日常的维护和更新，以确保系统的正常运行和持续改进。</p>"
+      ],
+      "paperQuestionId": 160142
+    },
+    {
+      "answer": [
+        "<p>执行的过程中对中断处理方式不一样，</p><p>抢占式某一中断执行完成后，如果有更高优先级 的任务处于就绪状态,将执行更高优先级任务；抢占方式比较复杂，所需系统开销也比较大；</p><p>而非抢占式不一样，一个任务只有主动放弃 CPU 的控制权，其它任务才能够获得 CPU 控制权。</p>"
+      ],
+      "paperQuestionId": 160252
+    }
+  ],
+  "paperId": 2148348676,
+  "paperStartTime": "2023-12-17 17:51:06",
+  "studentId": "39270",
+  "examId": 2141354596,
+  "remark": 2,
+  "id": 2146041155
+}

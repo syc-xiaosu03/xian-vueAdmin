@@ -1,0 +1,110 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 44953,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"176385,176386,176387,176388,176389,176390,176391\"}",
+    "parent_id": 32344,
+    "curriculum_id": 293,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "903",
+    "create_time": "2023-08-16T06:40:22.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 176385,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>各中断源发出的中断请求信号，都会标记在MCS-51系统中的IP寄存器中。</p>\"},{\"Key\":\"B\",\"Value\":\"<p>各中断源发出的中断请求信号，都会标记在MCS-51系统中的IE寄存器中。</p>\"},{\"Key\":\"C\",\"Value\":\"<p>各中断源发出的中断请求信号，都会标记在MCS-51系统中的TCON与SCON寄存器中。</p>\"},{\"Key\":\"D\",\"Value\":\"<p>各中断源发出的中断请求信号，都会标记在MCS-51系统中的TMOD寄存器中。</p>\"}]",
+        "questions": "<p>下列说法中正确的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176386,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>与非</p>\"},{\"Key\":\"B\",\"Value\":\"<p>或</p>\"},{\"Key\":\"C\",\"Value\":\"<p>与</p>\"},{\"Key\":\"D\",\"Value\":\"<p>或非</p>\"}]",
+        "questions": "<p>发送中断TI和接收中断RI逻辑（）后，做为内部的一个中断源。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 176387,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>保持相同时间</p>\"},{\"Key\":\"B\",\"Value\":\"<p>保持时间各大于2个机器周期</p>\"},{\"Key\":\"C\",\"Value\":\"<p>保持时间各大于0.5个机器周期</p>\"},{\"Key\":\"D\",\"Value\":\"<p>保持时间各大于1个机器周期</p>\"}]",
+        "questions": "<p>外部中断采用边沿触发方式时，要求高、低电平（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 176388,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>TMOD</p>\"},{\"Key\":\"B\",\"Value\":\"<p>SCON</p>\"},{\"Key\":\"C\",\"Value\":\"<p>TCON</p>\"},{\"Key\":\"D\",\"Value\":\"<p>IP</p>\"}]",
+        "questions": "<p>与中断系统无关的SFR是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 176389,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>TF1</p>\"},{\"Key\":\"B\",\"Value\":\"<p>IE0</p>\"},{\"Key\":\"C\",\"Value\":\"<p>TF0</p>\"},{\"Key\":\"D\",\"Value\":\"<p>TI</p>\"}]",
+        "questions": "<p>MCS-51响应中断后，必须用软件清除的中断请求标志是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 176390,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>1</p>\"},{\"Key\":\"B\",\"Value\":\"<p>2</p>\"},{\"Key\":\"C\",\"Value\":\"<p>3</p>\"},{\"Key\":\"D\",\"Value\":\"<p>4</p>\"}]",
+        "questions": "<p>MCS-51有5个中断源，有（）个中断优先级。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 176391,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>INT0、T0、INT1、T1、串行口</p>\"},{\"Key\":\"B\",\"Value\":\"<p>T0、INT0、T1、INT1、串行口</p>\"},{\"Key\":\"C\",\"Value\":\"<p>串行口、INT0、T0、INT1、T1</p>\"},{\"Key\":\"D\",\"Value\":\"<p>T0、T1、INT0、INT1、串行口</p>\"}]",
+        "questions": "<p>若MCS-51的所有中断源均处于同一优先级，则它们按自然优先级从高到低的顺序是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

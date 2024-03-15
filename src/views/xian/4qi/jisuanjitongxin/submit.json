@@ -1,0 +1,81 @@
+{
+  "paperAnswers": [
+    { "answer": ["<p>打印机</p>"], "paperQuestionId": 46021 },
+    { "answer": ["<p>并行</p>"], "paperQuestionId": 46007 },
+    {
+      "answer": ["<p>保证数据正确的顺序、无错和完整</p>"],
+      "paperQuestionId": 46013
+    },
+    { "answer": ["<p>75kHz</p>"], "paperQuestionId": 46017 },
+    { "answer": ["<p>在传输介质上一次传输一位</p>"], "paperQuestionId": 46008 },
+    { "answer": ["<p>用1个字节来表示结果</p>"], "paperQuestionId": 46023 },
+    {
+      "answer": ["<p>既可以用虚电路也可以用数据报</p>"],
+      "paperQuestionId": 46018
+    },
+    { "answer": ["<p>比特流</p>"], "paperQuestionId": 46026 },
+    { "answer": ["<p>5字节和53字节</p>"], "paperQuestionId": 46020 },
+    { "answer": ["<p>定义连接到介质的特征</p>"], "paperQuestionId": 46014 },
+    {
+      "answer": ["<p>光纤</p>", "<p>双绞线</p>", "<p>铜缆</p>"],
+      "paperQuestionId": 46040
+    },
+    {
+      "answer": ["<p>总线型网络</p>", "<p>星型网络</p>", "<p>树型网络</p>"],
+      "paperQuestionId": 46048
+    },
+    {
+      "answer": ["<p>科学计算、信息管理</p>", "<p>过程控制、人工智能</p>"],
+      "paperQuestionId": 46053
+    },
+    {
+      "answer": [
+        "<p>在数据链路层扩展局域网可使用网桥</p>",
+        "<p>在物理层扩展局域网可使用转发器和集线器</p>",
+        "<p>路由器用来互连不同的网络，是网络层设备</p>"
+      ],
+      "paperQuestionId": 46036
+    },
+    {
+      "answer": [
+        "<p>硬件地址是数据链路层和物理层使用的地址，IP地址是网络层和以上各层使用的。</p>",
+        "<p>在局域网中，硬件地址又称为物理地址或MAC地址。</p>",
+        "<p>IP地址不能直接用来进行通信，在实际网络的链路上传送数据帧必须使用硬件地址。</p>"
+      ],
+      "paperQuestionId": 46037
+    },
+    { "answer": ["对"], "paperQuestionId": 46111 },
+    { "answer": ["对"], "paperQuestionId": 46097 },
+    { "answer": ["对"], "paperQuestionId": 46119 },
+    { "answer": ["对"], "paperQuestionId": 46129 },
+    { "answer": ["错"], "paperQuestionId": 46104 },
+    { "answer": ["错"], "paperQuestionId": 46101 },
+    { "answer": ["对"], "paperQuestionId": 46124 },
+    { "answer": ["对"], "paperQuestionId": 46117 },
+    { "answer": ["对"], "paperQuestionId": 46126 },
+    { "answer": ["对"], "paperQuestionId": 46135 },
+    { "answer": ["<p>干线</p>"], "paperQuestionId": 46067 },
+    { "answer": ["<p>第三代</p>"], "paperQuestionId": 46074 },
+    { "answer": ["<p>传播时延</p>"], "paperQuestionId": 46089 },
+    { "answer": ["<p>广域网</p>"], "paperQuestionId": 46066 },
+    { "answer": ["<p>物理地址</p>"], "paperQuestionId": 46081 },
+    {
+      "answer": [
+        "<p>答：一个典型的电话通道是4KHz，根据奈奎斯特定理，为获得一个在4KHz通道中的全部信息需要每秒采样4k*2=8000次，即采样时间设置为1/8000=125μs。</p>"
+      ],
+      "paperQuestionId": 46146
+    },
+    {
+      "answer": [
+        "<p>根据给定的 IP 地址和子网掩码，子网号 ：（ 193.55.12.112 ），主机号：（ 8 ）；</p><p>假设主机地址的头十位用于子网，188.218.133.233的子网屏蔽码：（255.255.255.192）。</p>"
+      ],
+      "paperQuestionId": 46152
+    }
+  ],
+  "paperId": 2148005669,
+  "paperStartTime": "2023-12-21 19:37:31",
+  "studentId": "39270",
+  "examId": 2141354558,
+  "remark": 2,
+  "id": 2146105981
+}

@@ -1,0 +1,110 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 44955,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"176402,176403,176404,176405,176406,176407,176408\"}",
+    "parent_id": 32350,
+    "curriculum_id": 293,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "903",
+    "create_time": "2023-08-16T06:42:10.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 176402,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>SCON</p>\"},{\"Key\":\"B\",\"Value\":\"<p>TMOD</p>\"},{\"Key\":\"C\",\"Value\":\"<p>TCON</p>\"},{\"Key\":\"D\",\"Value\":\"<p>TH1</p>\"}]",
+        "questions": "<p>下列与定时/计数器无关的SFR是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 176403,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>1/12</p>\"},{\"Key\":\"B\",\"Value\":\"<p>1/24</p>\"},{\"Key\":\"C\",\"Value\":\"<p>1/6</p>\"},{\"Key\":\"D\",\"Value\":\"<p>1/2</p>\"}]",
+        "questions": "<p>计数器对由引脚T0或T1输入的外部脉冲的下跳沿计数，允许最高计数频率为晶振频率的（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 176404,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>0、0</p>\"},{\"Key\":\"B\",\"Value\":\"<p>0、1</p>\"},{\"Key\":\"C\",\"Value\":\"<p>1、0</p>\"},{\"Key\":\"D\",\"Value\":\"<p>1、1</p>\"}]",
+        "questions": "<p>当选择常数自动重装载方式时，需要设置TMOD中的M1和M0分别为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176405,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>8位自动重装入</p>\"},{\"Key\":\"B\",\"Value\":\"<p>8位</p>\"},{\"Key\":\"C\",\"Value\":\"<p>13位</p>\"},{\"Key\":\"D\",\"Value\":\"<p>16位</p>\"}]",
+        "questions": "<p>MCS-51定时器工作方式2是指的是（）工作方式。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 176406,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>0003H</p>\"},{\"Key\":\"B\",\"Value\":\"<p>0013H</p>\"},{\"Key\":\"C\",\"Value\":\"<p>0023H</p>\"},{\"Key\":\"D\",\"Value\":\"<p>000BH</p>\"}]",
+        "questions": "<p>定时器/计数器T0的中断矢量地址是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 176407,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>8.192ms</p>\"},{\"Key\":\"B\",\"Value\":\"<p>0.256ms</p>\"},{\"Key\":\"C\",\"Value\":\"<p>65.536ms</p>\"},{\"Key\":\"D\",\"Value\":\"<p>16.384ms</p>\"}]",
+        "questions": "<p>关于定时器，若振荡频率为12MHz，在方式1下最大定时时间为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176408,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>工作方式0</p>\"},{\"Key\":\"B\",\"Value\":\"<p>工作方式1</p>\"},{\"Key\":\"C\",\"Value\":\"<p>工作方式2</p>\"},{\"Key\":\"D\",\"Value\":\"<p>工作方式3</p>\"}]",
+        "questions": "<p>定时器若工作在循环定时或循环计数场合，选用（）较为合适。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

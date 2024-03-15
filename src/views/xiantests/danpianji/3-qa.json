@@ -1,0 +1,88 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 8325,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"100390,100387,100380,100378,100384\"}",
+    "parent_id": 4754,
+    "curriculum_id": 169,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 100378,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>微处理器</p>\"},{\"Key\":\"B\",\"Value\":\"<p>存储器</p>\"},{\"Key\":\"C\",\"Value\":\"<p>串口通信接口</p>\"},{\"Key\":\"D\",\"Value\":\"<p>I/O接口电路</p>\"}]",
+        "questions": "<p>单片机是在一片集成电路芯片上集成了以下部分，除了（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 100380,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>arduino开发环境</p>\"},{\"Key\":\"B\",\"Value\":\"<p>各处理器公司以及第三方开发环境</p>\"},{\"Key\":\"C\",\"Value\":\"<p>CCS以及第三方开发环境</p>\"},{\"Key\":\"D\",\"Value\":\"<p>第三方开发环境</p>\"}]",
+        "questions": "<p>16位MCU的开发环境是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 100384,
+        "difficulty_level": "易",
+        "question_type": 2,
+        "question_type_name": "多选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>开发板</p>\"},{\"Key\":\"B\",\"Value\":\"<p>调试工具</p>\"},{\"Key\":\"C\",\"Value\":\"<p>连接口</p>\"},{\"Key\":\"D\",\"Value\":\"<p>PC主机</p>\"}]",
+        "questions": "<p>硬件开发资源包括什么（）？</p>",
+        "answer": "ABCD",
+        "ret_answer": "ABCD",
+        "isCorrect": true
+      },
+      {
+        "id": 100387,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>STC单片机开发板</p>\"},{\"Key\":\"B\",\"Value\":\"<p>STC89C52单片机开发板</p>\"},{\"Key\":\"C\",\"Value\":\"<p>51单片机开发板</p>\"},{\"Key\":\"D\",\"Value\":\"<p>AVR单片机开发板</p>\"}]",
+        "questions": "<p>下列不是开发板单片机使用的型号的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 100390,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Stm32系列</p>\"},{\"Key\":\"B\",\"Value\":\"<p>MCS51系列</p>\"},{\"Key\":\"C\",\"Value\":\"<p>AVR系列</p>\"},{\"Key\":\"D\",\"Value\":\"<p>PIC系列</p>\"}]",
+        "questions": "<p>下列不属于8位MCU主要型号的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

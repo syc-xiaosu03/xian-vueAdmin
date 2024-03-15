@@ -1,0 +1,87 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 29879,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"108280,108281,108282,108283,108284\"}",
+    "parent_id": 28781,
+    "curriculum_id": 289,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 1,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 108280,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>1NF</p>\"},{\"Key\":\"B\",\"Value\":\"<p>2NF</p>\"},{\"Key\":\"C\",\"Value\":\"<p>3NF</p>\"},{\"Key\":\"D\",\"Value\":\"<p>4NF</p>\"}]",
+        "questions": "<p>有关系模式R（A，B，C），根据语义有如下函数依赖集：F={A→B，（B，C）→A}。关系模式R的规范化程度最高达到（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108281,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>文件形式</p>\"},{\"Key\":\"B\",\"Value\":\"<p>记录形式</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据模型</p>\"},{\"Key\":\"D\",\"Value\":\"<p>存取数据方法</p>\"}]",
+        "questions": "<p>划分数据库类型是根据（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 108282,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>记录长度</p>\"},{\"Key\":\"B\",\"Value\":\"<p>文件的大小</p>\"},{\"Key\":\"C\",\"Value\":\"<p>联系的复杂程度</p>\"},{\"Key\":\"D\",\"Value\":\"<p>数据之间的联系</p>\"}]",
+        "questions": "<p>层次型、网状型和关系型数据库划分原则是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108283,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>一个实体类型转换成一个关系模式</p>\"},{\"Key\":\"B\",\"Value\":\"<p>一个m：n联系转换为一个关系模式</p>\"},{\"Key\":\"C\",\"Value\":\"<p>一个1：1联系可以转换为一个独立的关系模式，也可以与联系的任意一端实体所对应的关系模式合并</p>\"},{\"Key\":\"D\",\"Value\":\"<p>一个1：n联系可以转换为一个独立的关系模式，也可以与联系的任意一端实体所对应的关系模式合并</p>\"}]",
+        "questions": "<p>下列有关E-R模型向关系模型转换的叙述中，不正确的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 108284,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>安全性控制</p>\"},{\"Key\":\"B\",\"Value\":\"<p>完整性约束条件</p>\"},{\"Key\":\"C\",\"Value\":\"<p>数据存取范围</p>\"},{\"Key\":\"D\",\"Value\":\"<p>死锁的处理方法</p>\"}]",
+        "questions": "<p>数据库触发器用于定义（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      }
+    ]
+  }
+}

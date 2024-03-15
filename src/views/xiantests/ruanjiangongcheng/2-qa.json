@@ -1,0 +1,110 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45657,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178052,178053,178054,178055,178056,178057,178058\"}",
+    "parent_id": 35108,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:15:03.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178052,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Software life cycle is the cycling through phases of specification, design, implementation, and testing.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Software life cycle is the period of time that a software product is in service.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Every software system has its life cycle.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Software life cycle is the repetitive nature of software testing.</p>\"}]",
+        "questions": "<p>Which of the following statements about software life cycle is true?（）<br/>关于软件生命周期的描述以下哪项是对的？（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178053,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Users always welcome the completed software system.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>It is quite common that requirements always change, which makes big trouble for development organization.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Sometimes, the clients do not know what they really need.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Some good software organizations can forecast the requirements of the potential users, so they can lead clients and users.</p>\"}]",
+        "questions": "<p>Which of the following statements is not true?（）<br/>以下哪个语句是不正确的？（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178054,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>The integration phase</p>\"},{\"Key\":\"B\",\"Value\":\"<p>The implementation phase</p>\"},{\"Key\":\"C\",\"Value\":\"<p>The maintenance phase</p>\"},{\"Key\":\"D\",\"Value\":\"<p>The design phase</p>\"}]",
+        "questions": "<p>In which of the following phases of software development is it the cheapest to fix a fault?（）<br/>在软件开发的以下哪个阶段解决故障最廉价？（）</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 178055,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Design</p>\"},{\"Key\":\"B\",\"Value\":\"<p>execution-based testing</p>\"},{\"Key\":\"C\",\"Value\":\"<p>non-execution-based testing</p>\"},{\"Key\":\"D\",\"Value\":\"<p>maintenance</p>\"}]",
+        "questions": "<p>Inspection and walkthrough are two types of（）.<br/>审查和走查是两种类型的（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178056,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>is to test executable code.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>includes execution-based testing and non-execution based testing.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>is a phase following implementation phase.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>is just to read code.</p>\"}]",
+        "questions": "<p>Software testing（）.<br/>软件测试（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 178057,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Maintenance</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Debugging</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Acceptance testing</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Regression testing</p>\"}]",
+        "questions": "<p>（）is to check regression faults.<br/>（）是检查回归错误。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 178058,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>error</p>\"},{\"Key\":\"B\",\"Value\":\"<p>mistake</p>\"},{\"Key\":\"C\",\"Value\":\"<p>bug</p>\"},{\"Key\":\"D\",\"Value\":\"<p>regression fault</p>\"}]",
+        "questions": "<p>Suppose that the maintenance programmer has located a fault and must fix it without inadvertently introducing another fault elsewhere in the product, that is, a（）.<br/>假设维护程序员已经找到故障并且必须修复它，而不会无意中在产品的其他地方引入另一个故障，即（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

@@ -1,0 +1,132 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 6680,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"96564,96560,96556,96550,96546,96543,96541,96534,96531\"}",
+    "parent_id": 5919,
+    "curriculum_id": 188,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 96531,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>中华民族的农业基础</p>\"},{\"Key\":\"B\",\"Value\":\"<p>中华民族的民族精神</p>\"},{\"Key\":\"C\",\"Value\":\"<p>中华民族的国家制度</p>\"},{\"Key\":\"D\",\"Value\":\"<p>中华民族的发展历史</p>\"}]",
+        "questions": "<p>中国传统文化的基本精神实质是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 96534,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>天</p>\"},{\"Key\":\"B\",\"Value\":\"<p>地</p>\"},{\"Key\":\"C\",\"Value\":\"<p>人</p>\"},{\"Key\":\"D\",\"Value\":\"<p>物</p>\"}]",
+        "questions": "<p>下面不是世界文明兴衰根本的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 96541,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>意志之天</p>\"},{\"Key\":\"B\",\"Value\":\"<p>义理之天</p>\"},{\"Key\":\"C\",\"Value\":\"<p>自然之天</p>\"},{\"Key\":\"D\",\"Value\":\"<p>君主之天</p>\"}]",
+        "questions": "<p>（）是指自然的本性、状态，与地相对，这也是我们今天所要关注的重点。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 96543,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>董仲舒</p>\"},{\"Key\":\"B\",\"Value\":\"<p>孔子</p>\"},{\"Key\":\"C\",\"Value\":\"<p>秦始皇</p>\"},{\"Key\":\"D\",\"Value\":\"<p>周文王</p>\"}]",
+        "questions": "<p>儒学被（）改造成彻底的专制政治工具。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 96546,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>天人合一</p>\"},{\"Key\":\"B\",\"Value\":\"<p>贵和执中</p>\"},{\"Key\":\"C\",\"Value\":\"<p>和而不同</p>\"},{\"Key\":\"D\",\"Value\":\"<p>自强不息</p>\"}]",
+        "questions": "<p>宋明时期，（）思想发展成为占据主导地位的社会文化思潮。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 96550,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>民族文化</p>\"},{\"Key\":\"B\",\"Value\":\"<p>民族服装</p>\"},{\"Key\":\"C\",\"Value\":\"<p>民族观念</p>\"},{\"Key\":\"D\",\"Value\":\"<p>民族信仰</p>\"}]",
+        "questions": "<p>（）是一个国家对民族文化认同的标志和符号。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 96556,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>先秦时期</p>\"},{\"Key\":\"B\",\"Value\":\"<p>春秋、战国时期</p>\"},{\"Key\":\"C\",\"Value\":\"<p>魏晋南北朝时期</p>\"},{\"Key\":\"D\",\"Value\":\"<p>宋明时期</p>\"}]",
+        "questions": "<p>（）天人合一思想发展成为占据主导地位的社会文化思潮，几乎为各派思想家所接受。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 96560,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>天人合一</p>\"},{\"Key\":\"B\",\"Value\":\"<p>贵和执中</p>\"},{\"Key\":\"C\",\"Value\":\"<p>和而不同</p>\"},{\"Key\":\"D\",\"Value\":\"<p>自强不息</p>\"}]",
+        "questions": "<p>中华民族之所以能绵延五千年而不曾毁灭,就因为把（）精神融进血液中,化为一种生活态度和生活方式。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 96564,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>民族凝聚功能</p>\"},{\"Key\":\"B\",\"Value\":\"<p>精神激励功能</p>\"},{\"Key\":\"C\",\"Value\":\"<p>抵制西方文化</p>\"},{\"Key\":\"D\",\"Value\":\"<p>整合创新功能</p>\"}]",
+        "questions": "<p>中国传统文化基本精神的功能不包括（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

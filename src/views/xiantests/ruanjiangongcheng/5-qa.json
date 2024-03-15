@@ -1,0 +1,77 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45660,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178069,178070,178071,178072\"}",
+    "parent_id": 35124,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:15:13.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178069,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>A set of use cases is written for each scenario.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>A scenario is an instance of a use case.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Every use case has only one possible scenario.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>A use case is an instance of a scenario.</p>\"}]",
+        "questions": "<p>Which of the following is true of use case modeling in OOA（）?<br/>下列关于OOA中用例建模的描述哪一个是对的（）？</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 178070,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>An actor doesn't represent a coherent set of roles all the time that one plays when interacting with these use cases.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Use case modeling is both action and data oriented.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>A use case is initiated by an actor to invoke a certain functionality in the system.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>A class is an abstract data type, but it doesn't support inheritance.</p>\"}]",
+        "questions": "<p>In the following use case diagram, which statement is wrong?（）<br/>在下面的用例图中，哪个语句是错误的？（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178071,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Use case diagram focuses on only the functional requirements of the target software system.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>A class can be taken as a module.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Only human being can be an actor in a use case diagram.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Use case diagram is a functional modeling of the software system.</p>\"}]",
+        "questions": "<p>Which of the following is wrong（）?<br/>以下哪项是错误的（）？</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178072,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Fax machine</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Salesman</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Order information</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Customer</p>\"}]",
+        "questions": "<p>A company wants to develop a software system to manage order. Every day, the customers send the order information to the salesman by fax. And then, the salesman inputs the information into the system. Then, in this case, which should be the actor of the system in use case diagram?（）<br/>一家公司想要开发一个软件系统来管理订单。每天，客户通过传真将订单信息发送给销售人员。然后，销售员将信息输入系统。那么，在这种情况下，本系统中下列哪个应该是用例图中的参与者？（）</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

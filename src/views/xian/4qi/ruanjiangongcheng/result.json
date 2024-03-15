@@ -1,0 +1,746 @@
+{
+  "success": true,
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "paperId": 2148067534,
+    "examId": 2141354601,
+    "paperContents": [
+      {
+        "questionId": 190159,
+        "title": "<p>面向对象的分析方法主要是建立三类模型，即（）。</p>",
+        "options": [
+          "<p>对象模型、动态模型、应用模型</p>",
+          "<p>系统模型、ER模型、应用模型</p>",
+          "<p>E-R模型、对象模型、功能模型</p>",
+          "<p>对象模型、动态模型、功能模型</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190160,
+        "title": "<p>在 E-R 模型中，包含以下基本成分（）。</p>",
+        "options": [
+          "<p>数据、对象、实体</p>",
+          "<p>控制、联系、对象</p>",
+          "<p>实体、联系、属性</p>",
+          "<p>实体、属性、操作</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190173,
+        "title": "<p>下列引入了“风险驱动”的思想，适用于大规模的内部开发项目的是（）。</p>",
+        "options": [
+          "<p>喷泉模型</p>",
+          "<p>增量模型</p>",
+          "<p>原型模型</p>",
+          "<p>螺旋模型</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190156,
+        "title": "<p>软件是（）。</p>",
+        "options": [
+          "<p>处理对象和处理规则的描述</p>",
+          "<p>程序</p>",
+          "<p>程序及其文档</p>",
+          "<p>计算机系统</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190164,
+        "title": "<p>若有一个计算类型的程序，它的输入量只有一个X，其范围是[-1.0，1.0]，现从输入的角度考虑一组测试用例：-1.001，-1.0，1.0，1.001，设计这组测试用例的方法是（）。</p>",
+        "options": [
+          "<p>等价分类法</p>",
+          "<p>条件覆盖法</p>",
+          "<p>边界值分析法</p>",
+          "<p>错误推测法</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190180,
+        "title": "<p>软件复杂性度量的参数包括（）。</p>",
+        "options": [
+          "<p>效率</p>",
+          "<p>规模</p>",
+          "<p>完整性</p>",
+          "<p>容错性</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190178,
+        "title": "<p>在McCall软件质量度量模型中，（）属于面向软件产品修改。</p>",
+        "options": [
+          "<p>可靠性</p>",
+          "<p>可重用性</p>",
+          "<p>适应性</p>",
+          "<p>可移植性</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190172,
+        "title": "<p>数据字典是软件需求分析阶段的最重要工具之一，其最基本的功能是（）。</p>",
+        "options": [
+          "<p>数据库设计</p>",
+          "<p>数据通信</p>",
+          "<p>数据定义</p>",
+          "<p>数据维护</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190170,
+        "title": "<p>确定测试计划是在（）阶段制定的。</p>",
+        "options": [
+          "<p>总体设计</p>",
+          "<p>详细设计</p>",
+          "<p>编码</p>",
+          "<p>测试</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190169,
+        "title": "<p>内聚程度最低的是（）内聚。</p>",
+        "options": ["<p>过程</p>", "<p>偶然</p>", "<p>顺序</p>", "<p>时间</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 29,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 29,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190211,
+        "title": "<p>在用户需求分析时观察用户手工操作过程不是为了模拟手工操作过程，而是为了获取第一手资料，并从中提取出有价值的需求。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190192,
+        "title": "<p>软件需求分析的任务是建立软件模块结构图。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190215,
+        "title": "<p>理想的人机界面应针对具有典型个性的特定的一类用户设计。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190196,
+        "title": "<p>编码时尽量多用全局变量。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190191,
+        "title": "<p>编程序时应尽可能利用硬件特点以提高程序效率。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190205,
+        "title": "<p>通常紧致性好的语言一致性就好。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190203,
+        "title": "<p>面向数据的设计方法适用场合是具有明显的层次信息结构的应用如：企事业的信息管理系统；系统软件（如操作系统）等。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190198,
+        "title": "<p>软件测试是要发现软件中的所有错误。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190197,
+        "title": "<p>用CASE环境或程序自动生成工具来自动生成一部分程序。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190199,
+        "title": "<p>用户对软件需求的描述不精确，往往是产生软件危机的原因之一。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 30,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 30,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190310,
+        "title": "<p>规定功能的软件，在一定程度上对自身错误的作用（软件错误）具有屏蔽能力，则称此软件具有（）的软件。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题4分，共20分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 20,
+          "questionNumber": 15,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 4,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 15,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190309,
+        "title": "<p>在软件开发过程中要产生大量的信息，要进行大量的修改，（）能协调软件开发，并使混乱减到最低程度。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题4分，共20分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 20,
+          "questionNumber": 15,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 4,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 15,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190320,
+        "title": "<p>高级语言：独立于机器，面向过程或面向（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题4分，共20分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 20,
+          "questionNumber": 15,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 4,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 15,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190313,
+        "title": "<p>为了便于对照检查，测试用例应由输入数据和预期的（）两部分组成。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题4分，共20分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 20,
+          "questionNumber": 15,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 4,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 15,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190312,
+        "title": "<p>软件可维护性度量的七个质量特性是可理解性、可测试性、可修改性、可靠性、（）、可使用性和效率。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题4分，共20分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 20,
+          "questionNumber": 15,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 4,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 15,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190186,
+        "title": "<p>简述容错技术的四种主要手段，并解释。</p>",
+        "questionType": {
+          "explain": "本题共2小题，每小题10分，共20分，请根据题目要求回答下列问题。",
+          "totalNumber": 2,
+          "totalScore": 20,
+          "questionNumber": 3,
+          "questionTypeName": "简答题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 5,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 3, "levelNumber": 2 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 190187,
+        "title": "<p>以G.J.Myers的观点，简述对软件测试的目的。</p>",
+        "questionType": {
+          "explain": "本题共2小题，每小题10分，共20分，请根据题目要求回答下列问题。",
+          "totalNumber": 2,
+          "totalScore": 20,
+          "questionNumber": 3,
+          "questionTypeName": "简答题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 5,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 3, "levelNumber": 2 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      }
+    ],
+    "examPaperAnswerVoList": [],
+    "sysTime": "2023-12-22 21:23:12",
+    "startTime": "2023-12-22 21:23:12"
+  }
+}

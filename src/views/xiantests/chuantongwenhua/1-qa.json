@@ -1,0 +1,143 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 6655,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"96524,96517,96513,96510,96490,96476,96471,96461,96458,96505\"}",
+    "parent_id": 5907,
+    "curriculum_id": 188,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 96458,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>中国文化就是诗词歌赋</p>\"},{\"Key\":\"B\",\"Value\":\"<p>中国文化是重视做人的文化</p>\"},{\"Key\":\"C\",\"Value\":\"<p>中国文化是书本上的文化</p>\"},{\"Key\":\"D\",\"Value\":\"<p>中国文化就是儒家文化</p>\"}]",
+        "questions": "<p>下面对中国文化说法正确的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 96461,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>伦理类型</p>\"},{\"Key\":\"B\",\"Value\":\"<p>大陆类型</p>\"},{\"Key\":\"C\",\"Value\":\"<p>海洋类型</p>\"},{\"Key\":\"D\",\"Value\":\"<p>工业类型</p>\"}]",
+        "questions": "<p>中国文化的类型（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 96471,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>半封闭的大陆性地域</p>\"},{\"Key\":\"B\",\"Value\":\"<p>封闭性的大陆气候</p>\"},{\"Key\":\"C\",\"Value\":\"<p>农业经济格局</p>\"},{\"Key\":\"D\",\"Value\":\"<p>宗法与专制的社会组织结构</p>\"}]",
+        "questions": "<p>中国文化形成的三条件不包括（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 96476,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>中国文化是反传统的文化</p>\"},{\"Key\":\"B\",\"Value\":\"<p>中国文化是注重天道自然的文化</p>\"},{\"Key\":\"C\",\"Value\":\"<p>中国文化是以人伦关系为出发点的伦理型文化</p>\"},{\"Key\":\"D\",\"Value\":\"<p>伦理道德不是中国文化的核心</p>\"}]",
+        "questions": "<p>中国文化是注重伦理型的文化，表现在下列哪些方面（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 96490,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>强调道德面前人人平等，鼓励人人都加强道德修养</p>\"},{\"Key\":\"B\",\"Value\":\"<p>将伦理关系凝固化，绝对化</p>\"},{\"Key\":\"C\",\"Value\":\"<p>对统治者也可以形成道德制约</p>\"},{\"Key\":\"D\",\"Value\":\"<p>能鼓励人们自觉地维护正义</p>\"}]",
+        "questions": "<p>下面不是中国伦理型文化的积极作用的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 96505,
+        "difficulty_level": "易",
+        "question_type": 2,
+        "question_type_name": "多选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>三纲五常、存天理灭人欲等思想，制约了人的个性的发挥和民主的发展</p>\"},{\"Key\":\"B\",\"Value\":\"<p>以重伦理教化为核心的文化制约了其他文化的发展</p>\"},{\"Key\":\"C\",\"Value\":\"<p>人伦网络导致不良的社会现象</p>\"},{\"Key\":\"D\",\"Value\":\"<p>人情重于法理，影响了法治的正常发展</p>\"}]",
+        "questions": "<p>伦理主义的消极影响表现在（）。</p>",
+        "answer": "ABCD",
+        "ret_answer": "C",
+        "isCorrect": false
+      },
+      {
+        "id": 96510,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>强大的生命力和凝聚力</p>\"},{\"Key\":\"B\",\"Value\":\"<p>重实际求稳定的农业文化心态</p>\"},{\"Key\":\"C\",\"Value\":\"<p>以家族为本位的宗法集体主义文化</p>\"},{\"Key\":\"D\",\"Value\":\"<p>其余选项都是</p>\"}]",
+        "questions": "<p>中国文化的特点有（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 96513,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>《诗》 《书》 《礼》 《乐》 《易》 《墨子》</p>\"},{\"Key\":\"B\",\"Value\":\"<p>《诗》 《书》 《礼》 《乐》 《易》 《春秋》</p>\"},{\"Key\":\"C\",\"Value\":\"<p>《诗》 《书》 《礼》 《乐》 《易》 《老子》</p>\"},{\"Key\":\"D\",\"Value\":\"<p>《诗》 《书》 《礼》 《乐》 《易》 《庄子》</p>\"}]",
+        "questions": "<p>孔子整理的“六经”为儒学的基本文献。“六经”分别是指（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 96517,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>课从六艺</p>\"},{\"Key\":\"B\",\"Value\":\"<p>罢黜百家</p>\"},{\"Key\":\"C\",\"Value\":\"<p>设立太学</p>\"},{\"Key\":\"D\",\"Value\":\"<p>独尊儒术</p>\"}]",
+        "questions": "<p>西汉政府采用董仲舒的建议,使儒学获得了独尊地位,下列不属于董仲舒建议的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 96524,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>儒家思想对中国文化各个方面的广泛渗透</p>\"},{\"Key\":\"B\",\"Value\":\"<p>在经学的影响下，科学未能充分独立</p>\"},{\"Key\":\"C\",\"Value\":\"<p>经学传统对中国宗教的发展没有产生影响</p>\"},{\"Key\":\"D\",\"Value\":\"<p>在经学的学术体系之下，中国古代科学的发展，只能走自己的独特道路</p>\"}]",
+        "questions": "<p>经学传统对中国文化的影响不包括（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

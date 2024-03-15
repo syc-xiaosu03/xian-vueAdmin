@@ -1,0 +1,110 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 8332,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"100433,100431,100429,100427,100426,100425,100423\"}",
+    "parent_id": 4777,
+    "curriculum_id": 169,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 100423,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>中断请求</p>\"},{\"Key\":\"B\",\"Value\":\"<p>中断处理</p>\"},{\"Key\":\"C\",\"Value\":\"<p>中断响应</p>\"},{\"Key\":\"D\",\"Value\":\"<p>中断返回</p>\"}]",
+        "questions": "<p>系统中出现某些急需处理的异常情况或特殊请求的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 100425,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>中断处理</p>\"},{\"Key\":\"B\",\"Value\":\"<p>中断请求</p>\"},{\"Key\":\"C\",\"Value\":\"<p>中断返回</p>\"},{\"Key\":\"D\",\"Value\":\"<p>中断响应</p>\"}]",
+        "questions": "<p>在处理完毕后，单片机又自动返回原来的主程序继续运行的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 100426,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>中断的优先级</p>\"},{\"Key\":\"B\",\"Value\":\"<p>中断源</p>\"},{\"Key\":\"C\",\"Value\":\"<p>中断系统</p>\"},{\"Key\":\"D\",\"Value\":\"<p>中断向量</p>\"}]",
+        "questions": "<p>可以引起中断的事件属于（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 100427,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>单片机应用系统能实现单片机与多个外围设备并行工作</p>\"},{\"Key\":\"B\",\"Value\":\"<p>能对单片机运行过程中对突发故障实现实时处理</p>\"},{\"Key\":\"C\",\"Value\":\"<p>只能实现单道程序的切换运行</p>\"},{\"Key\":\"D\",\"Value\":\"<p>能在多机系统中实现各处理机之间的信息交换和任务切换</p>\"}]",
+        "questions": "<p>下列描述内容错误的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 100429,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>60个可屏蔽中断通道</p>\"},{\"Key\":\"B\",\"Value\":\"<p>低延迟的异常和中断处理</p>\"},{\"Key\":\"C\",\"Value\":\"<p>电源管理控制</p>\"},{\"Key\":\"D\",\"Value\":\"<p>16个可编程的优先等级(使用了3位中断优先级）</p>\"}]",
+        "questions": "<p>下列嵌套向量中断控制器（NVIC）特性描述错误的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 100431,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>每个中断/事件都有独立的触发和屏蔽</p>\"},{\"Key\":\"B\",\"Value\":\"<p>支持多达10个软件的中断/事件请求</p>\"},{\"Key\":\"C\",\"Value\":\"<p>每个中断线都有专用的状态位</p>\"},{\"Key\":\"D\",\"Value\":\"<p>检测脉冲宽度低于APB2时钟宽度的外部信号</p>\"}]",
+        "questions": "<p>下列EXTI控制器的主要特性描述错误的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 100433,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>中断处理函数不在程序任何地方被调用</p>\"},{\"Key\":\"B\",\"Value\":\"<p>中断处理函数由硬件（中断向量单元）自动执行</p>\"},{\"Key\":\"C\",\"Value\":\"<p>不是每个中断线都有专用的状态位</p>\"}]",
+        "questions": "<p>下列对中断处理程序描述错误的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

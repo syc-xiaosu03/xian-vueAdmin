@@ -1,0 +1,88 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 8328,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"100406,100403,100400,100398,100397\"}",
+    "parent_id": 4757,
+    "curriculum_id": 169,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 100397,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>HSE</p>\"},{\"Key\":\"B\",\"Value\":\"<p>HSI</p>\"},{\"Key\":\"C\",\"Value\":\"<p>PLL</p>\"},{\"Key\":\"D\",\"Value\":\"<p>LSE</p>\"}]",
+        "questions": "<p>下列不属于系统时钟源(SYSCLK)的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 100398,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>标准的I/O口可承受5V</p>\"},{\"Key\":\"B\",\"Value\":\"<p>IO口可以吸收20mA</p>\"},{\"Key\":\"C\",\"Value\":\"<p>可设置输出速度达到50MHz</p>\"},{\"Key\":\"D\",\"Value\":\"<p>多达21路模拟输入</p>\"}]",
+        "questions": "<p>下列GPIO的特色描述错误的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 100400,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>多达112个IO口可以设置为外部中断</p>\"},{\"Key\":\"B\",\"Value\":\"<p>一个IO口可用于将MCU从待机模式唤醒(PA.0)</p>\"},{\"Key\":\"C\",\"Value\":\"<p>所有的IO被分成8个端口(GPIOA..GPIOG)</p>\"},{\"Key\":\"D\",\"Value\":\"<p>锁定机制可以避免对IO口的寄存器的误写操作</p>\"}]",
+        "questions": "<p>下列GPIO的特色描述错误的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 100403,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>浮空</p>\"},{\"Key\":\"B\",\"Value\":\"<p>推挽</p>\"},{\"Key\":\"C\",\"Value\":\"<p>开漏</p>\"},{\"Key\":\"D\",\"Value\":\"<p>复用推挽</p>\"}]",
+        "questions": "<p>下列不属于GPIO配置输出模式的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 100406,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>0x00</p>\"},{\"Key\":\"B\",\"Value\":\"<p>0x08</p>\"},{\"Key\":\"C\",\"Value\":\"<p>0x0C</p>\"},{\"Key\":\"D\",\"Value\":\"<p>0x14</p>\"}]",
+        "questions": "<p>GPIO端口配置低寄存器(GPIOx_CRL)(x=A..G) 的偏移地址为（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

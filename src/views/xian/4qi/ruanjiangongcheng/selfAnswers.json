@@ -1,0 +1,50 @@
+{
+  "paperAnswers": [
+    {
+      "answer": ["<p>对象模型、动态模型、功能模型</p>"],
+      "paperQuestionId": 190159
+    },
+    { "answer": ["<p>实体、联系、属性</p>"], "paperQuestionId": 190160 },
+    { "answer": ["<p>螺旋模型</p>"], "paperQuestionId": 190173 },
+    { "answer": ["<p>程序及其文档</p>"], "paperQuestionId": 190156 },
+    { "answer": ["<p>边界值分析法</p>"], "paperQuestionId": 190164 },
+    { "answer": ["<p>规模</p>"], "paperQuestionId": 190180 },
+    { "answer": ["<p>适应性</p>"], "paperQuestionId": 190178 },
+    { "answer": ["<p>数据定义</p>"], "paperQuestionId": 190172 },
+    { "answer": ["<p>总体设计</p>"], "paperQuestionId": 190170 },
+    { "answer": ["<p>偶然</p>"], "paperQuestionId": 190169 },
+    { "answer": ["对"], "paperQuestionId": 190211 },
+    { "answer": ["错"], "paperQuestionId": 190192 },
+    { "answer": ["对"], "paperQuestionId": 190215 },
+    { "answer": ["错"], "paperQuestionId": 190196 },
+    { "answer": ["错"], "paperQuestionId": 190191 },
+    { "answer": ["错"], "paperQuestionId": 190205 },
+    { "answer": ["对"], "paperQuestionId": 190203 },
+    { "answer": ["错"], "paperQuestionId": 190198 },
+    { "answer": ["对"], "paperQuestionId": 190197 },
+    { "answer": ["对"], "paperQuestionId": 190199 },
+    { "answer": ["<p>容错功能</p>"], "paperQuestionId": 190310 },
+    { "answer": ["<p>软件配置管理</p>"], "paperQuestionId": 190309 },
+    { "answer": ["<p>对象</p>"], "paperQuestionId": 190320 },
+    { "answer": ["<p>输出结果</p>"], "paperQuestionId": 190313 },
+    { "answer": ["<p>可移植性</p>"], "paperQuestionId": 190312 },
+    {
+      "answer": [
+        "<p>答：</p><p>（1）结构冗余：包括静态冗余、动态冗余和混合冗余。</p><p>（2）信息冗余：为检测或纠正信息在运算或传输中的错误，须外加一部分信息。</p><p>（3）时间冗余：指重复执行指令或程序来消除瞬时错误带来的影响。</p><p>（4）冗余附加技术：指为实现上述冗余技术所需的资源和技术。</p>"
+      ],
+      "paperQuestionId": 190186
+    },
+    {
+      "answer": [
+        "<p>答： 软件测试是：</p><p>（1）为了发现错误而执行程序的过程。</p><p>（2）一个好的用例能够发现至今尚未发现的错误的测试。</p><p>（3）一个成功的测试是发现至今尚未发现的错误的测试。</p>"
+      ],
+      "paperQuestionId": 190187
+    }
+  ],
+  "paperId": 2148067534,
+  "paperStartTime": "2023-12-22 21:23:12",
+  "studentId": "39270",
+  "examId": 2141354601,
+  "remark": 1,
+  "id": 2146121495
+}

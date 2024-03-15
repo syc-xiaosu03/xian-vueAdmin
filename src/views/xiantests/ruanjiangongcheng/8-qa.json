@@ -1,0 +1,77 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45663,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178090,178091,178092,178093\"}",
+    "parent_id": 35137,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:15:24.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178090,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Maintenance</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Design</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Implementation</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Specification</p>\"}]",
+        "questions": "<p>During the entire life cycle of a software product, which phase takes the longest time and the most cost?（）<br/>在软件产品的整个生命周期中，哪个阶段花费最长的时间和最高的成本？（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178091,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Perfective maintenance</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Corrective maintenance</p>\"},{\"Key\":\"C\",\"Value\":\"<p>None of the above</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Adaptive maintenance</p>\"}]",
+        "questions": "<p>Which of the following maintenance is to improve the performance of the software product？（）.<br/>下面哪些维护是为了提高软件产品的性能？（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178092,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>perfective</p>\"},{\"Key\":\"B\",\"Value\":\"<p>none of the above</p>\"},{\"Key\":\"C\",\"Value\":\"<p>adaptive</p>\"},{\"Key\":\"D\",\"Value\":\"<p>corrective</p>\"}]",
+        "questions": "<p>To adapt the software to a new operating system is（）maintenance.<br/>使软件适应新的操作系统是（）维护。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178093,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Maintenance programmers should have superb communication ability.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Maintenance programmers should have superb testing ability.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Maintenance programmers should have superb diagnostic ability.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Maintenance programmers should have superb cheating ability.</p>\"}]",
+        "questions": "<p>Which of the following statement about maintenance are not true?（）<br/>关于维护的以下叙述中有哪些不正确？（）</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

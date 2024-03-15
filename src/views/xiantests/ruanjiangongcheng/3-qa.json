@@ -1,0 +1,66 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45658,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178059,178060,178061\"}",
+    "parent_id": 35111,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:15:06.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178059,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>To determine requirements is easy because no coding is needed.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Requirements determine the success of the target system fundamentally.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Requirements phase is the first phase of software life cycle.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>There are many methods that can be helpful for requirements collecting.</p>\"}]",
+        "questions": "<p>Which of the following statements is not correct?（）<br/>以下哪个语句是不正确的？（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178060,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>the best approach to use for projects with large development teams</p>\"},{\"Key\":\"B\",\"Value\":\"<p>a reasonable approach when requirements are well defined</p>\"},{\"Key\":\"C\",\"Value\":\"<p>a risky model that rarely produces a meaningful product</p>\"},{\"Key\":\"D\",\"Value\":\"<p>a useful approach when a customer cannot define requirements clearly</p>\"}]",
+        "questions": "<p>The rapid prototyping model of software development is（）.<br/>软件开发的快速原型模型是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 178061,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>determine what clients and users want</p>\"},{\"Key\":\"B\",\"Value\":\"<p>check what clients and users think</p>\"},{\"Key\":\"C\",\"Value\":\"<p>determine future users</p>\"},{\"Key\":\"D\",\"Value\":\"<p>determine what clients and users need</p>\"}]",
+        "questions": "<p>Requirements workflow is to（）.<br/>需求工作流程旨在（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

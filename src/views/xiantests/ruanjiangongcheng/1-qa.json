@@ -1,0 +1,99 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45656,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178046,178047,178048,178049,178050,178051\"}",
+    "parent_id": 35103,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:14:59.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178046,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Production will generally be sped up because of the decrease in pressure on the programmers already working on the project.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Production will generally be slowed down because of the need for training and additional coordination.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Production will generally be sped up because new programmers generally bring bright new implementation ideas to a project.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Production will generally be sped up because programmers are generally most productive when they first start on a project.</p>\"}]",
+        "questions": "<p>Which of the following is true about the probable effect of adding new programmers to a software project?（）<br/>关于增加新程序员到软件项目的可能效果，下列哪个是正确的？（）</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 178047,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Computer scientists' job is to find the most suitable solution for software system.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Computer scientists and software engineers care about the same thing.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Software engineers always try to find all kinds of solutions for the target software system.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>The relationship between Computer Science and Software Engineering is just like the one between Chemistry and Chemical Engineering.</p>\"}]",
+        "questions": "<p>Which of the following statements about computer science and software engineering is correct?（）<br/>关于计算机科学和软件工程的以下语句哪个是正确的？（）</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 178048,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>The faults in a software system come from wearing out.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Software is something mysterious mastered by some geniuses.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Software is transplantable.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Software is a kind of concrete physical entity.</p>\"}]",
+        "questions": "<p>Which of the following statements about software is true?（）</p><p>以下关于软件的陈述中哪一项是正确的？（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178049,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>If the software engineers act in the best interests of their client and employer, he won't be able to act consistently with the public interest.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Software products are developed and maintained by humans. If those individuals are hard working, intelligent, sensible, up to data and above all, ethical, then the chances are good that the way that the software products they develop and maintain will be satisfactory.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>The two major societies for computer professionals, the Association for Computing Machinery (ACM) and the Computer Society of the Institute of Electrical and Electronics Engineers (IEEE-CS) jointly approve a Software Engineering Code of Ethics and Professional Practice as the standard for teaching and practicing software engineering.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Most societies for professionals have a code of ethics to which all its members must adhere.</p>\"}]",
+        "questions": "<p>Which of the following statements about ethical issues is not correct?（）<br/>关于伦理问题的以下哪些语句是不正确的？（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178050,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>users</p>\"},{\"Key\":\"B\",\"Value\":\"<p>contract</p>\"},{\"Key\":\"C\",\"Value\":\"<p>testing plan</p>\"},{\"Key\":\"D\",\"Value\":\"<p>requirements documents</p>\"}]",
+        "questions": "<p>Which of the following is not software ?（）<br/>以下哪项不是软件？（）</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178051,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Software process</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Software testing</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Software engineering</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Software</p>\"}]",
+        "questions": "<p>（）is a discipline whose aim is the production of fault-free software, delivered on time and within budget, that satisfies the client's needs.</p><p>（）是一门学科，其目标是生产无故障的软件，按时交付，在预算范围内，满足客户的需求。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

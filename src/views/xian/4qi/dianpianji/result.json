@@ -1,0 +1,890 @@
+{
+  "success": true,
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "paperId": 2148285443,
+    "examId": 2141354483,
+    "paperContents": [
+      {
+        "questionId": 135204,
+        "title": "<p>AT89S51单片机CPU的主要组成部分为（）。</p>",
+        "options": [
+          "<p>运算器、控制器</p>",
+          "<p>运算器、寄存器</p>",
+          "<p>运算器、指令译码器</p>",
+          "<p>加法器、寄存器</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191271,
+        "title": "<p>MCS-51系列单片机是属于（）体系结构。</p>",
+        "options": [
+          "<p>普林斯顿</p>",
+          "<p>冯诺依曼</p>",
+          "<p>哈佛</p>",
+          "<p>图灵</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135197,
+        "title": "<p>AT89S51单片机采用的半导体工艺是（）。</p>",
+        "options": [
+          "<p>HMOS</p>",
+          "<p>CMOS</p>",
+          "<p>NMOS</p>",
+          "<p>CHMOS</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135209,
+        "title": "<p>程序状态字中CY、OV、P分别为（）。</p>",
+        "options": [
+          "<p>无符号数的溢出、有符号数的溢出、奇标志</p>",
+          "<p>进位/借位、有符号数溢出、A累加器1的奇偶标志位</p>",
+          "<p>进位/借位、溢出、奇偶标志位</p>",
+          "<p>有符号数的溢出、无符号数的溢出、奇标志</p>",
+          "<p>位累加器、溢出、偶标志</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135191,
+        "title": "<p>unsignedint类型变量的二进制位数为（）。</p>",
+        "options": ["<p>1位</p>", "<p>7位</p>", "<p>8位</p>", "<p>16位</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191260,
+        "title": "<p>当系统的振荡频率为12MHz时，一个机器周期为（）μs。</p>",
+        "options": ["<p>1</p>", "<p>2</p>", "<p>3</p>", "<p>4</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191256,
+        "title": "<p>计算机系统中0.1，实际上是（）。</p>",
+        "options": [
+          "<p>高低电平</p>",
+          "<p>十进制数</p>",
+          "<p>二进制数</p>",
+          "<p>十六进制数</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191268,
+        "title": "<p>十六进制数A到F和对应的ASCⅡ码的差为（）。</p>",
+        "options": ["<p>37H</p>", "<p>30H</p>", "<p>40H</p>", "<p>47H</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135208,
+        "title": "<p>AT89S51单片机片内包含有（）、（）和（）。</p>",
+        "options": [
+          "<p>CPU，存储器，打印机</p>",
+          "<p>CPU，存储器，LCD驱动器</p>",
+          "<p>存储器，定时器，CPU</p>",
+          "<p>磁盘驱动器接口、USB接口、存储器</p>"
+        ],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191253,
+        "title": "<p>某种存储器芯片是8KB*4/片，那么它的地址线根数是（）。</p>",
+        "options": ["<p>11根</p>", "<p>12根</p>", "<p>13根</p>", "<p>14根</p>"],
+        "questionType": {
+          "explain": "本题共10小题，每小题3分，共30分，在每个小题给出的选项中，只有一项符合题目要求。",
+          "totalNumber": 10,
+          "totalScore": 30,
+          "questionNumber": 50,
+          "questionTypeName": "单选题",
+          "isCheck": true,
+          "systemQuestionType": 1,
+          "questionType": 1,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 50,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135365,
+        "title": "<p>可以加上限流电阻连接发光二极管、蜂鸣器的I/O端口有（）。</p>",
+        "options": [
+          "<p>32个I/O引脚都可以连接</p>",
+          "<p>P1.0</p>",
+          "<p>PO~P3，4个8位并行双向端口</p>",
+          "<p>P3.0</p>",
+          "<p>P2.1</p>",
+          "<p>P0.7</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 20,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 20,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135373,
+        "title": "<p>自从8080出现以后，微型处理器应用的两个主要方向是（）。</p>",
+        "options": [
+          "<p>工业微控制器</p>",
+          "<p>微型计算机</p>",
+          "<p>通信设备</p>",
+          "<p>工业计算机</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 20,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 20,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135371,
+        "title": "<p>输入/输出接口简称为I/O接口，其功能包括（）。</p>",
+        "options": [
+          "<p>协调电平差异</p>",
+          "<p>速度匹配</p>",
+          "<p>协调时序差异</p>",
+          "<p>信息格式转换</p>",
+          "<p>提高外设运行速度</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 20,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 20,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135377,
+        "title": "<p>以下对空语句的描述正确的是（）？</p>",
+        "options": [
+          "<p>分号就是空语句</p>",
+          "<p>它的作用是什么也不做，占用时间</p>",
+          "<p>空语句一般用于延时</p>",
+          "<p>一条空语句就可以实现我们的信号灯延时</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 20,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 20,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135378,
+        "title": "<p>单片机应用系统通常都包含哪些电路（）？</p>",
+        "options": [
+          "<p>输入电路</p>",
+          "<p>晶振电路、复位电路</p>",
+          "<p>输出电路</p>",
+          "<p>电源电路</p>"
+        ],
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，在每个小题给出的选项中，有多项符合题目要求。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 20,
+          "questionTypeName": "多选题",
+          "isCheck": true,
+          "systemQuestionType": 2,
+          "questionType": 2,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 20,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191300,
+        "title": "<p>所谓的单片机，就是将CPU、存储器、定时计数器、中断功能以及I/O设备等主要功能部件都集成在一块超大规模集成电路的微型计算机。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191312,
+        "title": "<p>不能用指令对程序计数器PC进行读写操作。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135458,
+        "title": "<p>各中断源发出的中断请求信号，都会标记在AT89S51的TCON寄存器中。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191320,
+        "title": "<p>串行通信的通信方式为单工方式和双工方式。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191303,
+        "title": "<p>8位二进制数构成一个字节，一个字节所能表达的数的范围是0-255。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135469,
+        "title": "<p>内部寄存器Rn（n=0~7）可作为间接寻址寄存器。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135474,
+        "title": "<p>特殊功能寄存器SP内存放的是堆栈栈顶单元的内容。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135452,
+        "title": "<p>AT89S51单片机中的PC是不可寻址的。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191313,
+        "title": "<p>使用89C51且EA=1时，仍可外扩64KB的程序存储器。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135468,
+        "title": "<p>单片机和计算机没有任何区别。</p>",
+        "options": ["对", "错"],
+        "questionType": {
+          "explain": "本题共10小题，每小题2分，共20分，判断下列相关内容是否正确。",
+          "totalNumber": 10,
+          "totalScore": 20,
+          "questionNumber": 60,
+          "questionTypeName": "判断题",
+          "isCheck": true,
+          "systemQuestionType": 3,
+          "questionType": 3,
+          "singleScore": 2,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 60,
+              "levelNumber": 10
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135436,
+        "title": "<p>AT89S51有（）级中断，5个中断源。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 35,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 35,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135442,
+        "title": "<p>设（R0）=20H，（R1）=30H，（20H）=20H，（21H）=30H，（22H）=40H，（30H）=E0H，（31H）=50H，（32H）=60H，CLRCMOVR2，#3LOOP：MOVA，@ROADDCA，@R1MOV@RO，AINCROINCR1DJNZR2，LOOPSJMP$程序执行后，（RO）=（）。注意：答案用十六进制，十六进制数用大写字母H表示。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 35,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 35,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135428,
+        "title": "<p>MCS-51系列单片机的典型芯片分别为8031、8051、（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 35,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 35,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135439,
+        "title": "<p>若A中的内容为88H，那么，P标志位为（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 35,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 35,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 191288,
+        "title": "<p>8位二进制数，采用补码形式表示带符号数，它能表示的带符号数真值的范围是分别为（）。</p>",
+        "questionType": {
+          "explain": "本题共5小题，每小题3分，共15分，请输入正确的答案。",
+          "totalNumber": 5,
+          "totalScore": 15,
+          "questionNumber": 35,
+          "questionTypeName": "填空题",
+          "isCheck": true,
+          "systemQuestionType": 4,
+          "questionType": 4,
+          "singleScore": 3,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            {
+              "difficultyLevelName": "较易",
+              "maxNumber": 35,
+              "levelNumber": 5
+            },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135498,
+        "title": "<p>说明AT89S51的外部引脚EA*的作用？</p>",
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 9,
+          "questionTypeName": "简答题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 5,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 9, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      },
+      {
+        "questionId": 135539,
+        "title": "<p>AT89S51外扩的程序存储器和数据存储器可以有相同的地址空间，但不会发生数据冲突，为什么？</p>",
+        "questionType": {
+          "explain": "本题共1小题，每小题10分，共10分，请根据题目要求回答下列问题。",
+          "totalNumber": 1,
+          "totalScore": 10,
+          "questionNumber": 4,
+          "questionTypeName": "综合题",
+          "isCheck": true,
+          "systemQuestionType": 5,
+          "questionType": 8,
+          "singleScore": 10,
+          "ratioVoList": [
+            { "difficultyLevelName": "易", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较易", "maxNumber": 4, "levelNumber": 1 },
+            { "difficultyLevelName": "难", "maxNumber": 0, "levelNumber": 0 },
+            { "difficultyLevelName": "较难", "maxNumber": 0, "levelNumber": 0 }
+          ]
+        }
+      }
+    ],
+    "examPaperAnswerVoList": [],
+    "sysTime": "2023-12-17 19:49:41",
+    "startTime": "2023-12-17 19:49:41"
+  }
+}

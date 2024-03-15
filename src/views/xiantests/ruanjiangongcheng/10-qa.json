@@ -1,0 +1,99 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45665,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178112,178113,178114,178115,178116,178117\"}",
+    "parent_id": 35142,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:15:32.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178112,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>They are permanent in nature.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>They are developed using regressive elaboration.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>They have an indefinite beginning and end.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>They have a unique purpose.</p>\"}]",
+        "questions": "<p>Which objective is true of projects（）?</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 178113,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>They recognize that managing a program is simpler than managing a project.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>They report to project managers who represent the next level in the hierarchy.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>They are responsible solely for the delivery of project results.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>They provide leadership and direction for project managers heading the projects within a program.</p>\"}]",
+        "questions": "<p>Which of the following is true of program managers（）？</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 178114,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>pie chart</p>\"},{\"Key\":\"B\",\"Value\":\"<p>bar graph</p>\"},{\"Key\":\"C\",\"Value\":\"<p>calendar</p>\"},{\"Key\":\"D\",\"Value\":\"<p>line graph</p>\"}]",
+        "questions": "<p>A Gantt chart is a standard format for displaying project schedule information by listing project activities and their corresponding start and finish dates in a（）format.</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178115,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Symbolic</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Project</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Functional</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Matrix</p>\"}]",
+        "questions": "<p>In Rizzati Corp, vice presidents in departments such as engineering, manufacturing, IT, and human resources report directly to the chief executive officer and undertake their tasks independently of each other. The staffs of these departments have specialized skills in their respective disciplines. Which type of organizational structure does Rizatti Corp have（）?</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178116,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Software is abstract.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Software is portable.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Software wears out.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Software is logical entity.</p>\"}]",
+        "questions": "<p>Which of the following statement about software is NOT true?（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178117,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>public</p>\"},{\"Key\":\"B\",\"Value\":\"<p>friends</p>\"},{\"Key\":\"C\",\"Value\":\"<p>family</p>\"},{\"Key\":\"D\",\"Value\":\"<p>government</p>\"}]",
+        "questions": "<p>Software engineers shall act consistently with the（）interest.<br/>软件工程师应按照和（）的利益一致行事。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

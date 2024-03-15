@@ -1,0 +1,99 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45662,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178077,178078,178079,178080,178081,178082\"}",
+    "parent_id": 35133,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:15:21.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178077,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>improve readability</p>\"},{\"Key\":\"B\",\"Value\":\"<p>help the SQA team</p>\"},{\"Key\":\"C\",\"Value\":\"<p>conform to standards</p>\"},{\"Key\":\"D\",\"Value\":\"<p>please managers</p>\"}]",
+        "questions": "<p>The primary purpose of careful and nice code layout of a software system is to（）.<br/>仔细和漂亮的软件系统代码布局的主要目的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178078,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Add comments</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Use a short name of the variable</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Make a meaningful name of the variable meaningful</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Construct an appropriate layout of the code.</p>\"}]",
+        "questions": "<p>In the following statement, which cannot be a good programming practice?（）<br/>在下面的语句中，哪个不能是写代码的标准？（）</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 178079,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>In a software program, variable names should be meaningful.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>If the programmers are careful and experienced enough, they can write self-documenting code.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Comments are helpful for code readers.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>In a software program, variable names should be consistent.</p>\"}]",
+        "questions": "<p>Which of the following statements about good programming practice is wrong?（）<br/>以下语句中哪个关于良好的编程实践的描述是错误的？（）</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 178080,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>d</p>\"},{\"Key\":\"B\",\"Value\":\"<p>b</p>\"},{\"Key\":\"C\",\"Value\":\"<p>a</p>\"},{\"Key\":\"D\",\"Value\":\"<p>c</p>\"}]",
+        "questions": "<p>The following graph shows the modules of a software system, and the line in the graph shows the invocation relation between the modules. If the system is implemented and integrated using the bottom-up type, module（）is the driver of the module b.<br/>下图显示了软件系统的模块，图中的线显示了模块之间的调用关系。 如果系统是使用自底向上类型实现和集成的，模块（）是模块b的驱动程序。<br/><img src='https://168wangxiao.oss-accelerate.aliyuncs.com/education/44a4f212-eff9-4586-90bb-a0fbba960b5c.jpeg'></p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178081,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>cost</p>\"},{\"Key\":\"B\",\"Value\":\"<p>application domain</p>\"},{\"Key\":\"C\",\"Value\":\"<p>personal emotion</p>\"},{\"Key\":\"D\",\"Value\":\"<p>product efficiency</p>\"}]",
+        "questions": "<p>Which of the following will be the last one to be considered when choosing a programming language?（）<br/>在选择编程语言时，应该最后考虑以下哪项？（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178082,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Surely, integration should follow implementation.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Drivers are needed for bottom-up implementation and integration.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Drivers are needed for top-down implementation and integration.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Stubs are needed for bottom-up implementation and integration.</p>\"}]",
+        "questions": "<p>Which of the following statements is correct?（）<br/>下列哪个语句是正确的（）？</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

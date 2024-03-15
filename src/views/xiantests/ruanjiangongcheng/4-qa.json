@@ -1,0 +1,110 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 45659,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"178062,178063,178064,178065,178066,178067,178068\"}",
+    "parent_id": 35114,
+    "curriculum_id": 299,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "798",
+    "create_time": "2023-09-04T03:15:09.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 178062,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>module</p>\"},{\"Key\":\"B\",\"Value\":\"<p>document</p>\"},{\"Key\":\"C\",\"Value\":\"<p>system</p>\"},{\"Key\":\"D\",\"Value\":\"<p>project</p>\"}]",
+        "questions": "<p>A（）is a lexically contiguous sequence of program statements, bounded by boundary elements, with an aggregate identifier.</p><p>（）是由边界元素限定的具有聚合标识符的程序语句的词法连续序列。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178063,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>class</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Method</p>\"},{\"Key\":\"C\",\"Value\":\"<p>collection</p>\"},{\"Key\":\"D\",\"Value\":\"<p>function</p>\"}]",
+        "questions": "<p>Which of the following cannot be taken as a module?（）<br/>以下哪项不能作为模块？（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178064,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>common</p>\"},{\"Key\":\"B\",\"Value\":\"<p>content</p>\"},{\"Key\":\"C\",\"Value\":\"<p>stamp</p>\"},{\"Key\":\"D\",\"Value\":\"<p>data</p>\"}]",
+        "questions": "<p>Two modules are（）coupled if all parameters are homogeneous data items, simple parameters, or data structures all of whose elements are used by called module.<br/>如果所有参数都是同类数据项，简单参数或数据结构中所有的元素都由被调用的模块使用，则两个模块（）耦合。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 178065,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Inheritance</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Polymorphism</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Data encapsulation</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Message</p>\"}]",
+        "questions": "<p>（）is to encapsulate the attributes and operations in an object, and hides the internal details of an object as possible.<br/>（）是为了在一个对象中封装属性和操作，并尽可能隐藏对象的内部细节。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178066,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>Data encapsulation is a feature of object-oriented paradigm.</p>\"},{\"Key\":\"B\",\"Value\":\"<p>Information hiding is a feature of object-oriented paradigm.</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Encapsulation and information hiding mean that all the components in an object will be totally invisible from outside.</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Class is a kind of abstract data type.</p>\"}]",
+        "questions": "<p>Which of the following statements is not correct?（）<br/>下列哪个语句是不正确的？（）</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 178067,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>appropriate</p>\"},{\"Key\":\"B\",\"Value\":\"<p>safe</p>\"},{\"Key\":\"C\",\"Value\":\"<p>nice</p>\"},{\"Key\":\"D\",\"Value\":\"<p>possible</p>\"}]",
+        "questions": "<p>The strategy of inheritance is to use inheritance wherever（）.<br/>继承的策略是在（）的情况下使用继承。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 178068,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>aggregation</p>\"},{\"Key\":\"B\",\"Value\":\"<p>association</p>\"},{\"Key\":\"C\",\"Value\":\"<p>composition</p>\"},{\"Key\":\"D\",\"Value\":\"<p>inheritance</p>\"}]",
+        "questions": "<p>The relationship between super-class and subclasses is called（）.<br/>超类和子类之间的关系称为（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

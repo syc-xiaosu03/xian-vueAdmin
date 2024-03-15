@@ -1,0 +1,88 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 8331,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"100420,100418,100417,100416,100413\"}",
+    "parent_id": 4771,
+    "curriculum_id": 169,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 100413,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>ETM</p>\"},{\"Key\":\"B\",\"Value\":\"<p>NVIC</p>\"},{\"Key\":\"C\",\"Value\":\"<p>PWM</p>\"},{\"Key\":\"D\",\"Value\":\"<p>SDIO</p>\"}]",
+        "questions": "<p>下列不属于AHB总线（max 72MHz）模块的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 100416,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>EXTI</p>\"},{\"Key\":\"B\",\"Value\":\"<p>GPIO</p>\"},{\"Key\":\"C\",\"Value\":\"<p>TIMER</p>\"},{\"Key\":\"D\",\"Value\":\"<p>DAC</p>\"}]",
+        "questions": "<p>下列不属于APB2总线（max 72MHz）外设的是（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 100417,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>USB</p>\"},{\"Key\":\"B\",\"Value\":\"<p>EXTI</p>\"},{\"Key\":\"C\",\"Value\":\"<p>UART</p>\"},{\"Key\":\"D\",\"Value\":\"<p>SPI</p>\"}]",
+        "questions": "<p>下列不属于APB1总线（max 36MHz）外设的是（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 100418,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>系统时钟钟</p>\"},{\"Key\":\"B\",\"Value\":\"<p>HSE晶振时钟</p>\"},{\"Key\":\"C\",\"Value\":\"<p>HSI晶振时钟</p>\"},{\"Key\":\"D\",\"Value\":\"<p>PLL时钟</p>\"}]",
+        "questions": "<p>下列不属于动系统时钟的是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 100420,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p><img src='https://168wangxiao.oss-accelerate.aliyuncs.com/education/9cd1e787-ad84-4082-9cdf-94d7fb7ea13e.jpg'></p>\"},{\"Key\":\"B\",\"Value\":\"<p><img src='https://168wangxiao.oss-accelerate.aliyuncs.com/education/fcafbf73-1d72-44d7-afa6-5d4047866cea.jpg'></p>\"},{\"Key\":\"C\",\"Value\":\"<p><img src='https://168wangxiao.oss-accelerate.aliyuncs.com/education/10fc5a2f-de8b-449a-ad38-f57bb69144eb.jpg'></p>\"},{\"Key\":\"D\",\"Value\":\"<p><img src='https://168wangxiao.oss-accelerate.aliyuncs.com/education/88d2fe41-1ed1-4b14-bb00-75a409196434.jpg'></p>\"}]",
+        "questions": "<p>下列属于参考电压的是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

@@ -1,0 +1,99 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 44957,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": null,
+    "video": "",
+    "duration": 0,
+    "attachment": "",
+    "exercises": "{\"point\":true,\"exercises\":\"176416,176417,176418,176419,176420,176421\"}",
+    "parent_id": 32365,
+    "curriculum_id": 293,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": "903",
+    "create_time": "2023-08-16T06:44:25.000Z",
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 176416,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>32M</p>\"},{\"Key\":\"B\",\"Value\":\"<p>32K</p>\"},{\"Key\":\"C\",\"Value\":\"<p>64M</p>\"},{\"Key\":\"D\",\"Value\":\"<p>64K</p>\"}]",
+        "questions": "<p>MCS-51的程序存储器和数据存储器最大各自可扩展（）。</p>",
+        "answer": "D",
+        "ret_answer": "D",
+        "isCorrect": true
+      },
+      {
+        "id": 176417,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>看其是与RD信号连接还是与PSEN信号连接</p>\"},{\"Key\":\"B\",\"Value\":\"<p>看其位于地址范围的低端还是高端</p>\"},{\"Key\":\"C\",\"Value\":\"<p>看其离MCS-51芯片的远近</p>\"},{\"Key\":\"D\",\"Value\":\"<p>看其芯片的型号时ROM还是RAM</p>\"}]",
+        "questions": "<p>区分MCS-51片外程序存储器和片外数据存储器的最可靠的方法是（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 176418,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>地址高</p>\"},{\"Key\":\"B\",\"Value\":\"<p>译码</p>\"},{\"Key\":\"C\",\"Value\":\"<p>片选</p>\"},{\"Key\":\"D\",\"Value\":\"<p>地址低</p>\"}]",
+        "questions": "<p>在存储器扩展中，无论是线选法还是译码法，最终都是为扩展芯片的（）端提供信号。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176419,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>4</p>\"},{\"Key\":\"B\",\"Value\":\"<p>8</p>\"},{\"Key\":\"C\",\"Value\":\"<p>16</p>\"},{\"Key\":\"D\",\"Value\":\"<p>32</p>\"}]",
+        "questions": "<p>起止范围为0000H～3FFFH的存储器的容量是（）KB。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176420,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>1KB</p>\"},{\"Key\":\"B\",\"Value\":\"<p>2KB</p>\"},{\"Key\":\"C\",\"Value\":\"<p>4KB</p>\"},{\"Key\":\"D\",\"Value\":\"<p>8KB</p>\"}]",
+        "questions": "<p>若某存储器芯片地址线为12根,那么它的存储容量为（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 176421,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>MOVC A,@A + DPTR</p>\"},{\"Key\":\"B\",\"Value\":\"<p>MOV A, @R1</p>\"},{\"Key\":\"C\",\"Value\":\"<p>MOVX A, @ DPTR</p>\"},{\"Key\":\"D\",\"Value\":\"<p>MOV A, R4</p>\"}]",
+        "questions": "<p>MCS-51读取程序存储器时，采用的指令为（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}

@@ -1,0 +1,143 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+    "id": 16934,
+    "order_number": 0,
+    "title": "章节测评",
+    "learning_target": "",
+    "video": null,
+    "duration": 0,
+    "attachment": null,
+    "exercises": "{\"point\":true,\"exercises\":\"18137,18136,18135,18095,18094,103790,18092,18091,18090,18089\"}",
+    "parent_id": 16413,
+    "curriculum_id": 290,
+    "playnum": null,
+    "section_name": null,
+    "papers": null,
+    "create_by": null,
+    "create_time": null,
+    "update_by": null,
+    "update_time": null,
+    "type": 3,
+    "is_point": 1,
+    "school_year_no": 2,
+    "term_no": 2,
+    "havePoint": true,
+    "isover": true,
+    "pointType": 2,
+    "details": [
+      {
+        "id": 18089,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>协议</p>\"},{\"Key\":\"B\",\"Value\":\"<p>电子邮件</p>\"},{\"Key\":\"C\",\"Value\":\"<p>拓扑结构</p>\"},{\"Key\":\"D\",\"Value\":\"<p>网络管理员</p>\"}]",
+        "questions": "<p>网络互连时需要有（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 18090,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>网络的地址</p>\"},{\"Key\":\"B\",\"Value\":\"<p>网页的地址</p>\"},{\"Key\":\"C\",\"Value\":\"<p>IP地址</p>\"},{\"Key\":\"D\",\"Value\":\"<p>URL</p>\"}]",
+        "questions": "<p>Scrtvu.net是网路的（）。</p>",
+        "answer": "A",
+        "ret_answer": "A",
+        "isCorrect": true
+      },
+      {
+        "id": 18091,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>广域网</p>\"},{\"Key\":\"B\",\"Value\":\"<p>城域网</p>\"},{\"Key\":\"C\",\"Value\":\"<p>局域网</p>\"},{\"Key\":\"D\",\"Value\":\"<p>TCP/IP</p>\"}]",
+        "questions": "<p>四川电大网是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 18092,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>协议</p>\"},{\"Key\":\"B\",\"Value\":\"<p>网路应用软件</p>\"},{\"Key\":\"C\",\"Value\":\"<p>网络浏览软件</p>\"},{\"Key\":\"D\",\"Value\":\"<p>网络操作系统</p>\"}]",
+        "questions": "<p>Outlook Express是常用的（）。</p>",
+        "answer": "B",
+        "ret_answer": "B",
+        "isCorrect": true
+      },
+      {
+        "id": 18094,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>教育机构</p>\"},{\"Key\":\"B\",\"Value\":\"<p>军事部门</p>\"},{\"Key\":\"C\",\"Value\":\"<p>商业组织</p>\"},{\"Key\":\"D\",\"Value\":\"<p>国际组织</p>\"}]",
+        "questions": "<p>根据域名代码规定，域名为katong.com.cm网站表示的类别应是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 18095,
+        "difficulty_level": "较易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>将计算机的数字信号转换成模拟信号，以便发送</p>\"},{\"Key\":\"B\",\"Value\":\"<p>将模拟信号转换成计算机的数字信号，以便接收</p>\"},{\"Key\":\"C\",\"Value\":\"<p>将计算机数字信号与模拟信号互相转换，以便传输</p>\"},{\"Key\":\"D\",\"Value\":\"<p>为了上网与接电话两不误</p>\"}]",
+        "questions": "<p>调制解调器(Modem)的作用是（）。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      },
+      {
+        "id": 18135,
+        "difficulty_level": "较易",
+        "question_type": 4,
+        "question_type_name": "填空题",
+        "options": null,
+        "questions": "<p>有一种专门用来查找网址的网站，给上网者带来很大方便，这种网站称作（）。</p>",
+        "answer": "<p>搜索引擎</P>",
+        "ret_answer": "<p>搜索引擎</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 18136,
+        "difficulty_level": "较易",
+        "question_type": 4,
+        "question_type_name": "填空题",
+        "options": null,
+        "questions": "<p>超文本标记语言的英文缩写是（）。</p>",
+        "answer": "<p>HTML</P>",
+        "ret_answer": "<p>html</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 18137,
+        "difficulty_level": "较易",
+        "question_type": 4,
+        "question_type_name": "填空题",
+        "options": null,
+        "questions": "<p>在计算机网络中，通信双方必须共同遵守的规则或约定，称为（）。</p>",
+        "answer": "<p>协议</P>",
+        "ret_answer": "<p>网络协议</p>",
+        "isCorrect": true
+      },
+      {
+        "id": 103790,
+        "difficulty_level": "易",
+        "question_type": 1,
+        "question_type_name": "单选题",
+        "options": "[{\"Key\":\"A\",\"Value\":\"<p>局域网</p>\"},{\"Key\":\"B\",\"Value\":\"<p>城域网</p>\"},{\"Key\":\"C\",\"Value\":\"<p>广域网</p>\"},{\"Key\":\"D\",\"Value\":\"<p>都不是</p>\"}]",
+        "questions": "<p>我们平常所说的Internet是（）网。</p>",
+        "answer": "C",
+        "ret_answer": "C",
+        "isCorrect": true
+      }
+    ],
+    "isAnswer": true
+  }
+}
