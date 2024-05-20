@@ -1,0 +1,84 @@
+{
+  "paperAnswers": [
+    { "answer": ["<p>西方语文</p>"], "paperQuestionId": 52240 },
+    { "answer": ["<p>拨打114查号台</p>"], "paperQuestionId": 52254 },
+    { "answer": ["<p>G201</p>"], "paperQuestionId": 52242 },
+    { "answer": ["<p>2019年6月1日</p>"], "paperQuestionId": 52250 },
+    { "answer": ["<p>移动平台开发技术</p>"], "paperQuestionId": 52245 },
+    { "answer": ["<p>提高查全率</p>"], "paperQuestionId": 52261 },
+    { "answer": ["<p>书目</p>"], "paperQuestionId": 52256 },
+    {
+      "answer": ["<p>期刊论文、学位论文、会议论文、专利、科技报告</p>"],
+      "paperQuestionId": 52234
+    },
+    { "answer": ["<p>《反不正当竞争法》</p>"], "paperQuestionId": 52237 },
+    {
+      "answer": ["<p>《互联网群组信息服务管理规定》</p>"],
+      "paperQuestionId": 52246
+    },
+    {
+      "answer": ["<p>学士论文</p>", "<p>硕士论文</p>", "<p>博士论文</p>"],
+      "paperQuestionId": 52347
+    },
+    {
+      "answer": [
+        "<p>尽量使用权威、可靠的网站和网络正式出版物</p>",
+        "<p>如果需要利用商业网站，应尽量选择权威性高、信誉度好的机构</p>"
+      ],
+      "paperQuestionId": 52353
+    },
+    {
+      "answer": [
+        "<p>该会议为“2018年中小型公共图书馆联合会研讨会”</p>",
+        "<p>该会议于2018年10月26日在山东日照召开</p>",
+        "<p>该次会议主题为“中小图书馆的服务与创新”</p>"
+      ],
+      "paperQuestionId": 52341
+    },
+    {
+      "answer": [
+        "<p>会议名称</p>",
+        "<p>论文集检索</p>",
+        "<p>主办单位</p>",
+        "<p>网络出版投稿人</p>"
+      ],
+      "paperQuestionId": 52363
+    },
+    {
+      "answer": [
+        "<p>充分认识到信息在学习、工作和生活中的重要作用，遇到问题时首先应该想到通过信息的获取和利用来解决所遇到的问题</p>",
+        "<p>对信息具有敏锐的感知力和洞察力，能高效、快速识别有价值的信息，善于从所获取的信息中找出解决问题的思路、线索或方案</p>",
+        "<p>对信息具有积极的内在需求，善于根据社会需要主动发现自身的信息需求</p>",
+        "<p>具有通过获取信息强化自身学习能力的想法和观念，遇到不懂的东西能积极主动的通过获取信息找寻答案</p>"
+      ],
+      "paperQuestionId": 52339
+    },
+    { "answer": ["对"], "paperQuestionId": 52317 },
+    { "answer": ["错"], "paperQuestionId": 52315 },
+    { "answer": ["错"], "paperQuestionId": 52301 },
+    { "answer": ["对"], "paperQuestionId": 52326 },
+    { "answer": ["对"], "paperQuestionId": 52299 },
+    { "answer": ["错"], "paperQuestionId": 52295 },
+    { "answer": ["对"], "paperQuestionId": 52327 },
+    { "answer": ["错"], "paperQuestionId": 52325 },
+    { "answer": ["对"], "paperQuestionId": 52324 },
+    { "answer": ["错"], "paperQuestionId": 52306 },
+    { "answer": ["<p>地区码, 即: 中国</p>"], "paperQuestionId": 52266 },
+    { "answer": ["<p>搜索引擎</p>"], "paperQuestionId": 52290 },
+    { "answer": ["<p>专利说明书</p>"], "paperQuestionId": 52268 },
+    { "answer": ["<p>下载</p>"], "paperQuestionId": 52273 },
+    { "answer": ["<p>中国期刊全文数据库</p>"], "paperQuestionId": 52287 },
+    {
+      "answer": [
+        "<p>答: 百度支持布尔逻辑检索、字段限制检索、短语检索、在检索结果中精练检索、相关搜索、拼音提示和繁简中文查询等,提供丰富的专项搜索,包括图书搜索、百度国学、专利搜索和法律搜索等学术资源搜索,专门针对特定对象开发的少儿搜索和老年搜索,MP3搜索、视频搜索和图片搜索等多类型资源搜索。</p>"
+      ],
+      "paperQuestionId": 52371
+    }
+  ],
+  "paperId": 2148462615,
+  "paperStartTime": "2024-05-20 16:36:31",
+  "studentId": "39270",
+  "examId": 2141355135,
+  "remark": 2,
+  "id": 2146157227
+}

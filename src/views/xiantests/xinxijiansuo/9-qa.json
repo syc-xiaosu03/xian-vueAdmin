@@ -1,0 +1,93 @@
+{
+  "errCode": 200,
+  "message": "操作成功",
+  "data": {
+      "id": 9507,
+      "order_number": 0,
+      "title": "章节测评",
+      "learning_target": "",
+      "video": null,
+      "duration": 0,
+      "attachment": null,
+      "exercises": "{\"point\":true,\"exercises\":\"100944,100943,100947,100946,100945\"}",
+      "parent_id": 8893,
+      "curriculum_id": 212,
+      "playnum": null,
+      "section_name": null,
+      "papers": null,
+      "create_by": null,
+      "create_time": null,
+      "update_by": null,
+      "update_time": null,
+      "type": 3,
+      "is_point": 1,
+      "school_year_no": 3,
+      "term_no": 1,
+      "havePoint": true,
+      "isover": true,
+      "pointType": 2,
+      "details": [
+          {
+              "id": 100943,
+              "difficulty_level": "易",
+              "question_type": 1,
+              "question_type_name": "单选题",
+              "options": "[{\"Key\":\"A\",\"Value\":\"<p>维普</p>\"},{\"Key\":\"B\",\"Value\":\"<p>CNKI</p>\"},{\"Key\":\"C\",\"Value\":\"<p>万方数字化期刊</p>\"},{\"Key\":\"D\",\"Value\":\"<p>以上都是</p>\"}]",
+              "questions": "<p>在科技查新中以下哪些中文数据库较为重要（）。</p>",
+              "answer": "D",
+              "answer_analysis": "<p>无</p>",
+              "ret_answer": "D",
+              "isCorrect": true
+          },
+          {
+              "id": 100944,
+              "difficulty_level": "易",
+              "question_type": 1,
+              "question_type_name": "单选题",
+              "options": "[{\"Key\":\"A\",\"Value\":\"<p>申请专利</p>\"},{\"Key\":\"B\",\"Value\":\"<p>论文写作、学位论文开题</p>\"},{\"Key\":\"C\",\"Value\":\"<p>成果验收、评估、鉴定、转化、转让</p>\"},{\"Key\":\"D\",\"Value\":\"<p>以上都是</p>\"}]",
+              "questions": "<p>信息检索在以下哪些工作中有重要作用（）。</p>",
+              "answer": "D",
+              "answer_analysis": "<p>无</p>",
+              "ret_answer": "D",
+              "isCorrect": true
+          },
+          {
+              "id": 100945,
+              "difficulty_level": "易",
+              "question_type": 2,
+              "question_type_name": "多选题",
+              "options": "[{\"Key\":\"A\",\"Value\":\"<p>研究</p>\"},{\"Key\":\"B\",\"Value\":\"<p>生活</p>\"},{\"Key\":\"C\",\"Value\":\"<p>学习</p>\"},{\"Key\":\"D\",\"Value\":\"<p>工作</p>\"}]",
+              "questions": "<p>信息检索可以应用在以下哪些方面（）。</p>",
+              "answer": "ABCD",
+              "answer_analysis": "<p>无</p>",
+              "ret_answer": "ABCD",
+              "isCorrect": true
+          },
+          {
+              "id": 100946,
+              "difficulty_level": "较易",
+              "question_type": 2,
+              "question_type_name": "多选题",
+              "options": "[{\"Key\":\"A\",\"Value\":\"<p>ProQuest</p>\"},{\"Key\":\"B\",\"Value\":\"<p>CA,BIOSIS,MEDLINE,EI,CompendexWeb</p>\"},{\"Key\":\"C\",\"Value\":\"<p>Science Direct Online</p>\"},{\"Key\":\"D\",\"Value\":\"<p>Web of Science</p>\"}]",
+              "questions": "<p>在科技查新中以下哪些外文数据库较为重要（）。</p>",
+              "answer": "ABCD",
+              "answer_analysis": "<p>无</p>",
+              "ret_answer": "ABCD",
+              "isCorrect": true
+          },
+          {
+              "id": 100947,
+              "difficulty_level": "易",
+              "question_type": 2,
+              "question_type_name": "多选题",
+              "options": "[{\"Key\":\"A\",\"Value\":\"<p>WOS:Scientific WebPlus</p>\"},{\"Key\":\"B\",\"Value\":\"<p>学科库(Subject Repositories)</p>\"},{\"Key\":\"C\",\"Value\":\"<p>机构库(Institutional Repositories)</p>\"},{\"Key\":\"D\",\"Value\":\"<p>WOS:Current Contents Connect (CCC)</p>\"}]",
+              "questions": "<p>以下哪些可以查找最新的成果（）。</p>",
+              "answer": "ABCD",
+              "answer_analysis": "<p>无</p>",
+              "ret_answer": "ABCD",
+              "isCorrect": true
+          }
+      ],
+      "isAnswer": true
+  }
+}

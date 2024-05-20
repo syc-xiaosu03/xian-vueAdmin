@@ -144,6 +144,12 @@ export const constantRoutes = [
         component: () => import('@/views/xian/4qi/ruanjiangongcheng/index'),
         name: 'xian-ruanjiangongcheng',
         meta: { title: '软件工程' }
+      },
+      {
+        path: '/xian/xinxijiansuo',
+        component: () => import('@/views/xian/5xueqi/xinxijiansuo/index'),
+        name: 'xian-xinxijiansuo',
+        meta: { title: '信息检索' }
       }
     ]
   },
@@ -204,6 +210,12 @@ export const constantRoutes = [
         component: () => import('@/views/xiantests/ruanjiangongcheng/index'), // Parent router-view
         name: 'xiantests-ruanjiangongcheng',
         meta: { title: '软件工程' }
+      },
+      {
+        path: '/xiantests/xinxijiansuo',
+        component: () => import('@/views/xiantests/xinxijiansuo/index'), // Parent router-view
+        name: 'xiantests-xinxijiansuo',
+        meta: { title: '信息检索' }
       }
     ]
   },
